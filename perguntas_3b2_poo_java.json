@@ -1,0 +1,936 @@
+[
+  {
+    "textoDaPergunta": "Pergunta a01 ___ O uso dos métodos públicos get e set é importante para a programação orientada a objetos. Em linguagem Java, esses métodos são criados para recuperar e atribuir, respectively, os valores aos atributos de uma classe. Nesse contexto, analise as asserções a seguir e a relação proposta entre elas.\nI. A importância do uso dos getters e setters está relacionada à proteção dos atributos de uma classe frente a possíveis acessos indevidos que possam comprometer a integridade dos dados. \nII. Os métodos getters garantem a proteção dos atributos de acesso não autorizado e setters permitem a criação de instruções validadoras dos dados, garantindo, assim, a integridade dos valores.\nAnalisando essas asserções, é correto afirmar que:",
+    "opcoes": [
+      "a. a primeira asserção é falsa e a segunda é verdadeira.",
+      "b. as duas asserções são verdadeiras e a segunda justifica a primeira.",
+      "c. a primeira asserção é verdadeira e a segunda é falsa.",
+      "d. as duas asserções são falsas.",
+      "e. as duas asserções são verdadeiras, mas a segunda não justifica a primeira."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A primeira proposição está correta, pois, de fato, em relação aos atributos de uma classe, quando privados, o acesso ou a atribuição de valores ocorrem somente quando são utilizados os métodos públicos de acesso getters e setters. A segunda proposição está correta e justifica a primeira, pois, quando esses métodos são bem definidos, com a inclusão de código validador internamente, existe uma proteção da integridade dos dados da classe. Além de garantir a proteção dos atributos de acesso não autorizado, utilizando os métodos getters como afirma a primeira proposição, existe a possibilidade de validação desses dados dentro dos métodos setters, para que haja uma garantia ainda maior da integridade dos dados (como justifica a importância do uso dos getters e setters na segunda proposição)."
+  },
+  {
+    "textoDaPergunta": "Pergunta a02 ___ Na linguagem Java, para que uma classe seja executada, é necessário que ela contenha um método denominado “main()”, com as instruções de início do programa em seu conteúdo. Considerando o método “main” em linguagem Java, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s). \nI. ( ) O método “main” é declarado dentro de uma classe que tenha um identificador válido, por exemplo, “Teste”.\nII. ( ) É possível e importante ter mais de um método “main” dentro de uma classe, a fim de otimizar o código. \nIII. ( ) O método “main” dentro de uma classe, para que execute e seja visível, é definido como público e estático.\nIV. ( ) O método “main” tem um parâmetro “args”, definido como um vetor de strings.\nAssinale a alternativa que apresenta a sequência correta.",
+    "opcoes": [
+      "a. V, V, F, F.",
+      "b. F, F, F, V.",
+      "c. V, F, V, V.",
+      "d. V, F, V, F.",
+      "e. F, V, V, V."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A afirmativa I é verdadeira, pois o método “main” é responsável por tornar uma classe Java executável que tenha um identificador válido. A afirmativa II é falsa, pois o método “main” deve ser usado uma única vez, dentro de uma classe Java. A alternativa III é verdadeira, pois o método “main” deve ser declarado dentro de uma classe que tenha um identificador válido, é declarado de forma pública, para que seja visto pelo comando de execução da classe, e deve ser declarado como estático. A alternativa IV é verdadeira, pois o método “main(String[] args)” tem o parâmetro “args”, que é um vetor de strings."
+  },
+  {
+    "textoDaPergunta": "Pergunta a03 ___ Os paradigmas de programação visam classificar as linguagens de programação de acordo com suas funcionalidades. Nesse sentido, um paradigma fornece e determina a visão que o programador tem sobre a estruturação e a execução do programa. Qual o paradigma em que o programador modela o problema, por meio de classes que representam objetos e situações do mundo real utilizando um encapsulamento de funcionalidades? Assinale a alternativa correta.",
+    "opcoes": [
+      "a. Programação declarativa.",
+      "b. Programação de baixo nível.",
+      "c. Programação funcional.",
+      "d. Programação orientada a objetos.",
+      "e. Programação procedural."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A programação declarativa utiliza palavras-chave, também conhecidas como tags ou assertivas, e é muito utilizada como linguagens de marcação e para a busca de dados em bancos de dados, como a linguagem SQL. A programação funcional é organizada em funções e utiliza a lógica tradicional de programação, sem usar assertivas. A programação orientada a objetos trabalha com classes que funcionam como moldes para os objetos existentes no mundo real. Na programação procedural o foco está na execução de procedimentos."
+  },
+  {
+    "textoDaPergunta": "Pergunta a04 ___ O paradigma de programação busca resolver problemas por meio de alguma linguagem de programação, utilizando algumas técnicas e/ou ferramentas disponíveis para nós. Pela transparência referencial, o resultado de uma função será o mesmo para um dado conjunto de parâmetros, não importando onde ou quando seja avaliada. Trata-se de um paradigma de programação em que tentamos vincular tudo no estilo de funções matemáticas puras. É um tipo declarativo de estilo de programação. Dessa forma, assinale a seguir a alternativa que apresenta corretamente o paradigma de que estamos falando.",
+    "opcoes": [
+      "a. Orientado a agentes",
+      "b. Imperativo",
+      "c. Funcional",
+      "d. Orientado a objetos",
+      "e. Lógico"
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "Uma expressão é chamada “referencialmente transparente” quando pode ser substituída pelo seu valor correspondente sem que isso modifique o comportamento do programa. Como resultado, avaliar uma função referencialmente transparente nos fornece sempre o mesmo resultado para um mesmo conjunto de argumentos. Na matemática, todas as funções são referencialmente transparentes por definição. Entretanto, na computação, isso nem sempre é verdade. Por esse motivo, os termos “procedimento” e “método” são utilizados para evitar confusões com o conceito matemático de função. Em linguagens ditas funcionais, apenas funções referencialmente transparentes são consideradas, e isso permite que as ferramentas de interpretação executem diversas análises e otimizações no código-fonte."
+  },
+  {
+    "textoDaPergunta": "Pergunta a05 ___ Scanner é uma classe pertencente ao pacote java.util, relacionada com a obtenção de dados de entrada de tipos variados, como int, double e strings. [...] Para criar um objeto da classe Scanner, normalmente passamos o objeto predefinido System.in, que representa o fluxo de entrada padrão. [...] Considerando o apresentado, analise as afirmativas a seguir.\nI. Para ler valores numéricos de um determinado tipo de dados XYZ, a função a ser usada é nextXYZ(). Por exemplo, para ler um valor do tipo short, podemos usar nextShort().\nII. Para ler strings, usamos nextLine(). Essa função permite que, para cada linha de entrada, seja feita a leitura, sem possibilidade de salvar o que foi lido.\nIII. Para ler um único caractere, usamos next().charAt(0). A função next() retorna o próximo token/palavra na entrada como uma string, e charAt(0), o primeiro caractere dessa string.\nIV. A classe Scanner lê uma linha inteira e divide em tokens. Tokens são pequenos elementos que têm algum significado para o compilador Java.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. II, III e IV, apenas",
+      "b. I, II e III, apenas",
+      "c. I e II, apenas",
+      "d. I, II, III e IV",
+      "e. I, III e IV, apenas"
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I está correta, pois o next prepara a leitura para uma próxima entrada, indicando, posteriormente, o tipo de dado que será inserido para o correto armazenamento e para a correta interpretação no programa. A afirmativa II está incorreta. De fato, usamos o nextLine() para ler uma string. Contudo, por meio dessa leitura, é permitido utilizar funções e variáveis para armazenar e utilizar aquilo que foi lido. A afirmativa III está correta, pois a função next() sempre vai indicar ideia de “seguinte”, “próximo” e, no caso, a próxima string ou caractere de entrada. Utilizamos o charAt(pos) para indicar o caractere em determinada posição “pos”. Nesse caso, charAt(0) é a primeira posição de sua sentença recebida. A afirmativa IV também está correta. Para entender como um todo, o compilador se comporta como nós entendemos um texto e seu significado: dividindo os termos, interpretando cada palavra para um significado no Java, definindo o que é símbolo, palavra reservada, variável etc."
+  },
+  {
+    "textoDaPergunta": "Pergunta a06 ___ A maioria das declarações de atributos possuem a palavra-chave private como modificador de acesso. Membros privados (atributos e métodos) são acessíveis apenas dentro da classe em que são declarados ou dentro de classes internas. Assinale a seguir a alternativa que apresenta a utilização correta do modificador e sua função:",
+    "opcoes": [
+      "a. int private nome_variavel01",
+      "b. private nome_variavel int 01",
+      "c. public private int nome_variavel",
+      "d. private int nome_variavel01",
+      "e. private int nome_variavel 01"
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A declaração de variável na linguagem Java obedece à seguinte ordem: modificador de acesso, tipo de variável, nome da variável. Além disso, não se pode utilizar espaços nem palavras reservadas na nomenclatura de variáveis."
+  },
+  {
+    "textoDaPergunta": "Pergunta a07 ___ A programação orientada a objetos é definida como um paradigma de programação (e não uma linguagem específica) construído em torno do conceito de objetos. Dentre os diversos paradigmas e expressões relacionados à programação orientada a objetos, a abstração diz respeito a:",
+    "opcoes": [
+      "a. Esconder detalhes não essenciais e apenas mostrar o que é mais relevante",
+      "b. Utilizar métodos com mesmo nome, sendo diferenciados apenas pelos parâmetros",
+      "c. Inacessibilidade de código a outras partes, a fim de proteger e manter sua integridade",
+      "d. Uma camada de abstração, dependendo do que é relevante para o desenvolvedor",
+      "e. Diversas camadas de abstração, dependendo do contexto e dos paradigmas da linguagem"
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A abstração é um conceito que diz respeito a esconder detalhes não essenciais e mostrar apenas o que é mais relevante. Em suma, são feitas a modelagem e a programação apenas das propriedades mais comuns de um certo conjunto de dados e objetos, sendo os detalhes omitidos do usuário."
+  },
+  {
+    "textoDaPergunta": "Pergunta a08 ___ Observe a figura a seguir.\n\npublic class Account {\n  private String name; //variavel de instância\n\n  //método para definir o nome no objeto\n  public void setName(String name){  \n    this.name = name; //armazena o nome\n  }  \n  //método para recuperar o nome do objeto\n  public String getName(){  \n    return name;  \n  }  \n} //fim da classe Account\n\nDiferentes contas, normalmente, têm diferentes nomes. Por essa razão, a classe Account contém uma variável de instância name. A variável “distância de uma classe” armazena dados para cada tipo de objeto da classe.\nNesse sentido, analise as afirmativas a seguir.\nI. A palavra-chave public é considerada um modificador de acesso, podendo ser aplicada para atributos e métodos de uma classe.\nII. Uma variável é um contêiner que contém o valor enquanto o programa Java é executado, representado por espaço de memória no sistema.\nIII. O método getName(), apresentado no código, detém a característica de encapsulamento na linguagem utilizada.\nIV. Classe contém zero ou no máximo um método para manipulação de objetos necessário para alteração do estado de um objeto criado.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. II, III e IV, apenas",
+      "b. I, III e IV, apenas",
+      "c. II e III, apenas",
+      "d. I, II, III e IV",
+      "e. I, II e III, apenas"
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I está correta, pois public é um modificador que permite que uma classe ou método acesse métodos ou atributos caracterizados como públicos em uma classe. A afirmativa II também está correta, uma vez que a variável é caracterizada como um espaço alocado na memória para realização de operações e armazenamento de valores durante a execução do programa. A afirmativa III, igualmente, está correta, já que, com o uso do private no atributo name, este se torna “invisível” para classes externas, sendo necessário o encapsulamento por meio de métodos públicos para sua manipulação. A afirmativa IV está incorreta, pois uma classe pode conter inúmeros métodos para manipulação, conforme sua execução for necessária."
+  },
+  {
+    "textoDaPergunta": "Pergunta a09 ___ Na linguagem Java, em todas as suas versões, o uso de construtores é necessário para a criação de objetos de uma classe, ou seja, para criar uma nova instância de uma classe. Nesse contexto, considere o código a seguir. \n\npublic class Pessoa {\n    private String nome;\n    private String sexo;\n    public Pessoa(String _nome, String _sexo) {\n        this.nome = _nome;\n        this.sexo = _sexo;\n    }\n}\n\nEm relação ao código apresentado, analise as afirmativas a seguir.\nI. O construtor da classe “pessoa” tem dois parâmetros que funcionam como variáveis locais.\nII. O construtor utiliza os parâmetros para setar os valores dos atributos “nome” e “sexo”.\nIII. Não é obrigatório o uso dos parâmetros no construtor de uma classe, sendo que a declaração poderia estar vazia. \nIV. O construtor da classe na maioria dos casos é declarado como público, para que esteja visível e seja utilizável por outras classes.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I e II, apenas.",
+      "b. II, apenas.",
+      "c. I, II e III, apenas.",
+      "d. I, II, III e IV.",
+      "e. I, III e IV, apenas."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A afirmativa I está correta, pois o código apresentado, referente à classe “pessoa”, tem um construtor que utiliza dois parâmetros. A afirmativa II está correta, pois o método utiliza os parâmetros para setar os valores dos atributos “nome” e “sexo” da classe. A afirmativa III está correta, pois não é obrigatória essa utilização. O construtor poderia não ter parâmetros, e a classe poderia utilizar os métodos getters e setters para a recuperação e a atribuição de valores dos atributos. A afirmativa IV está correta, pois o construtor na maioria dos casos é declarado como público, para que esteja visível para as outras classes. Construtores privados são usados, por exemplo, no padrão de projeto Singleton."
+  },
+  {
+    "textoDaPergunta": "Pergunta b01 ___ Na linguagem Java, uma “[...] variável do tipo primitivo pode armazenar exatamente um valor de seu tipo declarado por vez. [...]” (DEITEL; DEITEL, 2016, p. 64). [...] Sobre variáveis locais, globais, de tipos primitivos e por referência, analise as afirmativas a seguir.\nI.   Uma vez instanciadas, as variáveis globais não poderão ter seu valor alterado, pois se comportam como uma variável cujo valor inicial será fixo durante toda a execução do programa.\nII.  Na perspectiva do programador, as informações de uma variável primitiva são armazenadas como valor dessa variável, efetivamente. Na referência, existe uma associação relacionada às informações dessa variável.\nIII. Os atributos são as informações armazenadas e definidas no modelo de classe. Quando objetos são instanciados (construídos e inicializados), cada um contém sua identidade, ou seja, seus dados são armazenados no campo de atributos do objeto.\nIV.  Uma variável local é declarada dentro da função ou um argumento é passado para uma função. Como podemos observar em diversas programações, se declararmos variáveis em uma função, só poderemos usá-las dentro dessa função.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I e III, apenas",
+      "b. I e II, apenas",
+      "c. I, II e IV, apenas",
+      "d. II e III, apenas",
+      "e. II, III e IV, apenas"
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I está incorreta. Por serem variáveis globais, exceto se forem definidas como finais, podem ser alteradas em qualquer parte da classe em que estão localizadas. A afirmativa II está correta, uma vez que esse armazenamento de primitivas é realizado, por padrão, sem a utilização de referências. A afirmativa III também está correta, pois os atributos fazem parte do modelo da classe e, a partir da instância de um objeto, terão valores individuais. A afirmativa IV, igualmente, está correta, pois as variáveis locais pertencem a um escopo local, ou seja, apenas onde são criadas para fins de cálculos e/ou de armazenamentos e operações."
+  },
+  {
+    "textoDaPergunta": "Pergunta b02 ___ Os modificadores de acesso em Java especificam a acessibilidade ou escopo de um campo, método, construtor ou classe. [...] Considerando as descrições e os modificadores de acesso, analise os conceitos e termos a seguir.\n\n1. public.\n2. protected.\n3. private.\n4. default.\n\nI. O nível de acesso desse modificador é apenas dentro da classe. Não pode ser acessado de fora da classe.\nII. O seu nível de acesso está apenas dentro do pacote. Não pode ser acessado de fora do pacote. Se você não especificar nenhum nível de acesso, este será o nível de acesso.\nIII. O nível de acesso está dentro e fora do pacote por meio da classe filha. Se você não criar a classe filha, ela não poderá ser acessada de fora do pacote.\nIV. O nível de acesso de um modificador desse tipo está em toda parte. Ele pode ser acessado de dentro ou fora da classe, bem como de dentro ou fora do pacote.\nAssinale a seguir a alternativa que correlaciona corretamente os dois grupos de informação:",
+    "opcoes": [
+      "a. 1-II; 2-I; 3-III; 4-IV",
+      "b. 1-IV; 2-I; 3-III; 4-II",
+      "c. 1-I; 2-II; 3-III; 4-IV",
+      "d. 1-III; 2-II; 3-IV; 4-I",
+      "e. 1-IV; 2-III; 3-I; 4-II"
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "O conceito I se enquadra no termo 3, pois o modificador private restringe o acesso a um atributo apenas à classe em que está inserido. O conceito II se enquadra no termo 4, uma vez que o modificador default se restringe ao pacote em que a classe correspondente está inserida. O conceito III se enquadra no termo 2, pois o modificador protected restringe o acesso ao nível de pacote na codificação Java, com acesso externo apenas por meio de sua importação na classe filha. O conceito IV se enquadra no termo 1, pois o modificador public permite que uma variável ou método seja acessado tanto de forma interna quanto de forma externa à classe ou ao pacote em que está inserido."
+  },
+  {
+    "textoDaPergunta": "Pergunta b03 ___ Um dos conceitos relacionados à programação orientada a objetos em Java é o de abstração, que é o ato de representar os principais recursos sem incluir informações de suporte. [...] Como base nos conceitos de abstração, analise as asserções a seguir e a relação proposta entre elas.\nI. Em Java, a abstração fornece segurança, mostrando os detalhes essenciais e ocultando certos detalhes do usuário. Para criar uma classe ou método abstrato, a palavra-chave abstract é utilizada.\nPOIS\nII. As propriedades e os comportamentos de um objeto são essenciais para diferenciá-lo de outros objetos de tipo semelhante, além de auxiliar na classificação desses objetos.\nSobre as asserções, assinale a alternativa correta a seguir.",
+    "opcoes": [
+      "a. As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.",
+      "b. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.",
+      "c. As asserções I e II são proposições falsas.",
+      "d. A asserção I é uma proposição falsa, e a asserção II é uma proposição verdadeira.",
+      "e. A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A asserção I é uma proposição verdadeira, pois a abstração limita-se a detalhes essenciais, evitando o trabalho de extração, com ganho de custo e de desempenho. A asserção II também é uma proposição verdadeira, pois um objeto é caracterizado pela sua identidade, ou seja, ainda que tenham mesmos atributos e métodos, serão objetos diferentes, como automóveis de uma mesma linha de produção. Porém, ainda que ambas sejam proposições verdadeiras, não possuem relação direta; portanto, a asserção II não é uma justificativa correta da I."
+  },
+  {
+    "textoDaPergunta": "Pergunta b04 ___ Em Java, variável é um contêiner de dados que salva os valores de dados durante a execução do programa. [...] Quanto ao uso de variáveis em Java, analise as afirmativas a seguir.\nI. Para atribuir dados a uma variável, especificamos o nome da variável e, em seguida, o operador de atribuição = , seguido de um valor que corresponda ao tipo de dados.\nII. Só usamos o tipo de dados no código quando estamos declarando ou inicializando a variável, e não ao atribuir ou alterar um valor.\nIII. Podemos declarar ou inicializar várias variáveis de mesmo tipo ao mesmo tempo em Java separando cada nome por ponto e vírgula, não sendo possível atribuir valores.\nIV. Uma constante é um item de dados cujo valor não pode mudar durante a execução do programa. Assim, como o próprio nome indica, o valor é constante.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I e II, apenas",
+      "b. I e III, apenas",
+      "c. I, II e IV, apenas",
+      "d. I, III e IV, apenas",
+      "e. II e III, apenas"
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A afirmativa I está correta, pois essa é a forma própria do Java e de outras linguagens de programação realizarem operação de atribuição a uma variável. A afirmativa II também está correta, já que, após a realização da tipagem da variável, poderá ocorrer um erro se tentarmos utilizar mais uma vez o tipo dessa variável previamente criada. A afirmativa III está incorreta, pois a separação na declaração de variáveis de mesmo tipo ao mesmo tempo é realizada por meio de vírgula, permitindo, inclusive, atribuição individual de valores. A afirmativa IV está correta, pois, como o nome indica, uma constante é qualquer elemento cujo valor, uma vez definido, não terá alteração na execução do programa."
+  },
+  {
+    "textoDaPergunta": "Pergunta b05 ___ Na programação orientada a objetos, “[...] classes internas são definidas dentro de outras classes [...]”. Desse modo, as “[...] classes internas podem ter acesso a dados privados das classes nas quais elas estão inseridas” (FÉLIX, 2016, p. 16). [...] Considerando o apresentado, analise as asserções a seguir e a relação proposta entre elas.\nI. A classe interna poderá conter o que uma classe considerada “normal” possui, como variáveis e métodos, além de membros estáticos.\nPOIS\nII. A utilização de membros estáticos em uma classe interna informa ao compilador Java que essa classe será interpretada separadamente.\nA respeito das asserções, assinale a alternativa correta a seguir.",
+    "opcoes": [
+      "a. As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.",
+      "b. A asserção I é uma proposição falsa, e a asserção II é uma proposição verdadeira.",
+      "c. A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa.",
+      "d. As asserções I e II são proposições falsas.",
+      "e. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A asserção I é uma proposição falsa, pois uma classe interna não poderá conter membros estáticos, necessitando de uma implementação independente. Classes internas, em Java, são as classes definidas dentro do escopo de outra classe. As classes internas também são chamadas de classes aninhadas. Isso ajuda a ter uma fácil documentação e uma melhor manutenção do código. A asserção II também é uma proposição falsa, uma vez que membros estáticos, em uma classe interna, implicará erro na compilação. A partir da versão 16, é possível a utilização da classe estática, mas isso não infere em uma compilação separada."
+  },
+  {
+    "textoDaPergunta": "Pergunta b06 ___ Quando se fala em programação orientada a objetos, uma das principais características é poder conectar partes de um determinado programa que funcionam, aparentemente, de forma isolada. [...] Conforme o enunciado e os conceitos de encapsulamento, analise as asserções a seguir e a relação proposta entre elas.\nI. No encapsulamento, as informações importantes estão contidas dentro de um objeto e apenas as informações selecionadas e essenciais são expostas.\nPOIS\nII. A implementação e o estado de cada objeto no encapsulamento são mantidos em uma classe definida, fazendo com que outros objetos não tenham acesso a essa classe.\nA respeito das asserções, assinale a alternativa correta a seguir.",
+    "opcoes": [
+      "a. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.",
+      "b. As asserções I e II são proposições falsas",
+      "c. As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.",
+      "d. A asserção I é uma proposição falsa, e a asserção II é uma proposição verdadeira",
+      "e. A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa"
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A asserção I é uma proposição verdadeira, pois, no encapsulamento, você protege métodos ou atributos que não necessitam estar expostos a alterações ou acessos indevidos, sendo seus valores acessados por métodos públicos. A asserção II também é uma proposição verdadeira, pois cada implementação do encapsulamento é feita dentro da classe, de forma que os métodos externos não consigam acessá-la. Pela relação de causalidade, a asserção II é uma justificativa correta da I."
+  },
+  {
+    "textoDaPergunta": "Pergunta b07 ___ Na programação orientada a objetos, as classes são moldes que permitem a criação de novos objetos e descrevem as características comuns de vários objetos. A linguagem Java é orientada a objetos e permite a criação de classes e objetos a partir de simples comandos. Como é feita a criação de uma instância para uma classe “Carro” na linguagem Java? Assinale a alternativa correta.",
+    "opcoes": [
+      "a. public void static carro(String[] args);",
+      "b. new carro = Carro() ;",
+      "c. public Carro();",
+      "d. Carro carro = new Carro();",
+      "e. Carro carro = Carro();"
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "Na programação orientada a objetos, os principais conceitos são os de classes e objetos. As classes são o molde do objeto que, ao ser criado, terá os mesmos atributos e métodos, mas poderão assumir diferentes valores para seus atributos."
+  },
+  {
+    "textoDaPergunta": "Pergunta b08 ___ Na programação orientada a objetos, utilizamos o conceito de classes e objetos. Uma analogia que podemos fazer é a de um projeto de uma casa, que podemos utilizar para construir várias casas, com as mesmas características. Em relação a esses aspectos, assinale a alternativa correta.",
+    "opcoes": [
+      "a. Os objetos instanciados podem ter valores diferentes para seus atributos.",
+      "b. Uma classe é uma instância de um objeto.",
+      "c. Uma classe é uma entidade concreta do mundo real.",
+      "d. Os objetos instanciados de uma classe têm os mesmos valores para seus atributos.",
+      "e. Classes e objetos são sinônimos, na programação orientada a objetos."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "Os objetos instanciados podem ter valores distintos em seus atributos, pois, apesar de serem baseados na mesma classe, ocupam endereços distintos na memória. Uma classe é um modelo para a geração de objetos que representam entidades do mundo real. Como podemos ter diversas instâncias na memória de um objeto, podemos ter valores diferentes em seus atributos. Um objeto é uma instância de uma classe, que é um molde para o objeto, por isso, classes e objetos não são sinônimos, em programação orientada a objetos."
+  },
+  {
+    "textoDaPergunta": "Pergunta b09 ___ Considere uma classe “Calculo”, que solicita dois valores ao usuário e realiza a soma desses valores, conforme o código em linguagem Java (em qualquer versão) a seguir.\n\npublic class Calculo {\n  public static void main(String[] args) {    \n    Scanner entrada = new Scanner(System.in);       \n    System.out.println(\"Informe o primeiro termo:\");\n    int a = entrada.nextInt();\n    System.out.println(\"Informe o segundo termo:\");\n    int b = entrada.nextInt();\n    int c = calculo(a, b);\n    System.out.println(\"O resultado é \" + c);    \n  }    \n  private static int calculo (int a, int b) {\n    return a + b;\n  }    \n}\n\nAnalise o código apresentado e assinale a alternativa correta.",
+    "opcoes": [
+      "a. As variáveis “a” e “b” são consideradas atributos da classe “Calculo”, por isso, são redundantes no método.",
+      "b. O método “main” é público e tem um retorno do tipo inteiro, para permitir a realização do cálculo.",
+      "c. O método “calculo” não poderia receber esse nome, pois a classe “Calculo” tem o mesmo identificador.",
+      "d. Os métodos “main” e “calculo” precisam ter o mesmo modificador de acesso, para que o programa funcione.",
+      "e. Os parâmetros “a” e “b” do método “calculo” são do tipo inteiro e considerados variáveis locais ao método."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "O método “main” é público, porém seu retorno é vazio. Além disso, quem realiza o cálculo é o método “calculo”. O funcionamento dos métodos “main” e “calculo” é independente do seu tipo de retorno; nesse caso, o método “main” é vazio e o método “calculo” retorna um valor inteiro. Os parâmetros utilizados por qualquer método são considerados variáveis locais ao método. No caso do método “calculo”, as variáveis são do tipo inteiro. No código apresentado, as variáveis “a” e “b” não foram declaradas como atributos da classe, mas como parâmetros do método “calculo”. A linguagem Java é case-sensitive, ou seja, os identificadores “Calculo” e “calculo” são interpretados como distintos pela linguagem."
+  },
+  {
+    "textoDaPergunta": "Pergunta b10 ___ Considere a classe “Pessoa”, definida pelo código em linguagem Java (em qualquer versão):\n\npublic class Pessoa {\n    private String nome;\n    private String sexo;\n    private String email;\n    public Pessoa() {    \n    }\n}    \n\nConsiderando o pilar de encapsulamento, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para (a) falsa(s). \nI. ( ) Para encapsular os atributos “nome”, “sexo” e “e-mail”, é necessário criar os métodos getters e setters para esses atributos.\nII. ( ) O código do método get, para o atributo “nome”, pode ser: public String getNome(String _nome) {return _nome;} \nIII. ( ) O código do método set, para o atributo “nome”, pode ser: public void setNome(String nome) {this.nome = nome;} \nIV. ( ) O código do método get, para o atributo “sexo”, pode ser: public String getSexo() {return sexo;} \nAssinale a alternativa que apresenta a sequência correta.",
+    "opcoes": [
+      "a. V, F, V, V.",
+      "b. V, F, V, F.",
+      "c. F, V, V, V.",
+      "d. F, F, F, V.",
+      "e. V, V, F, F."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A afirmativa I é verdadeira, pois o encapsulamento de atributos é realizado pelos métodos getters e setters. A afirmativa II é falsa, pois o código do método get, para o atributo “nome”, pode ser: public String getNome() {  return this.nome; }. A afirmativa III é verdadeira, pois o código do método set, para o atributo “nome”, pode ser: public void setNome(String nome) {  this.nome = nome; }. A afirmativa IV é verdadeira, pois o código do método get, para o atributo “sexo” pode ser: public String getSexo() {  return sexo; }"
+  },
+  {
+    "textoDaPergunta": "Pergunta b11 ___ Observe o seguinte trecho de código:\n  \n//campos para calculo de area.              (linha 01)\nclass Area {                                (linha 02)\n  int tamanho;                                (linha 03)\n  int breadth;                                (linha 04)\n                                            (linha 05)\n//construtor inicializa valores.            (linha 06)\nArea (int tamanho, int breadth) {           (linha 07)\n  this.tamanho = tamanho;                   (linha 08)\n  this.breadth = breadth;                   (linha 09)\n}                                           (linha 10)\n//método para calcular a area.              (linha 11)\npublic void getArea() {                     (linha 12)\n  int area = tamanho * breadth;             (linha 13)\n  System.out.println(\"Area: \" + area);     (linha 14)\n  }                                           (linha 15)\n}                                           (linha 16)\n                                            (linha 17)\nclass Main {                                (linha 18)\n  public static void main (String[]args ) {   (linha 19)\n                                            (linha 20)\n    Area rectangle = new Area(2, 16);       (linha 21)\n    rectangle.getArea();                    (linha 22)\n  }                                           (linha 23)\n}                                           (linha 24)\n\nPodemos afirmar que poderia existir uma característica de polimorfismo atribuída à variável tamanho na linha:",
+    "opcoes": [
+      "a. 7, com a atribuição feita ao método construtor",
+      "b. 21, ao realizarmos a chamada para a criação de um objeto do tipo Area",
+      "c. 12, com a expressão “getArea” para encapsular a variável",
+      "d. 19, na utilização do método principal pelo void main",
+      "e. 3, com a utilização do termo int"
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "O encapsulamento é a prática de ocultar detalhes de implementação, ou o estado interno de um objeto, e expor, seletivamente, o acesso a esses internos por meio de métodos públicos. Geralmente, é aplicado para impedir que usuários externos acessem e modifiquem diretamente as propriedades de um objeto, seja por motivos de segurança, seja para evitar corrupção de dados."
+  },
+  {
+    "textoDaPergunta": "Pergunta b12 ___ Leia o trecho a seguir.\n“A declaração de variáveis de instância com o modificador private é conhecida como ocultamento de dados ou ocultamento de informações. Quando um programa instancia um objeto de uma classe, a variável (atributo) é ocultada no objeto e pode ser acessada apenas por métodos da classe do objeto” (DEITEL; DEITEL, 2016, p. 63). [...] Em relação aos conceitos de programação orientada a objetos, assinale a alternativa a seguir que apresenta corretamente ao que se refere o trecho lido anteriormente.",
+    "opcoes": [
+      "a. Interface",
+      "b. Polimorfismo",
+      "c. Herança",
+      "d. Encapsulamento",
+      "e. Sobrecarga"
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "O encapsulamento está associado à utilização de métodos para realizar o acesso e a obtenção ou alteração de dados de determinado objeto, bem como o acesso a outros métodos específicos de uma classe. Os termos contidos nas demais alternativas não dizem respeito a esse aspecto."
+  },
+  {
+    "textoDaPergunta": "Pergunta b13 ___ A programação orientada a objetos tem importantes características, dentre elas, os pilares, que permitem a criação de sistemas de complexidade, com menor esforço e maior assertividade. O encapsulamento é um desses importantes pilares. Nesse sentido, analise as asserções a seguir e a relação proposta entre elas.\nI.  O encapsulamento de um objeto ocorre com a proteção dos atributos, por meio dos modificadores de acesso private ou protected. Esses atributos são externalizados por meio de métodos de acesso. \nPORQUE \nII. O principal objetivo do encapsulamento é permitir que as classes derivadas possam, simplesmente, utilizar os atributos e métodos das classes-base ou definir outros atributos e métodos. \nAnalisando essas asserções, é correto afirmar que:",
+    "opcoes": [
+      "a. a primeira asserção é falsa e a segunda é verdadeira.",
+      "b. as duas asserções são falsas.",
+      "c. as duas asserções são verdadeiras e a segunda justifica a primeira.",
+      "d. a primeira asserção é verdadeira e a segunda é falsa.",
+      "e. as duas asserções são verdadeiras, mas a segunda não justifica a primeira."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A proposição I está correta, pois o encapsulamento tem como teoria a proteção dos atributos e permite a externalização somente do que for necessário, por meio dos métodos de acesso. A proposição II está incorreta, pois o encapsulamento independe de classes derivadas."
+  },
+  {
+    "textoDaPergunta": "Pergunta b14 ___ Leia o trecho a seguir.\n“Na indústria, diagramas UML ajudam projetistas de sistema a especificar um sistema de maneira gráfica, concisa e independente de linguagem de programação antes de os programadores implementarem o sistema em linguagem específica” (DEITEL; DEITEL, 2016, p. 61). [...] Observe a seguinte imagem:\n\n[ Account ] -- Compartimento Superior\n[ -name: String ] -- Compartimento Intermediário\n[ +setName(name: String) ] -- Compartimento Inferior\n[ +getName(): String ] -- Compartimento Inferior\n\nConsiderando o apresentado, analise as afirmativas a seguir.\nI.   No compartimento superior, temos o atributo da classe, que corresponde à variável de instância de mesmo nome em Java.\nII.  O compartimento inferior contém as operações da classe, que correspondem aos métodos com os mesmos nomes em Java.\nIII. A UML representa o tipo de retorno de um método utilizando dois pontos, juntamente com a expressão void ao lado de cada tipo em Java.\nIV.  O compartimento intermediário possui definições de nome da classe, representada por uma classe de mesmo nome em Java.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I, II e IV, apenas",
+      "b. II e III, apenas",
+      "c. I e II, apenas",
+      "d. I, III e IV, apenas",
+      "e. II, apenas"
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I está incorreta, pois, no compartimento superior, temos as definições de nome da classe, representada por uma classe de mesmo nome em Java. A afirmativa II está correta, pois, no compartimento inferior, os métodos e comportamentos são definidos conforme a programação no ambiente de linguagem Java. A afirmativa III está incorreta, pois a expressão void é utilizada de forma específica para indicar que não existe nenhum tipo de retorno após a execução do método. A afirmativa IV também está incorreta, pois o compartimento intermediário possui o atributo da classe, que corresponde à variável de instância de mesmo nome em Java."
+  },
+  {
+    "textoDaPergunta": "Pergunta c01 ___ Na programação orientada a objetos, as classes podem herdar características e ações de outras classes. A linguagem Java é orientada a objetos e permite a criação de classes-pais e filhas. Considerando a linguagem Java, com base na criação de uma subclasse “Onibus”, a partir de uma superclasse “Transporte”, assinale a alternativa que apresenta o código correto.",
+    "opcoes": [
+      "a. public class Onibus extends Transporte",
+      "b. public class Onibus implements Transporte",
+      "c. public class Transporte() implements Onibus()",
+      "d. public class Transporte extends Onibus",
+      "e. public class Onibus() extends Transporte()"
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "Na programação orientada a objetos, para que uma subclasse herde os atributos e métodos de uma superclasse, é necessário utilizar o termo “extends”, que deve ser utilizado na definição da classe-filha: public class Onibus extends Transporte. A classe que herda (filha) deve ser declarada antes da palavra reservada “extends” e a superclasse deve ser declarada em seguida. Não se deve utilizar parênteses na declaração de herança, pois não se trata de instanciação de um objeto. A palavra reservada “implements” é utilizada para implementar métodos abstratos, ou seja, para outra finalidade, e não para herança."
+  },
+  {
+    "textoDaPergunta": "Pergunta c02 ___ Na programação orientada a objetos, existem os conceitos de classe e subclasse. Uma subclasse também pode ser denominada classe-filha, pois passa a ter acesso aos atributos e métodos da classe-mãe, classe-base ou superclasse. Essa afirmativa refere-se à qual paradigma? ",
+    "opcoes": [
+      "a. Encapsulamento.",
+      "b. Associação.",
+      "c. Herança.",
+      "d. Agregação.",
+      "e. Polimorfismo."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A herança é a possibilidade de as classes compartilharem atributos e métodos com outras classes, construindo uma relação hierárquica. As afirmativas que tratam de associação, agregação, polimorfismo e encapsulamento não têm similaridade com a herança, assim, não podem ser consideradas corretas."
+  },
+  {
+    "textoDaPergunta": "Pergunta c03 ___ Na linguagem Java, a herança permite a reutilização de um código, assim, há maior agilidade no desenvolvimento de aplicações. Ademais, a codificação da herança em Java utiliza alguns termos importantes. Nesse sentido, analise as afirmativas a seguir, em relação aos termos utilizados no cabeçalho do método, e as relacione adequadamente.\n1 – extends.\n2 – super.\n3 – this.\nI.   Termo utilizado para chamadas do construtor da classe-mãe.\nII.  Termo utilizado para referenciar um atributo externo fora de um método.\nIII. Termo utilizado na classe-filha para herdar a classe-mãe.\nAssinale a alternativa que relaciona, adequadamente, os dois grupos de informações.",
+    "opcoes": [
+      "a. 1-III; 2-I; 3-II.",
+      "b. 1-I; 2-II; 3-III.",
+      "c. 1-III; 2-II; 3-I.",
+      "d. 1-I; 2-III; 3-II.",
+      "e. 1-II; 2-I; 3-III."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A sentença 1 se enquadra no conceito III, pois a palavra reservada, utilizada para que uma classe-filha herde uma superclasse, é “extends”. A sentença 2 se enquadra no conceito I, pois, para realizar uma chamada ao método construtor da superclasse, utiliza-se o termo “super”. A sentença 3 se enquadra no conceito II, pois a referência aos atributos de uma classe, dentro de métodos locais, é feita com o uso do termo “this”."
+  },
+  {
+    "textoDaPergunta": "Pergunta c04 ___ Considere uma classe “Calculo” que tem dois métodos “calculo”, sendo que um deles recebe dois parâmetros e outro recebe três, conforme o código em linguagem Java (em qualquer versão) a seguir.\n\npublic class Calculo { \n  public int calculo (int a, int b) {\n    return a + b;\n  } \npublic int calculo (int a, int b, int c) {\n  return a + b + c;\n  }    \n}\n\nÉ possível afirmar que, no código apresentado:",
+    "opcoes": [
+      "a. o método “calculo” não poderia receber esse nome, pois a classe “Calculo” tem o mesmo identificador.",
+      "b. existe um erro, pois dois métodos não podem ser declarados com o mesmo identificador e parâmetros diferntes.",
+      "c. há um exemplo de polimorfismo estático, pois existe uma sobrecarga do método “calculo”.",
+      "d. há um clássico exemplo de herança, em que um método, com o mesmo identificador, executa cálculos diferentes.",
+      "e. existe um erro, pois o polimorfismo deve ser implementado em duas classes herdadas."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "O código apresentado mostra um exemplo de polimorfismo estático, em que existe uma sobrecarga do método, que tem o mesmo identificador, porém a quantidade de parâmetros ou os tipos de dados dos métodos são diferentes. O tipo de polimorfismo utilizado entre os métodos de classe-mãe e de filha, que devem ter a mesma assinatura, é o polimorfismo dinâmico."
+  },
+  {
+    "textoDaPergunta": "Pergunta c05 ___ Observe o seguinte trecho de código em Java:\n\npublic abstract class ClasseDisciplina { \n  protected int quantidadeAlunos; \n  public abstract void atribuir(); \n  //... \n}\n\nAssinale a seguir a alternativa que demonstra corretamente os atributos da classe apresentada.",
+    "opcoes": [
+      "a. Nenhum método deve ser concreto em uma classe abstrata em Java.",
+      "b. O modificador protected, em uma classe abstrata, é obrigatório para tipos primitivos.",
+      "c. A expressão public abstract indica que temos uma classe ou método abstratos.",
+      "d. O termo abstract obriga o desenvolvedor a utilizar a herança em sua implementação.",
+      "e. A utilização de void() acarretará erro de compilação se o método for abstrato."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "O termo abstract obriga a classe que herda uma classe abstract a implementar esses métodos. Não há relação direta com a utilização de herança em uma classe que já usa abstract. Dessa forma, o public static indica que estamos lidando com uma classe ou um método abstrato. A utilização de void() apenas indica que o método abstrato não terá um tipo de retorno. O modificador protected é utilizado para “proteger” métodos e atributos, restringindo o acesso apenas dentro do pacote, sem relação de obrigatoriedade com tipos primitivos. Em uma classe abstrata, podemos ter métodos concretos, se pelo menos um for abstrato."
+  },
+  {
+    "textoDaPergunta": "Pergunta c06 ___ De acordo com Félix (2016, p. 22), “[...] a função de uma classe abstrata é servir apenas como uma superclasse apropriada para ter os atributos comuns que subclasses precisam, organizando e simplificando o código do sistema. [...]”.\nCom base nos conceitos de classe abstrata, analise as afirmativas a seguir.\nI.   As classes abstratas forçam suas subclasses a sobrescrever e implementar os métodos declarados como abstratos.\nII.  As superclasses abstratas forçam suas subclasses a sobrescrever e implementar os métodos declarados como concretos.\nIII. Cada subclasse concreta fornecerá informações concretas de todos os métodos abstratos herdados da superclasse.\nIV. Para alcançar o polimorfismo em Java é obrigatório o uso da palavra reservada extends.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I, II e IV, apenas",
+      "b. I, III e IV, apenas",
+      "c. I e III, apenas",
+      "d. I e II, apenas",
+      "e. II e III, apenas"
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A afirmativa I está correta, pois, de fato, as classes abstratas obrigam as classes filhas a sobrescrever e implementar os métodos declarados como abstratos. A afirmativa II está incorreta, pois as superclasses abstratas forçam suas subclasses a sobrescrever e implementar os métodos declarados como abstratos. A afirmativa III está correta, uma vez que as subclasses concretas estão relacionadas com os métodos abstratos herdados, a fim de fornecer as informações concretas correspondentes. A afirmativa IV está incorreta, uma vez que podemos alcançar polimorfismo em Java sem usar explicitamente a palavra reservada extends, a partir do uso de interfaces. Interfaces também permitem polimorfismo e, nesse caso, se utiliza a palavra reservada implements. Portanto, a palavra obrigatório na afirmativa IV a deixa incorreta."
+  },
+  {
+    "textoDaPergunta": "Pergunta c07 ___ Com a programação orientada a objetos, “[...] programadores podem desenvolver bibliotecas de classes e tirar proveito de outras que já existem pelo mundo. [...]” (FÉLIX, 2016, p. 22).\nConsiderando o apresentado, analise os conceitos e termos a seguir.\n1. Subclasse.\n2. Classe abstrata.\n3. Superclasse.\nI. Classe utilizada como base para as que serão criadas posteriormente, servindo de modelo estrutural dos objetos e métodos.\nII. Nova classe criada que herdará os componentes de sua classe pai, considerando os métodos e atributos.\nIII. Classe que está geralmente relacionada com interfaces, em que pelo menos um método não possui implementação.\nAssinale a seguir a alternativa que correlaciona corretamente os dois grupos de informação:",
+    "opcoes": [
+      "a. 1-I; 2-II; 3-III",
+      "b. 1-I; 2-III; 3-II",
+      "c. 1-III; 2-II; 3-I",
+      "d. 1-II; 2-III; 3-I",
+      "e. 1-II; 2-I; 3-III"
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "O conceito I se enquadra no termo 3, pois a classe pai é a base que fornece os parâmetros utilizados como modelo pela classe filha. O conceito II se enquadra no termo 1, pois a subclasse, ou classe filha, herdará os componentes de sua respectiva classe pai. O conceito III se enquadra no termo 2, pois a classe abstrata pode implementar interfaces e, necessariamente, precisa implementar os métodos que não possuem implementações."
+  },
+  {
+    "textoDaPergunta": "Pergunta c08 ___ A programação orientada a objetos tem importantes características, dentre elas, há os modificadores de acesso. Quanto ao uso da palavra reservada “final”, analise as asserções a seguir e a relação proposta entre elas.\nI. A palavra-chave “final”, ou o modificador final, pode ser aplicada em classes, métodos e atributos. \nPORQUE \nII. Um método definido com o modificador final não pode ser sobrescrito em uma subclasse.\nAnalisando essas asserções, é correto afirmar que:",
+    "opcoes": [
+      "a. a primeira asserção é verdadeira e a segunda é falsa.",
+      "b. as duas asserções são verdadeiras e a segunda justifica a primeira.",
+      "c. as duas asserções são falsas.",
+      "d. as duas asserções são verdadeiras, mas a segunda não justifica a primeira.",
+      "e. a primeira asserção é falsa e a segunda é verdadeira."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A proposição I está correta, pois a palavra-chave “final” pode ser atribuída a classes (nesse caso, essa classe não poderá ser herdada). A proposição II está correta, mas não justifica a primeira, pois o termo “final” também pode ser empregado em métodos que não poderão ser sobrescritos em subclasses e ser também aplicados aos atributos, transformando-os em constantes que não podem ter seus valores originais substituídos."
+  },
+  {
+    "textoDaPergunta": "Pergunta c09 ___ Leia o trecho a seguir.\n“O Java também suporta interfaces – coleções de métodos relacionados que normalmente permitem informar aos objetos o que fazer, mas não como fazer [...]. Na analogia do carro, uma interface das capacidades ‘básicas de dirigir’, consistindo em um volante, um pedal de acelerador e um pedal de freio, permitiria que um motorista informasse ao carro o que fazer. [...]” (DEITEL; DEITEL, 2016, p. 10).\nSobre as interfaces em Java, analise as asserções a seguir e a relação proposta entre elas.\nI. Uma classe implementa zero ou mais interfaces, em que cada uma pode ter um ou mais métodos.\nPOIS\nII. As classes podem implementar os métodos de uma interface de maneiras diferentes, sem dependência entre si.\nA respeito das asserções, assinale a alternativa correta a seguir.",
+    "opcoes": [
+      "a. As asserções I e II são proposições falsas.",
+      "b. A asserção I é uma proposição falsa, e a asserção II é uma proposição verdadeira.",
+      "c. As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.",
+      "d. A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa.",
+      "e. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A asserção I é uma proposição verdadeira, pois uma classe pode ou não implementar uma interface, sendo possível a implementação de múltiplas interfaces. A asserção II também é uma proposição verdadeira, tendo em vista o polimorfismo na orientação a objetos, ou seja, de fato, as classes podem implementar os métodos de uma interface de maneiras diferentes, independentemente. No entanto, apesar de ambas serem verdadeiras, as asserções são proposições que não possuem relação de causalidade entre si."
+  },
+    {
+    "textoDaPergunta": "Pergunta d01 ___ Observe o seguinte trecho de código escrito em Java:\n\n  import java.util.ArrayList;  \n  import java.util.Arrays;  \n  import java.util.Collections;  \n  import java.util.List;  \n  \n  public class iter_java1 {  \n  \n    private static final String colors [] = {\"red\", \"white\", \"blue\",  \n      \"black\", \"yellow\", \"purple\", \"tan\"};  \n    private List <String>list; // referência ArrayList.  \n    // cria, classifica e gera saída da lista.  \n\n    public iter_java1() {  \n      list = new ArrayList<String>(Arrays.asList (colors));  \n      Collections.sort(list); //classifica a ArrayList.  \n      System.out.printf (\"Sorted ArrayList:%s\\n\", list);  \n      } //fim do construtor iter_java1.  \n  }\n\nConsiderando o apresentado, analise as afirmativas a seguir.\nI.   O uso do ArrayList, na linha 14, está incorreto, uma vez que, na linha 10, se utilizou List.\nII.  A classe Collections possui diversos métodos implementados, como ordenações, por exemplo.\nIII. O array colors é definido como string, adicionado em uma lista utilizando o método sort.\nIV.  O método construtor inicializa uma lista criada de forma global na codificação.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I, III e IV, apenas",
+      "b. I, II e IV, apenas",
+      "c. I e III, apenas",
+      "d. I e II, apenas",
+      "e. II e IV, apenas"
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I está incorreta, pois o ArrayList suporta operações do tipo List padrão. A afirmativa II está correta, uma vez que a Collections já possui uma série de métodos construídos, chamados na sua instanciação das classes. A afirmativa III está incorreta, pois a adição é realizada por meio do método add em uma lista, sendo o sort utilizado para ordenação. A afirmativa IV está correta, pois a inicialização do construtor traz consigo, na codificação em questão, a inicialização da variável do tipo List."
+  },
+  {
+    "textoDaPergunta": "Pergunta d02 ___ Na linguagem Java, é comum o uso de coleções, estruturas de dados (que também são objetos) que permitem armazenar vários outros objetos. Nesse contexto, analise as afirmativas a seguir, em relação aos métodos utilizados nas classes concreta e as relacione adequadamente.\n1 – add e offer.\n2 – remove e poll.\n3 – element e peek.\nI.   Removem e retornam o elemento do início.\nII.  Retornam, porém não removem, o elemento do início.\nIII. Inserem um elemento na fila.\nAssinale a alternativa que relaciona, adequadamente, os dois grupos de informações.",
+    "opcoes": [
+      "a. 1-II; 2-I; 3-III.",
+      "b. 1-I; 2-II; 3-III.",
+      "c. 1-III; 2-I; 3-II.",
+      "d. 1-III; 2-II; 3-I.",
+      "e. 1-I; 2-III; 3-II."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A sentença 1 se enquadra no conceito III, pois os métodos “add” e “offer” são responsáveis por inserir um elemento na fila ou lista. A sentença 2 se enquadra no conceito I, pois os métodos “remove” e “poll” removem e retornam o elemento do início. A sentença 3 se enquadra no conceito II, pois os métodos “element” e “peek” retornam, porém não removem, o elemento do início."
+  },
+  {
+    "textoDaPergunta": "Pergunta d03 ___ Observe o seguinte trecho de código em Java:\n\n  import java.util.*;  \n  \n  class JavaColec01 {  \n    /** \n     *@param args\n     */  \n  public static void main (String args[]){  \n    ArrayList <String>list = new ArrayList<String>(); //criando arraylist\n    list.add(\"Aluno01\"); //Add objetos no arraylist  \n    list.add(\"Aluno02\");  \n    list.add(\"Aluno03\");  \n    list.add(\"Aluno04\");  \n    //Percorrendo a lista através do Iterator\n    final Iterator itr = list.iterator();  \n  \n    while(itr.hasNext()){  \n      System.out.println(itr.next());  \n      }  \n    }  \n  }\n\nSobre o código, analise as afirmativas a seguir.\nI.   A classe ArrayList implementa a interface List. Ela usa uma matriz dinâmica para armazenar o elemento duplicado de diferentes tipos de dados.\nII.  A variável “itr” é do tipo iterator e serve para percorrer a lista criada (no caso, list), permitindo realizar operações de inserção por meio do itr.add().\nIII. O termo entre “<>” indica o tipo de coleção em que a lista realizará as operações, sendo redimensionada automaticamente de acordo com a composição.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I e II, apenas",
+      "b. I, II e III, apenas",
+      "c. I, apenas",
+      "d. I e III, apenas",
+      "e. II e III, apenas"
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A afirmativa I está correta, pois o ArrayList, como implementador do List, utiliza uma matriz que cresce conforme a necessidade e a quantidade de elementos. A afirmativa II está incorreta, pois o objeto iterator não implementa diretamente a inserção, necessitando de um objeto do tipo de lista. A afirmativa III está correta, já que, sendo do tipo de coleção, o ArrayList pode ser associado a qualquer tipo que se deseja manipular, crescendo de acordo com sua composição."
+  },
+  {
+    "textoDaPergunta": "Pergunta d04 ___ Considere o código a seguir, em linguagem Java (qualquer versão), que apresenta a utilização de um tipo genérico para uma lista de nomes. \n\n  public static void main(String[] args) {\n    List<String> nomes = new ArrayList<String>();\n    nomes.add(\"José\");\n    nomes.add(\"João\");\n    nomes.add(\"Maria\");\n    System.out.println(nomes.get(0));\n  }\n\nEm relação a esse código, é possível afirmar que:",
+    "opcoes": [
+      "a. o tipo genérico aplicado à lista é “nomes”.",
+      "b. qualquer tipo de dado poderia ser adicionado à lista, por ser genérica.",
+      "c. o uso do tipo genérico é restrito ao uso de listas e coleções.",
+      "d. o uso do tipo genérico pode ser observado nos comandos “.add”.",
+      "e. o uso do tipo genérico é observado na notação <String>."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "Na programação orientada a objetos, o uso de classes e métodos genéricos pode reduzir o código de programação e prevenir erros, como é o caso do código apresentado. Utiliza-se a notação <TipoDeDados>  com o “Generics”, em linguagem Java."
+  },
+  {
+    "textoDaPergunta": "Pergunta d05 ___ Na programação orientada a objetos, é comum o uso de classes e métodos genéricos, visando reduzir a quantidade de códigos de conversão de tipos de dados. Considerando esse contexto, assinale a alternativa que apresenta, corretamente, o uso dos “Generics” em linguagem Java.",
+    "opcoes": [
+      "a. List<Carro> carros = new ArrayList<Carro>()",
+      "b. list = Arrays.asList( letters );",
+      "c. Pessoa pessoa = new Pessoa();",
+      "d. List lista = new ArrayList(); lista.add(1); lista.add(\"dois\");",
+      "e. Object[] pessoas = new Object[Pessoa];"
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "Com uso de “Generics”, a lista pode somente ter objetos do tipo “Carro”, não aceitando objetos de outro tipo, assim, é possível assegurar qual tipo será retornado pela lista, caso contrário, o erro será percebido somente em tempo de execução."
+  },
+  {
+    "textoDaPergunta": "Pergunta d06 ___ Considere o código a seguir, em linguagem Java (qualquer versão), que apresenta a utilização de um tipo genérico para uma lista de nomes. \n\n  public static void main(String[] args) {\n    List<String> nomes = new ArrayList<String>();\n    nomes.add(\"José\");\n    nomes.add(\"João\");\n    nomes.add(\"Maria\");\n    System.out.println(nomes.get(0));\n  }\n\nEm relação a esse código, é possível afirmar que:",
+    "opcoes": [
+      "a. o uso do tipo genérico pode ser observado nos comandos “.add”.",
+      "b. o uso do tipo genérico é observado na notação <String>.",
+      "c. o uso do tipo genérico é restrito ao uso de listas e coleções.",
+      "d. qualquer tipo de dado poderia ser adicionado à lista, por ser genérica.",
+      "e. o tipo genérico aplicado à lista é “nomes”."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "Na programação orientada a objetos, o uso de classes e métodos genéricos pode reduzir o código de programação e prevenir erros, como é o caso do código apresentado. Utiliza-se a notação <TipoDeDados>  com o “Generics”, em linguagem Java."
+  },
+  {
+    "textoDaPergunta": "Pergunta d07 ___ A estrutura de coleções em Java fornece ao desenvolvedor diversas interfaces e classes, facilitando sua implementação em vários algoritmos, além de diversas estruturas de dados. Algumas classes de coleção importantes são ArrayList, LinkedList, HashMap, TreeMap, HashSet e TreeSet. Essas classes resolvem a maioria das necessidades de programação, no entanto, se for necessária alguma classe de coleção especial, podemos estendê-la para criar uma classe de coleção personalizada. Em relação aos métodos utilizados nas coleções, analise as afirmativas a seguir.\nI.   A função do método reverse é inverter a ordem dos elementos em uma List.\nII.  No método fill, os elementos em uma List são sobrescritos com um determinado valor.\nIII. A operação fill é útil para limpar uma lista e bloquear suas alterações.\nIV.  Se a lista de destino for mais longa, os elementos não sobrescritos sofrerão alterações.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I, II e IV, apenas",
+      "b. II e III, apenas",
+      "c. I e II, apenas",
+      "d. I, III e IV, apenas",
+      "e. I e III, apenas"
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A afirmativa I está correta, pois o reverse é utilizado para reverter os elementos presentes no objeto em que estão armazenados. A afirmativa II também está correta, pois o método fill é usado para substituir todos os elementos da lista por outros elementos por ela especificados. A afirmativa III está incorreta, pois esse método preenche todos os elementos com os mesmos valores, não bloqueando nem limpando a lista por padrão. A afirmativa IV também está incorreta, uma vez que, se a lista de destino for mais longa, os elementos não sobrescritos não sofrerão nenhum tipo de alteração."
+  },
+  {
+    "textoDaPergunta": "Pergunta d08 ___ Leia o trecho a seguir.\n“Todo tipo primitivo tem uma classe empacotadora de tipo correspondente (no pacote java.lang). Essas classes chamam-se Boolean, Byte, Character, Double, Float, Integer, Long e Short. Elas permitem manipular valores de tipo primitivo como objetos. [...] Mas podem manipular objetos das classes empacotadoras de tipo, porque cada classe, em última análise, deriva de Object” (DEITEL; DEITEL, 2016, p. 539). DEITEL, P., DEITEL, H. Java: como programar. 10. ed. São Paulo: Pearson Education do Brasil, 2016. Sobre tipos e classes, analise as asserções a seguir e a relação proposta entre elas.\nI. A interface List é implementada por várias classes, inclusive pelas classes ArrayList, LinkedList e Vector. O autoboxing ocorre quando valores de tipo primitivo são adicionados aos objetos dessas classes.\nPOIS\nII. As variáveis de tipo primitivo armazenam apenas referências a objetos, em que as classes ArrayList e Vector são implementações de arrays redimensionáveis de List.\nA respeito das asserções, assinale a alternativa correta a seguir.",
+    "opcoes": [
+      "a. A asserção I é uma proposição falsa, e a asserção II é uma proposição verdadeira.",
+      "b. As asserções I e II são proposições falsas.",
+      "c. As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.",
+      "d. A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa.",
+      "e. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A asserção I é uma proposição verdadeira. Como List é uma interface, objetos do tipo lista não podem ser criados. Assim, sempre será necessária uma classe que implemente a List para criar um objeto. A asserção II também é uma proposição verdadeira e justifica corretamente a I, pois essas variáveis relacionadas à ArrayList e à List apontam referências apenas para poderem ser implementadas, independentemente do tipo que será trabalhado na codificação."
+  },
+  {
+    "textoDaPergunta": "Pergunta d09 ___ A programação orientada a objetos tem um importante recurso, as classes concretas de coleções. Com base no uso da interface “Iterator”, analise as asserções a seguir e a relação proposta entre elas.\nI.  Uma das vantagens de usar iteradores é que eles não dependem do tipo de coleção. \nII. Não são todas as coleções que têm um método de remoção por índice, como “List”, e cada coleção tem uma maneira de percorrer os elementos.\nAnalisando essas asserções, é correto afirmar que:",
+    "opcoes": [
+      "a. a primeira asserção é falsa e a segunda é verdadeira.",
+      "b. as duas asserções são verdadeiras.",
+      "c. a primeira asserção é verdadeira e a segunda é falsa.",
+      "d. as duas asserções são falsas."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A proposição I está correta, pois o uso de iteradores é uma grande vantagem, visto que todas as classes-filhas de “Collection” implementam essa interface. A proposição II está correta, pois a classe “Collection” tem algumas classes-filhas que não têm métodos de remoção por índice, como ocorre com a classe “List” (uma das mais usadas em aplicações de sistemas de informação)."
+  },
+  {
+    "textoDaPergunta": "Pergunta d10 ___ Considere o código em linguagem Java (qualquer versão) a seguir, que apresenta o uso de um tipo genérico para criar uma lista de nomes, utilizando a interface “Iterator” para recuperar os nomes da lista. \n\n  public static void main(String[] args) {\n    List<String> nomes = new ArrayList<String>();\n    nomes.add(\"João\");\n    nomes.add(\"Maria\");\n    nomes.add(\"José\");  \n    Iterator iterator = nomes.iterator();\n    while (iterator.hasNext()) {\n      System.out.println(iterator.next());\n    }\n  }\n\nEm relação ao código apresentado, assinale a alternativa correta.",
+    "opcoes": [
+      "a. Existe um erro no código apresentado, pois faltou a utilização do método “remove()”, para remover os itens do iterador a cada interação.",
+      "b. O método “hasNext()”, da interface “Iterator”, é utilizado para verificar se existem itens na lista e, em seguida, removê-los.",
+      "c. O método “next()” retorna o próximo elemento do iterator, já no formato correto de saída, devido ao uso do tipo “Generics” na lista.",
+      "d. Existe um erro no código apresentado, pois, no comando de saída, não houve a conversão de tipo de dados para String.",
+      "e. A limitação do uso da interface “Iterator” é que ela percorre e remove os itens da lista, não permitindo que a lista seja usada novamente."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "O código apresentado mostra um exemplo correto da interface “Iterator” em uma lista, usando “Generics” <String>. Desse modo, o formato de saída não precisa ser convertido para String, pois o método “next()” retorna o tipo da lista."
+  },
+  {
+    "textoDaPergunta": "Pergunta d11 ___ A classe Collections fornece vários algoritmos de alto desempenho para manipular elementos de coleção.\nNesse sentido, observe o seguinte trecho de código em Java:\n  \n  list = Arrays.asList(deck);  \n  Collections.shuffle(list);\n\nDiante das informações apresentadas, assinale a alternativa correta a seguir.",
+    "opcoes": [
+      "a. O método shuffle ordena aleatoriamente os itens da lista passada como parâmetro",
+      "b. O método shuffle serve para exibir os itens da lista passada como parâmetro",
+      "c. O método asList ordena a lista de forma decrescente e exibe o resultado ao usuário",
+      "d. O método shuffle serve para ordenar, de forma crescente, os itens da lista passada como parâmetro",
+      "e. O método asList faz parte da classe Collections, com uso exclusivo do ArrayList"
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "O método shuffle serve para realizar uma ordenação randômica da lista que lhe é passada como parâmetro. O “embaralhamento” é aleatório, selecionando uniformemente um elemento que não foi selecionado. Por exemplo, se o elemento na posição 2 for selecionado, ele poderá ser trocado com todos os elementos na posição 2 até a posição n-1 (já que a lista/array tem 0 a n-1 posições). O método asList permite receber um vetor e armazená-lo como uma lista em uma variável do tipo ArrayList. A função Arrays.asList retorna uma lista de tamanho fixo contendo um Java array. Ela age como uma lista agrupada em uma matriz e fornece uma exibição de lista para uma matriz."
+  },
+  {
+    "textoDaPergunta": "Pergunta e01 ___ Em aplicações desenvolvidas em linguagem Java, é muito comum o uso dos 'Conjuntos', que têm um conjunto de características fundamentais. Considerando as características fundamentais dos conjuntos em linguagem Java, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s).\nI.   ( ) Os elementos inseridos nos conjuntos, quando recuperados, são apresentados na mesma ordem em que foram inseridos.\nII.  ( ) Em relação ao uso dos conjuntos em linguagem Java do tipo HashSet ou TreeSet, ao se percorrer esses conjuntos, a ordem em que foram inseridos os elementos não é conhecida.\nIII. ( ) Na pesquisa de dados em um conjunto do tipo HashSet ou LinkedHashSet, a velocidade é mais rápida que em um objeto do tipo List.\nIV.  ( ) Os conjuntos não aceitam valores duplicados; a tentativa de inserção de um registro já existente no Set não terá sucesso.\nAssinale a alternativa que apresenta a sequência correta.",
+    "opcoes": [
+      "a. V, F, V, F",
+      "b. F, F, F, V",
+      "c. F, V, V, V",
+      "d. V, V, V, V",
+      "e. V, V, F, F"
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A afirmativa II é verdadeira, pois, ao se usar conjuntos do tipo HashSet ou TreeSet em linguagem Java, não se conhece a ordem dos elementos inseridos. A afirmativa III é verdadeira, pois, HashSet ou LinkedHashSet usam o método hashCode, e assim  a velocidade na pesquisa de dados é maior nesses tipos de conjuntos do que em objetos do tipo List."
+  },
+  {
+    "textoDaPergunta": "Pergunta e02 ___ Em programação orientada a objetos, a função do Map é conectar entre chave e valor, enquanto a função de Set é armazenar valores únicos. Existem características a serem usadas nessas funções que requerem bastante atenção, como sobrecargas e tipagem. De acordo com Deitel e Deitel (2016, p. 658), se “as operações realizadas por vários métodos sobrecarregados forem idênticas para cada tipo de argumento, os métodos sobrecarregados podem ser codificados, mais compacta e convenientemente, com um método genérico. Você pode escrever uma única declaração de método genérico que pode ser chamada com argumentos de tipos diferentes”. DEITEL, P.; DEITEL, H. Java: como programar. 10. ed. São Paulo: Pearson Education do Brasil, 2016. A interface Java Map possui um método que permite verificar se o Map contém um determinado valor. O método e uma correta chamada a ele são mostrados em:",
+    "opcoes": [
+      "a. valueExistis(); in hasValue = map.valueExistis(\"valor 1\");",
+      "b. containsValue(); int hasValue = containsValue.StringMap(\"valor 1\");",
+      "c. containsValue(); int hasValue = map.containsValue(\"valor 1\");",
+      "d. containsValue(); boolean hasValue = map.containsValue(\"valor 1\");",
+      "e. valueExistis(); boolean hasValue = map.valueExistis(\"valor 1\");"
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "O método containsValue() no Java verifica se existe algum valor específico contido em um elemento/String. Por ser uma verificação lógica, ou seja, retornando verdadeiro ou falso, esse retorno deve ser do tipo booleano, com base na variável do tipo Mapa. Por isso, a variável a receber o resultado do método deve ser declarada como boolean, caso contrário, o programa apontará um erro. O comando valueExistis() não existe para a programação Java para as funções requisitadas."
+  },
+  {
+    "textoDaPergunta": "Pergunta e03 ___ Set e Map são duas interfaces importantes do Java...[...]...DEITEL, P.; DEITEL, H. Java: como programar. 10. ed. São Paulo: Pearson Education do Brasil, 2016. De acordo com o apresentado no texto, e com base nas características de Mapas, identifique se são verdadeiras (V) ou falsas (F) as afirmativas a seguir.\nI.   ( ) A interface SortedMap estende Map e mantém as suas chaves em ordem classificada – na ordem natural dos elementos ou em uma ordem especificada por uma implementação Comparator. A classe TreeMap implementa SortedMap.\nII.  ( ) As classes Hashtable e HashMap permitem usar hashes sem ter de implementar mecanismos de Tabela Hash – um exemplo clássico da reutilização, paradigma da programação orientada a objetos.\nIII. ( ) A interface Java Map tem um método chamado putAll(), que pode copiar todos os pares chave + valor (entradas) de outra instância do Map para si mesmo. Na teoria dos Conjuntos, isso também é referido como a interseção de duas instâncias de Map.\nAssinale a alternativa que apresenta a sequência correta.",
+    "opcoes": [
+      "a. V, V, V.",
+      "b. F, V, F.",
+      "c. V, F, V.",
+      "d. F, V, V.",
+      "e. V, V, F."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I é verdadeira, pois essa interface é usada com o intuito de estabelecer a ordenação natural dos elementos ou com base em alguma especificação estabelecida em uma implementação do tipo Comparator.  A afirmativa II é verdadeira, pois HashMap e Hashtable armazenam pares de chaves e valores em uma Tabela Hash. Ao usar um Hashtable ou um HashMap, especificamos um objeto usado como uma chave e o valor que se deseja vincular a essa chave. A chave recebe o Hash, e o código Hash resultante é usado como o índice no qual o valor é armazenado na tabela.  A afirmativa III é falsa, pois, na verdade, na teoria dos conjuntos, isso também é referido como a união de duas instâncias de Map, pois não obterão apenas elementos repetidos, mas na totalidade, nas duas instâncias referenciadas."
+  },
+  {
+    "textoDaPergunta": "Pergunta e04 ___ Um Conjunto é uma Coleção que não pode conter elementos duplicados...[...]...Duas instâncias de Set são iguais se contiverem os mesmos elementos. Observe as afirmações a seguir, sobre as Coleções em Java, e correlacione-as, adequadamente, aos termos aos quais se referem.\n1. TreeSet\n2. HashSet\n3. LinkedHashSet\nI.   Armazena os seus elementos em uma Tabela Hash. É a implementação de melhor desempenho; no entanto, não oferece garantias quanto à ordem de iteração. \nII.  Armazena os seus elementos em uma árvore rubro-negra, ordena os seus elementos com base em seus valores e é, substancialmente, mais lento do que outros Conjuntos. \nIII. É implementado como uma Tabela Hash com uma lista encadeada passando por ela e ordena os seus elementos com base na ordem em que foram inseridos no Conjunto.\nAssinale a alternativa que correlaciona, adequadamente, os dois grupos de informação.",
+    "opcoes": [
+      "a. 1-I; 2-II; 3-III.",
+      "b. 1-II; 2-III; 3-I.",
+      "c. 1-II; 2-I; 3-III.",
+      "d. 1-III; 2-I; 3-II.",
+      "e. 1-III; 2-II; 3-I."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A sentença II se enquadra no conceito 1, pois, como o nome sugere (“tree” é “árvore” e “set” é “conjunto”), a TreeSet organiza os seus elementos em árvore, de forma que a base são os seus valores. Desse modo, pela ordenação por valor obrigatório, acaba sendo mais lento que outras estratégias. A sentença I se enquadra no conceito 2, pois o Hash possui uma velocidade melhor quanto à implementação, mas não deixa estabelecida a correta ordem de iteração dos elementos. A sentença III se enquadra no conceito 3, pois o encadeamento de lista em uma Tabela Hash permite a ordenação dos elementos na forma como foram inseridos no conjunto proposto. Os Conjuntos de Hash vinculados mantêm uma lista duplamente vinculada internamente para todos os seus elementos. A lista encadeada define a ordem na qual os elementos são inseridos nas Tabelas Hash."
+  },
+  {
+    "textoDaPergunta": "Pergunta e05 ___ Considere o código em linguagem Java (qualquer versão) a seguir, que apresenta a utilização de um conjunto para uma lista de nomes. \n\n  public static void main(String[] args) {\n    Set<String> nomes = new HashSet<>();\n  nomes.add(\"João\");\n  nomes.add(\"José\");\n  nomes.add(\"Maria\");\n  nomes.add(\"Carlos\");\n  nomes.add(\"Maria\");\n  nomes.add(\"João\");\n  System.out.println(nomes);\n    }\n\nEm relação ao código apresentado, assinale a alternativa correta.",
+    "opcoes": [
+      "a. O código apresentado cria um conjunto do tipo List de “nomes”.",
+      "b. O método imprime todos os nomes do conjunto, exceto os duplicados.",
+      "c. O método imprime todos os nomes do conjunto na ordem em que foram inseridos.",
+      "d. O método imprime todos os nomes do conjunto em ordem alfabética.",
+      "e. O uso de um conjunto pode ser observado nos comandos “.add”."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "Na linguagem Java, um conjunto é uma Collection que não permite elementos duplicados e é representado pela interface Set, tendo como principais implementações as classes: HashSet, LinkedHashSet e TreeSet."
+  },
+  {
+    "textoDaPergunta": "Pergunta e06 ___ A classe Java HashSet é usada para criar uma Coleção que usa uma Tabela Hash para armazenamento...[...]...Sobre a classe HashSet e as características de conjunto em Java, avalie as afirmativas a seguir.\nI.   O HashSet possui como mecanismo de armazenamento de elementos o hashing.\nII.  O HashSet contém apenas elementos exclusivos, podendo ser nulos.\nIII. O HashSet mantém a ordem de inserção, além de salvar os HashCode.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I e II, apenas.",
+      "b. I, II e III, apenas.",
+      "c. II e III, apenas.",
+      "d. I e III, apenas.",
+      "e. I, apenas."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A afirmativa I está correta, uma vez que a base do HashSet é a utilização de mecanismos ligados à Tabela Hash, no caso, mecanismo de hashing. A classe HashSet usa o HashCode dos objetos para determinar a posição dos elementos no HashMap interno. Quando você adiciona um elemento ao HashSet, ele é adicionado ao HashMap, com a chave sendo o HashCode do elemento e o valor sendo o próprio elemento.  A afirmativa II está correta, pois o Hash possui como característica a não repetição dos elementos, permitindo elementos nulos em sua composição. O HashCode é uma representação numérica de um objeto em Java. Ele é gerado pela chamada ao método HashCode() da classe Object e é usado para identificar, de forma única, um objeto em uma estrutura de dados que usa hashing, como o HashMap. A afirmativa III está incorreta, pois o HashSet baseia-se no HashCode para realizar a inserção e não mantém a ordem de chegada dos elementos. Embora seja possível adicionar elementos a um HashSet em uma determinada ordem, a ordem em que eles são armazenados no HashMap interno pode diferir, devido ao uso de HashCodes para identificar a posição dos elementos."
+  },
+  {
+    "textoDaPergunta": "Pergunta e07 ___ A linguagem Java dispõe de um importante recurso, a interface “Map”. Nesse sentido, analise as asserções a seguir e a relação proposta entre elas.\nI.  Um mapa é composto por um conjunto de associações entre um objeto-chave e um objeto-valor, sendo equivalente ao conceito de dicionário, presente em outras linguagens de programação. \nII. O uso de mapas é bastante interessante, quando queremos buscar um objeto pela sua chave. \nAnalisando essas asserções, é correto afirmar que:",
+    "opcoes": [
+      "a. a primeira asserção é verdadeira e a segunda é falsa.",
+      "b. a primeira asserção é falsa e a segunda é verdadeira.",
+      "c. as duas asserções são falsas.",
+      "d. as duas asserções são verdadeiras."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A proposição I está correta, pois a interface “Map” promove o mapeamento de valores com suas respectivas chaves, ou seja, por meio da chave, é possível acessar o valor estabelecido, sendo que a chave não pode ser repetida, como ocorre com o valor, mas, se houver uma chave repetida, ela será sobrescrita pela última chamada. A proposição II está correta e justifica a primeira, pois esse recurso é muito interessante, quando se tem um valor-chave de um objeto que será pesquisado."
+  },
+  {
+    "textoDaPergunta": "Pergunta e08 ___ A utilização de recursividade não apenas diminui a quantidade\nde código a ser usada em um procedimento ou chamada, mas possibilita\numa economia de tempo nas codificações como, por exemplo, calculando\no fatorial de um número. “Um método recursivo pode chamar outro método, que por sua\nvez pode fazer uma chamada de volta ao método recursivo.\nIsso é conhecido como uma chamada recursiva indireta ou recursão indireta.\nPor exemplo, o método A chama o método B, que faz uma chamada de volta ao método A.\nIsso ainda é recursão, porque a segunda chamada para o método A é feita\nenquanto a primeira está ativa – isto é, a primeira chamada ao método A\nainda não concluiu sua execução (porque está esperando o método B\nvoltar um resultado para ela) e não retornou ao chamador original do método A”.\nObserve o trecho de código a seguir, realizado na linguagem Java, versão 8.\n\n  public static BigInteger fibonacci(BigInteger number)\n    {\n    if(number.equals(BigInteger.ZERO) ||\n    number.equals(BigInteger.ONE)) //casos básicos\n    return number;\n    else //passo de recursão\n    return fibonacci(number.subtract(BigInteger.ONE)).add(\n    fibonacci(number.subtract(TWO)));\n    }\n\nSobre o código anterior, avalie as afirmativas a seguir.\nI.   A codificação mostrada possui erro sintático, pois, nessa chamada recursiva, o método Fibonacci está chamando outro método para cálculo de mesmo nome, retornando uma chamada também com o mesmo nome de método.\nII.  A condição “number.equals(BigInteger.ZERO)” permite que todo trecho de código não necessite ser executado, uma vez que a estrutura “if…else” está limitando a execução caso o “if” inicial seja verdadeiro.\nIII. É possível realizar operações matemáticas por meio de métodos com cálculos predefinidos, seja para comparação, subtração ou adição numérica, passando como parâmetro o valor desejado.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I e II, apenas.",
+      "b. I, apenas.",
+      "c. I e III, apenas.",
+      "d. II e III, apenas.",
+      "e. I, II e III, apenas."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A afirmativa I está incorreta, pois não se apresenta erro sintático pelo motivo apresentado. Ao realizar uma chamada para si mesmo, o método atende a uma característica de desenvolvimento chamada recursão. A afirmativa II está correta, uma vez que existem métodos predefinidos disponíveis para serem usados, e, nesse caso, a condicional realiza um procedimento limitante no bloco condicional, podendo ou não ser executado conforme o valor obtido. A afirmativa III está correta, pois, como mostrado no código, é possível realizar operações matemáticas e lógicas por meio de métodos com cálculos predefinidos, seja para comparação, subtração ou adição."
+  },
+  {
+    "textoDaPergunta": "Pergunta e09 ___ Na linguagem Java, é comum o uso da classe “Collection”, que tem classes-filhas para listas e conjuntos...[...]...Em relação ao melhor uso dos conjuntos em linguagem Java, assinale a alternativa correta.",
+    "opcoes": [
+      "a. Exemplos de conjuntos são as classes List e Queue.",
+      "b. Os conjuntos são definidos pela classe Vector, permitindo a duplicidade de elementos.",
+      "c. Os conjuntos são uma coleção ordenada de elementos.",
+      "d. Os conjuntos são definidos pela classe ArrayList.",
+      "e. Os conjuntos são uma Collection que não permite elementos duplicados."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "Um conjunto funciona de forma análoga aos conjuntos da matemática. Trata-se de uma Collection que não permite elementos duplicados. Um conjunto é representado pela interface Set, tendo como principais implementações as classes: HashSet, LinkedHashSet e TreeSet."
+  },
+  {
+    "textoDaPergunta": "Pergunta e10 ___ Os Mapas de Hash são estruturas de dados indexados.\nUm Mapa de Hash usa uma função de Hash para calcular um índice com\numa chave em uma matriz de baldes ou slots. O seu valor é mapeado\npara o bucket com o índice correspondente. A chave é única e imutável.\nPense em um Mapa de Hash como um armário com gavetas com etiquetas para\nas coisas armazenadas nelas. Por exemplo, armazenar\ninformações do usuário – considere o e-mail como a chave e podemos mapear os valores\ncorrespondentes a esse usuário como nome, sobrenome etc para um bloco.\nConsidere a seguinte codificação em Java, em sua versão 8, realizando a importação da biblioteca java.util.*;\n\n  Set set = hm.entrySet();\n    Iterator iterator = set.iterator();\n    while(iterator.hasNext()){\n    Map.Entry mentry = (Map.Entry)iterator.next();\n    System.out.print(\"A chave é: \" + mentry.getKey() + \"& o Valor é: \");    \n    System.out.println(mentry.getValue());\n    }\n    //Obtém valores baseado na chave\n    String var = hm.get(2);\n    System.out.println(\"Valor no índice 2 é: \" + var);\n\nSobre o código anterior, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A expressão “System.out.println” permite a exibição da saída do sistema em uma janela baseada em frames.",
+      "b. O método mentry.getKey() serve para obter a chave da relação Hash, e o “mentry.getValue()”, o seu valor.",
+      "c. O código utiliza-se de conjuntos, que são estruturas mais eficientes e mais rápidas do que os Mapas.",
+      "d. A expressão “get(2)” ocasionará um erro no valor, pois, em Hash, as respostas devem ser do tipo inteiro.",
+      "e. Em “Map.Entry mentry” teremos um erro de compilação, devido à incompatibilidade com a classe Iterator."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "Por apresentar a dupla chave/dados, os Mapas são considerados mais eficientes do que os Conjuntos. E, no código do exemplo, verificamos que as funções getKey() e getValue() estão sendo, corretamente, usadas para obtenção de chave e valor, respectivamente. A utilização de Map.Entry não indica erro, pois, como forma de iteração eficaz, o Iterator é, constantemente, utilizado com esses componentes. Ainda no código, utilizamos o System.out.println para que a saída do sistema seja exibida corretamente no console/IDE em que está sendo utilizado. Por fim, ao utilizarmos um get(n), isso permite acessarmos a posição de um elemento/valor com base em sua chave."
+  },
+  {
+    "textoDaPergunta": "Pergunta e11 ___ Analise o código a seguir em linguagem Java (qualquer versão), que cria um conjunto de nomes com a classe TreeSet.\n\n  public static void main(String[] args) {\n    TreeSet<String> dset = new TreeSet<String>();\n    dset.add(\"Zoraide\");\n    dset.add(\"Maria\");\n    dset.add(\"Janete\");\n    dset.add(\"João\");\n    dset.add(\"Heitor\");\n    Iterator<String> iterator = dset.iterator();\n    while (iterator.hasNext()) {\n      System.out.print(iterator.next() + \" \");\n    }\n  }\n\nEm relação ao código apresentado, assinale a alternativa correta.",
+    "opcoes": [
+      "a. O código iterator.next() retorna o próximo nome por ordem de inserção.",
+      "b. O código iterator.hasNext() retorna o próximo nome do conjunto em ordem alfabética.",
+      "c. O código System.out.print(iterator.next() + \" \") imprime os nomes por ordem de inserção.",
+      "d. O código iterator.next() retorna o conjunto dos nomes em ordem alfabética.",
+      "e. O código System.out.print(iterator.next() + \" \") imprime os nomes em ordem alfabética."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A classe TreeSet tem como principal característica implementar a interface SortedSet, em vez de Set, diretamente. Dessa forma, os elementos são ordenados, automaticamente, ou seja, independente da ordem de inserção dos elementos, eles serão ordenados. No código apresentado, System.out.print(iterator.next() + \" \"), a impressão dos dados será em ordem alfabética, e não por ordem de inserção, isto é, nesse caso, o método “iterator.next()” retorna o próximo nome em ordem alfabética."
+  },
+  {
+    "textoDaPergunta": "Pergunta e12 ___ Analise o código a seguir em linguagem Java (qualquer versão), que cria um conjunto de nomes com a classe HashSet. \n\n  public static void main(String[] args) {\n    HashSet<String> dset = new HashSet<String>();\n    dset.add(\"Zoraide\");\n    dset.add(\"Maria\");\n    dset.add(\"Janete\");\n    dset.add(\"João\");\n    dset.add(\"Heitor\");\n    Iterator<String> iterator = dset.iterator();\n    while (iterator.hasNext()) {\n      System.out.print(iterator.next() + \" \");\n    }\n  }\n\nEm relação ao código, assinale a alternativa correta.",
+    "opcoes": [
+      "a. O código System.out.print(iterator.next() + \" \") imprime os nomes por ordem de inserção.",
+      "b. O código iterator.next() retorna o conjunto dos nomes em ordem alfabética.",
+      "c. O código System.out.print(iterator.next() + \" \") imprime os nomes não necessarily na ordem em que foram inseridos.",
+      "d. O código iterator.hasNext() retorna o próximo nome do conjunto em ordem alfabética.",
+      "e. O código iterator.next() retorna o próximo nome em ordem de inserção."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A classe TreeSet tem como principal característica implementar a interface SortedSet, em vez de Set, diretamente. Dessa forma, os elementos são ordenados, automaticamente, ou seja, independente da ordem de inserção dos elementos, eles serão ordenados. No código apresentado, System.out.print(iterator.next() + \" \"), a impressão dos dados será em ordem alfabética, e não por ordem de inserção, isto é, nesse caso, o método “iterator.next()” retorna o próximo nome em ordem alfabética. "
+  },
+  {
+    "textoDaPergunta": "Pergunta e13 ___ Quando um programa está sendo executado, uma seção especial\ndo espaço de memória do computador é alocada apenas para tal,\nchamada Pilha de Chamadas do programa. É importante entender\ncomo funciona o Call-Stack de um programa, para entender como as funções\nrecursivas se comportam quando estão sendo executadas. Sobre o que foi apresentado,\nobserve as asserções a seguir e as relações propostas entre elas.\nI.   Quando ação termina a execução, o código de função é removido ou retirado do topo da pilha, que permite apenas que itens sejam adicionados ao topo; por isso, é chamada de estrutura de dados LIFO (Last-In-First-Out). \nPORQUE\nII. Cada vez que uma função é chamada, o código da função, bem como o espaço para os argumentos da função e os valores de retorno, são colocados no topo da Pilha de Chamadas.\nAnalisando as asserções anteriores, assinale a alternativa correta.",
+    "opcoes": [
+      "a. As asserções I e II são proposições verdadeiras, e a II é uma justificativa para I.",
+      "b. A asserção II é uma proposição verdadeira, e a I é uma proposição falsa.",
+      "c. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa para I.",
+      "d. As asserções I e II são proposições falsas.",
+      "e. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A asserção I é verdadeira, pois essa estratégia de execução obedece ao critério de pilha (imagine uma pilha de livros, em que, para retirada, o primeiro a ser removido foi o último a ser inserido). Assim, apenas o topo é utilizado para as operações (remoção/inserção).  A asserção II é verdadeira e justifica a I, pois, a cada chamada de função, toda parte de código, de espaço de argumentos, de funções etc. é colocada no topo da Pilha de Chamadas."
+  },
+  {
+    "textoDaPergunta": "Pergunta f01 ___ A linguagem Java dispõe do bloco try-catch e da cláusula throws, usados para o tratamento de exceções. Nesse sentido, analise as asserções a seguir e a relação proposta entre elas.\nI.  O bloco try contém um conjunto de instruções em que uma exceção pode ocorrer. \nII. É sempre obrigatório um bloco try ser seguido por um bloco catch, que trata a exceção, caso ela ocorra.\nAnalisando essas asserções, é correto afirmar que:",
+    "opcoes": [
+      "a. as duas asserções são verdadeiras, mas a segunda não justifica a primeira.",
+      "b. as duas asserções são verdadeiras e a segunda justifica a primeira.",
+      "c. a primeira asserção é verdadeira e a segunda é falsa.",
+      "d. a primeira asserção é falsa e a segunda é verdadeira.",
+      "e. as duas asserções são falsas. "
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A proposição I está correta, pois o bloco try deve conter as instruções em que uma exceção pode ocorrer. A proposição II está correta, mas não justifica a primeira, pois o bloco try sempre é seguido por um bloco catch, para tratar a exceção que ocorre no bloco try associado. O termo “catch” é um complemento para o termo “try”, e não uma justificativa."
+  },
+  {
+    "textoDaPergunta": "Pergunta f02 ___ Uma exceção que ocorre durante a execução de um programa é chamada de exceção não verificada ou de tempo de execução. [...] Se a classe de exceção que você encontrar fizer parte da superclasse RunTimeException, ela é sempre do tipo não verificada. FELIX, R. (org.). Programação orientada a objetos. São Paulo: Pearson Education do Brasil, 2016.\nNesse sentido, avalie as afirmativas a seguir.\nI.   Exceções não verificadas são usadas a partir da previsão da interrupção de alguma execução do sistema, em que a exceção não é capturada, causando falha do programa.\nII.  O Java utiliza o “multiencadeado” (ou multithreaded) como modelo de execução de programas – cada thread é uma atividade concorrente. \nIII. Um programa pode ter muitas threads. Caso uma thread apenas esteja executando no programa, uma exceção não capturada implicará o encerramento do sistema.\nIV.  Se um programa possui múltiplas threads executando, uma exceção não capturada encerrará todas as threads em execução por segurança.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. I e III, apenas.",
+      "b. I, II e III, apenas.",
+      "c. II e III, apenas.",
+      "d. I e II, apenas.",
+      "e. I, III e IV, apenas."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A afirmativa I está correta, pois, se a exceção não for capturada ou tratada, uma falha no programa poderá ocorrer, interrompendo o fluxo do sistema. A palavra-chave “throws” permite que o compilador o ajude a escrever o código que lida com esse tipo de erro, mas não impede o encerramento anormal do programa.  A afirmativa II está correta, pois uma das características das threads é a execução como um processo de forma concorrente, em que a CPU é compartilhada (se você tem mais processador, mais threads poderão ser executadas de forma simultânea, acelerando o processo na totalidade).  A afirmação III está correta, pois a existência de apenas uma thread implica que o processo está condicionado à execução da mesma, interrompido em caso de falha. Múltiplas capturas nos dão a chance de lidar com cada exceção de maneira diferente, caso seja necessário.  A afirmativa IV está incorreta, pois as threads são independentes, e apenas a thread com exceção não capturada será encerrada. A JVM cria a primeira thread usando o método main."
+  },
+  {
+    "textoDaPergunta": "Pergunta f03 ___ Em aplicações desenvolvidas em linguagem Java, é muito comum o tratamento de exceções, a fim de evitar travamentos e comportamentos incompreensíveis pelo usuário ou pelos próprios desenvolvedores. Considerando as características do tratamento de exceções em linguagem Java, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s). \nI.   ( ) O tratamento de exceções refere-se aos erros em tempo de execução.\nII.  ( ) Sempre que um erro ocorre, uma exceção (objeto) é criada e lançada. \nIII. ( ) A exceção (objeto) encapsula as informações do erro.\nIV.  ( ) O tratamento das exceções ocorre com o bloco try-catch, try-catch-finally.\nAssinale a alternativa que apresenta a sequência correta.",
+    "opcoes": [
+      "a. V, V, F, F.",
+      "b. V, F, V, F.",
+      "c. F, F, F, V.",
+      "d. F, V, V, V.",
+      "e. V, V, V, V."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I é verdadeira, pois o tratamento de exceções ocorre em tempo de execução. A afirmativa II é verdadeira, pois, como a exceção ocorre em tempo de execução, ao ocorrer, um objeto do tipo Exception é criado com as informações do erro. A afirmativa III é verdadeira, pois o objeto criado, quando uma exceção é lançada, tem atributos e métodos com as informações do erro. A afirmativa IV é verdadeira, pois, em linguagem Java, o tratamento das exceções utiliza a estrutura try-catch, try-catch-finally."
+  },
+  {
+    "textoDaPergunta": "Pergunta f04 ___ Analise o código a seguir sobre as exceções em linguagem Java (qualquer versão).\n\n  public class TratamentoException {\n    public static void main(String[] args) {\n      for (int i = 0; i < 4; i++) {\n        try {\n          System.out.println(args[i]);\n        } catch (ArrayIndexOutOfBoundsException e) {\n          System.err.println(\"Índice inexistente no vetor nomes\");\n        }\n      }\n    }\n  }\n\nAgora, assinale a alternativa correta. ",
+    "opcoes": [
+      "a. Ao executar o programa, passando três parâmetros na linha de comando, gera-se uma exceção.",
+      "b. O tratamento da exceção ocorrerá quando a quantidade do vetor “args” for maior que três.",
+      "c. O programa gera uma exceção, durante a compilação, devido à falta de valores do vetor “args”.",
+      "d. Trata-se de uma exceção do tipo Error (unchecked), em que o Java emite uma mensagem e encerra.",
+      "e. Trata-se de uma exceção contornável e que ocorre durante o processo de compilação do programa."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "Esse programa receberá um array do tipo String de argumentos que serão informados na linha de comando de execução do programa. Caso o usuário informe três argumentos, o programa executará, normalmente, sem gerar exceções; caso informe mais de três argumentos, uma exceção do tipo RuntimeException será gerada. Não haverá erros de compilação, visto que não há erros de sintaxe. A exceção gerada pelo programa apresentado é do tipo RuntimeException (unchecked), e não do tipo Error, pois ocorre em tempo de execução, ao se tentar buscar um índice inexistente no vetor “nomes”, e poderá ser tratada com o bloco try-catch. O vetor tem apenas três elementos, e o laço de repetição exige quatro. A exceção é tratada pelo bloco try-catch e retornará a mensagem “Índice inexistente no vetor nomes”."
+  },
+  {
+    "textoDaPergunta": "Pergunta f05 ___ Uma das formas mais eficientes de indicar ao usuário algum tipo de falha específica [...] é a partir do tratamento de exceções. O tratamento de exceções, dentre diversos motivos, é importante por possibilitar remover a lógica-padrão na tratativa de erros do programa. [...] Felix (2016, p. 111) afirma que, “ao lançar ou se tratar exceções, é possível aprimorar a clareza do programa”. Sobre o texto anterior, avalie as afirmativas a seguir.\nI.   A manipulação de exceção em Java é um dos mecanismos poderosos para lidar com exceções de tempo de execução e eliminá-las; portanto, ajuda a minimizar as exceções e a se recuperar de possíveis bugs. \nII.  O tratamento de exceções ajuda a manter o fluxo do programa, sendo uma condição anormal possível de ocorrer em tempo de execução, alterando ou interrompendo o fluxo normal do programa.\nIII. O bloco “try” contém o trecho do programa que pode lançar uma exceção. Ao executar uma codificação no bloco “try”, as instruções após a exceção serão executadas integralmente se a exceção ocorrer no início do bloco.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. II e III, apenas.",
+      "b. I e III, apenas.",
+      "c. I e II, apenas.",
+      "d. I, II e III, apenas.",
+      "e. I, apenas."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A afirmativa I está correta, pois essa tratativa possui como grande importância evitar que o sistema trave ou exiba uma falha não tratada corretamente ao usuário, principalmente em tempo de execução.  A afirmativa II está correta, pois, em uma execução normal, quando o tratamento de exceção é realizado, o seu fluxo não é alterado em função de um bug ou uma tratativa. Na verdade, qualquer caminho tomado com base na tratativa de exceção está pensado e projetado em um fluxo definido.  A afirmativa III está incorreta, pois, no momento em que uma exceção é capturada no bloco “try”, a execução desse bloco é interrompida para o tratamento, e qualquer codificação dentro do bloco após essa captura não será executada."
+  },
+  {
+    "textoDaPergunta": "Pergunta f06 ___ O bloco “try Java” é usado para incluir o código que pode lançar uma exceção. [...] Observe o trecho de código em Java, versão 8, disposto a seguir.\n\n  public class TryCatchExamplo01 {\n    public static void main(String[] args){\n      try {\n        int data = 50/0;\n      } catch(ArithmeticException e){\n        System.out.println(e);\n      }\n      System.out.println(\"restante do código aqui ...\");\n    }\n  }\n\nAssinale a alternativa correta sobre o trecho anterior.",
+    "opcoes": [
+      "a. A exceção será lançada, exclusivamente, se ocorrer um erro aritmético, conforme mostrado no código, caso se tente uma divisão por zero, por exemplo.",
+      "b. Todas as exceções poderão ser capturadas nessa codificação, mas apenas a exceção do tipo “ArithmeticException” está sendo lançada.",
+      "c. Várias exceções poderão ser lançadas, mas, no caso do código, apenas a exceção do tipo “ArithmeticException” está sendo capturada.",
+      "d. Pode ocorrer um erro na execução mesmo com a tratativa de exceção, uma vez que o bloco “finally” está ausente da codificação.",
+      "e. Caso, dentro da linha do “System.out (...)” haja um erro, a exceção será lançada e devidamente tratada para exibição correta de informação."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "Quando lidamos com tratamento de exceções, é condicionada a captura ao tipo específico de exceção lançada. É possível capturar todas, caso não se determine a exceção exata, usando apenas a superclasse Exception, ou, ainda, um tipo específico, quando determinamos a exceção que será capturada. Nesse caso, ainda que outras exceções possam ser lançadas, apenas a estabelecida na captura da codificação será tratada. Se existe uma tratativa genérica, qualquer exceção será capturada. O bloco “finally” independe da captura ou não de exceção, pois, quando presente, sempre será executado. Lembrando que lançamento difere de captura de exceção. Um código pode lançar várias exceções, mas cabe ao programador indicar as suas capturas específicas e a exibição."
+  },
+  {
+    "textoDaPergunta": "Pergunta f07 ___ Na linguagem Java, é comum o tratamento de exceções, sendo esse um de seus recursos mais importantes, pois permite tratar os erros, em tempo de execução, causados por exceções. Em relação ao tratamento de exceções, assinale a alternativa que apresenta, corretamente, o melhor uso das exceções em linguagem Java.",
+    "opcoes": [
+      "a. Uma exceção é uma instrução executada quando uma condição não é atendida.",
+      "b. Para tratar uma exceção, utilizamos as estruturas if-then-else.",
+      "c. Quando ocorre um erro de sintaxe na programação, há uma exceção.",
+      "d. Uma exceção é um evento desejado que permite seguir o fluxo normal do programa.",
+      "e. Uma exceção é um evento indesejado que interrompe o fluxo normal do programa."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "Quando ocorre uma exceção, a execução do programa é encerrada; para que isso não ocorra, é necessário o tratamento. Ao lidarmos com as exceções, podemos fornecer uma mensagem significativa ao usuário sobre o problema, em vez de uma mensagem gerada pelo sistema, que pode não ser compreendida pelo usuário. Assim, uma exceção não ocorre devido ao não atendimento de condições, muito menos por erros de sintaxe. Quando ocorrem erros de sintaxe, o compilador já detecta e impede a execução do programa. As exceções têm a característica de interromper o fluxo normal do programa, e o tratamento das exceções ocorre com o uso das estruturas try-catch."
+  },
+  {
+    "textoDaPergunta": "Pergunta f08 ___ Um dos recursos mais importantes da linguagem Java e que diferenciam essa linguagem de muitas outras é o tratamento de exceções. Assinale a alternativa que apresenta, corretamente, os comandos para o tratamento de exceções em linguagem Java.",
+    "opcoes": [
+      "a. for-each",
+      "b. try-catch",
+      "c. if-then-else",
+      "d. if-error",
+      "e. new Object()"
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "Na linguagem Java, o tratamento das exceções ocorre com os comandos try-catch e try-catch-finally. As estruturas if-then-else são utilizadas no fluxo normal do programa como estruturas condicionais. O for-each é utilizado para estruturas de repetição. O new Object() é utilizado para instanciar um novo objeto, e o comando if-error não existe na linguagem Java."
+  },
+  {
+    "textoDaPergunta": "Pergunta f09 ___ “Às vezes, um método responde a uma exceção lançando um tipo de exceção diferente que é específico para o aplicativo atual. [...] Isso torna a depuração desses problemas particularly difícil” (DEITEL; 2016, p. 363). Sobre o que foi apresentado, analise as asserções a seguir e as relações propostas entre elas.\nI.  A palavra-chave “try” é usada no bloco de instruções em que estamos excetuando uma exceção, ou seja, se ocorrer exceção no bloco “try”, o controle pula para o próximo bloco.\nPORQUE\nII. O programa que contém o bloco “try” capturará uma exceção possível, mas não lidará com a situação e a execução do programa, causando sua interrupção.\nAnalisando as asserções anteriores, assinale a alternativa correta.",
+    "opcoes": [
+      "a. As asserções I e II são proposições verdadeiras, e a II é uma justificativa para I.",
+      "b. A asserção II é uma proposição verdadeira, e a I é uma proposição falsa.",
+      "c. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa para I.",
+      "d. As asserções I e II são proposições falsas.",
+      "e. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A asserção I é verdadeira, pois o termo “try” (tentar) direciona ao sistema que, naquele momento, alguma coisa pode dar errada, e, caso ocorra o erro/exceção, a execução no bloco é interrompida, continuando o fluxo normal do sistema. A asserção II é falsa, pois, justamente dentro do bloco “try” podemos usar com o catch, responsável pela captura de exceções de forma geral ou mesmo de uma específica."
+  },
+  {
+    "textoDaPergunta": "Pergunta f10 ___ Uma thread em Java é a direção ou o caminho percorrido enquanto um programa está sendo executado. [...] Sobre o que foi apresentado, analise as asserções a seguir e as relações propostas entre elas.\nI.  Uma thread é um processo muito leve, ou, pode-se dizer, a menor parte do processo, que permite que um programa opere com mais eficiência, executando várias tarefas simultaneamente. \nPORQUE\nII. Se uma thread receber uma exceção ou um erro no momento de sua execução, isso não afetará a execução das outras threads, já que todas compartilham uma memória comum e possuem a sua própria pilha, variáveis locais e contador de programa.\nAnalisando as asserções anteriores, assinale a alternativa correta.",
+    "opcoes": [
+      "a. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa para I.",
+      "b. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "c. A asserção II é uma proposição verdadeira, e a I é uma proposição falsa.",
+      "d. As asserções I e II são proposições falsas.",
+      "e. As asserções I e II são proposições verdadeiras, e a II é uma justificativa para I."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A asserção I é verdadeira, pois a thread é um fluxo simples sequencial de controle em um programa, permitindo uma divisão (“dividir para conquistar”) de tarefas maiores, prezando pela eficiência da execução total.  A asserção II é verdadeira, mas não justifica a I, pois cada thread funciona como um processo à parte, em que, apesar de obterem algumas relações sobre o processo pai ao qual estão relacionadas, cada uma possui a sua própria identificação e o seu ciclo."
+  },
+  {
+    "textoDaPergunta": "Pergunta f11 ___ A linguagem Java tem um mecanismo de tratamento de exceções simple e organizado em três categorias. Nesse sentido, avalie as afirmativas a seguir, em relação aos três tipos de exceções.\n1 – Exception (checked).\n2 – RuntimeException (unchecked).\n3 – Error (unchecked).\nI.   Representam erros internos na aplicação, mas que, em geral, não são tratáveis pelo programador.\nII.  Representam erros externos à aplicação, que não são contornáveis pelo programador.\nIII. São situações excepcionais em um programa, em tempo de execução, que podem ser contornadas.\nAssinale a alternativa que relaciona, adequadamente, os dois grupos de informações.",
+    "opcoes": [
+      "a. 1-I; 2-III; 3-II.",
+      "b. 1-III; 2-I; 3-II.",
+      "c. 1-III; 2-II; 3-I.",
+      "d. 1-I; 2-II; 3-III.",
+      "e. 1-II; 2-I; 3-III."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A sentença 1 se enquadra no conceito III, pois o tipo Exception (checked) é uma exceção que ocorre em tempo de compilação e que não pode ser ignorada, caso contrário, é gerado um erro de compilação. A sentença 2 se enquadra no conceito I, pois o tipo RuntimeException (unchecked) não gera erros de compilação e ocorre durante a execução do programa e podem ser tratados pelo programador. A sentença 3 se enquadra no conceito II, pois o tipo Error (unchecked) representa erros externos à aplicação, que não são contornáveis pelo programador; nesse caso, o Java imprime uma mensagem de erro e termina o programa."
+  },
+  {
+    "textoDaPergunta": "Pergunta f12 ___ Uma das formas mais eficientes de indicar ao usuário algum tipo de falha específica [...] é a partir do tratamento de exceções. [...] Felix (2016, p. 111) afirma que, “ao lançar ou se tratar exceções, é possível aprimorar a clareza do programa”. Sobre o texto anterior, avalie as afirmativas a seguir.\nI.   A manipulação de exceção em Java é um dos mecanismos poderosos para lidar com exceções de tempo de execução e eliminá-las; portanto, ajuda a minimizar as exceções e a se recuperar de possíveis bugs. \nII.  O tratamento de exceções ajuda a manter o fluxo do programa, sendo uma condição anormal possível de ocorrer em tempo de execução, alterando ou interrompendo o fluxo normal do programa.\nIII. O bloco “try” contém o trecho do programa que pode lançar uma exceção. Ao executar uma codificação no bloco “try”, as instruções após a exceção serão executadas integralmente se a exceção ocorrer no início do bloco.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I, II e III, apenas.",
+      "b. I e III, apenas.",
+      "c. I e II, apenas.",
+      "d. I, apenas.",
+      "e. II e III, apenas."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A afirmativa I está correta, pois essa tratativa possui como grande importância evitar que o sistema trave ou exiba uma falha não tratada corretamente ao usuário, principalmente em tempo de execução.  A afirmativa II está correta, pois, em uma execução normal, quando o tratamento de exceção é realizado, o seu fluxo não é alterado em função de um bug ou uma tratativa. Na verdade, qualquer caminho tomado com base na tratativa de exceção está pensado e projetado em um fluxo definido.  A afirmativa III está incorreta, pois, no momento em que uma exceção é capturada no bloco “try”, a execução desse bloco é interrompida para o tratamento, e qualquer codificação dentro do bloco após essa captura não será executada."
+  },
+  {
+    "textoDaPergunta": "Pergunta f13 ___ O tratamento de exceções é um dos recursos mais importantes da programação Java que nos permite tratar os erros em tempo de execução causados por exceções. De acordo com Deitel e Deitel (2016, p. 348), a “exceção é uma indicação de um problema que ocorre durante a execução de um programa. O tratamento de exceção permite criar aplicativos que podem resolver (ou tratar) exceções. Em muitos casos, o tratamento de uma exceção permite que um programa continue executando como se nenhum problema tivesse sido encontrado”. DEITEL, P.; DEITEL, H. Java: como programar. 10. ed. São Paulo: Pearson Education do Brasil, 2016. Sobre captura e tratamento de exceções em Java, observe as afirmativas a seguir.\nI.   Você chama um ou mais métodos que podem lançar uma exceção, ou talvez você mesmo lance a exceção.\nII.  Um objeto do tipo Exception (exceção genérica) será instanciado sempre que ocorrer uma exceção durante a execução, em que conterá as informações sobre exceção.\nIII. Ao lidar com as exceções, não podemos fornecer informações mais precisas ao usuário, em virtude de mantermos a segurança do código.\nIV.  As exceções indicam que algo grave o suficiente deu errado, o aplicativo deve travar em vez de tentar lidar com a exceção no código.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I e III, apenas.",
+      "b. I, II e IV, apenas.",
+      "c. I, III e IV, apenas.",
+      "d. II e III, apenas.",
+      "e. I e II, apenas."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I está correta, pois é possível a chamada de métodos já direcionados para lançamento de exceção, ou, então, a criação de uma tratativa personalizada. Significa que não se está restrito apenas aos métodos fornecidos pelo tratamento de exceção, sendo possível capturar e organizar as chamadas conforme as necessidades.  A afirmativa II está correta, pois o objeto Exception é a base para a tratativa e execução de exceções, contendo todas as informações persistentes, caso ocorra alguma. Cada exceção inclui uma mensagem que é uma descrição de erro legível por humanos. Muitas vezes, pode estar relacionado a problemas com a entrada do usuário, servidor, back-end etc.  A afirmativa III está incorreta, pois, ao contrário do que está sendo afirmado, o usuário precisa ter clareza do possível erro/exceção que está ocorrendo naquele momento.  A afirmativa IV está incorreta, pois, em uma tratativa de exceção, é recomendado que a aplicação tome providências, de modo que a execução continue normally, sem ocorrer travamentos."
+  },
+  {
+    "textoDaPergunta": "Pergunta g01 ___ A serialização é um mecanismo de conversão do estado de um objeto em um fluxo de bytes. A desserialização é o processo inverso em que o fluxo de bytes é usado para recriar o objeto Java real na memória. Esse mecanismo é usado para persistir o objeto. Sobre o que foi apresentado, observe as asserções a seguir e as relações propostas entre elas.\nI.  ObjectOutputStream possui como uma das funções a gravação como fluxos de dados de tipos primitivos, bem como gráficos de objetos, em um tipo OutpoutStream.\nPORQUE\nII. Tanto o ObjectInputStream quanto o ObjectOutputStream são classes de alto nível que herdam de java.io.InputStream e java.io.OutputStream, respectivamente.\nAnalisando as asserções anteriores, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "b. As asserções I e II são proposições falsas.",
+      "c. A asserção II é uma proposição verdadeira, e a I é uma proposição falsa.",
+      "d. As asserções I e II são proposições verdadeiras, e a II é uma justificativa para I.",
+      "e. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa para I."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A asserção I é verdadeira, pois esse OutputStream é usado, posteriormente, por ObjectOutputStream para canalizar o fluxo de objeto para o fluxo de saída subjacente, por exemplo, FileOutputStream.   \nA asserção II é verdadeira, mas não justifica a I, pois essas classes estão relacionadas com procedimentos de entrada e saída em Java, ligados ao InputStream e OutputStream, do pacote java.io."
+  },
+  {
+    "textoDaPergunta": "Pergunta g02 ___ A aplicação do conceito de threads dentro da própria linguagem é uma característica da programação em Java que permite maior versatilidade aos programadores na modelagem de sistemas mais complexos.\nEm relação ao conceito de threads na linguagem Java, assinale a alternativa correta.",
+    "opcoes": [
+      "a. É um recurso utilizado para permitir a comunicação em rede dos programas.",
+      "b. É um recurso utilizado para manipulação de coleções de dados.",
+      "c. É um recurso utilizado para comunicação com bancos de dados.",
+      "d. É um recurso utilizado para conversão de tipos de dados.",
+      "e. É um recurso utilizado para permitir a programação multitarefa."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "O uso do conceito de threads em linguagem Java permite a computação paralela ou multitarefa, trazendo muita versatilidade e melhoria na modelagem de problemas complexos. A classe Collection é a responsável pela manipulação de listas e coleções de dados e não tem relação direta com o conceito de threads. O uso de Sockets em Java permite a comunicação em rede dos processos, e não o conceito de threads. A comunicação com sistemas de bancos de dados é realizada por meio de bibliotecas próprias de cada fabricante e não tem relação direta com o conceito de threads."
+  },
+  {
+    "textoDaPergunta": "Pergunta g03 ___ Um soquete é um terminal de comunicação que serve como um link entre duas máquinas em uma rede. Ele possui um número de porta, que a camada TCP/IP pode usar para identificar o aplicativo que recebe os dados. Um endpoint, geralmente, inclui um número de porta e um endereço IP. Observe o seguinte trecho de código escrito em Java, em sua versão 8, utilizando a biblioteca java.net.*.\n\n  while(true){\n    String inp = sc.nextLine();\n    // converte a string de entrada em um vetor de bytes\n    buf = inp.getBytes();\n    // Step 2: Cria o datagramPacket para ser enviado pela rede.\n    DatagramPacket DpSend = new DatagramPacket(buf, buf.length, ip, 1234);\n    // invoca o send para fazer o envio de fato\n    ds.send(DpSend);\n    // para o loop quando o usuário digitar tchau\n    if(inp.equals(\"tchau\"){\n    break;\n    }\n\nNesse contexto, assinale corretamente a alternativa.",
+    "opcoes": [
+      "a. O DatagramaPacket é utilizado para criar datagramas de dados para o envio, provendo uma melhor comunicação entre os hosts.",
+      "b. Um Socket não suporta conexão via UDP, pois necessita de um alto padrão de confiabilidade, imprescindível para toda a rede.",
+      "c. Qualquer fluxo, menos o de strings, pode refletir no comportamento das chamadas realizadas para envio de fluxos na rede.",
+      "d. Não há método que possa realizar leitura de strings e convertê-los para byte, pois não é característica de orientação a objetos.",
+      "e. Ao usar o nextLine(), o sistema ignora a linha que seria executada, pula para a próxima a ser executada."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "Datagramas são coleções de informações enviadas de um dispositivo para outro dispositivo por meio da rede estabelecida. Quando o datagrama é enviado ao dispositivo de destino, não há garantia de que chegará ao dispositivo de destino de forma segura e completa. Pode ser danificado ou perdido entre as bordas da comunicação. Dessa forma, a classe Java DatagramSocket representa um soquete sem conexão para enviar e receber pacotes de datagramas. É um mecanismo usado para transmitir pacotes de datagramas pela rede."
+  },
+  {
+    "textoDaPergunta": "Pergunta g04 ___ A linguagem Java foi projetada para usar Threads, sendo que o primeiro e principal Thread é executado no método “main”. Nesse sentido, analise as asserções a seguir e a relação proposta entre elas.\nI.  O uso de Threads permite que o sistema operacional consiga dividir as tarefas entre todos os processadores disponíveis, aumentando, assim, a eficiência do processo. \nII. O processamento assíncrono (segundo plano) usando Threads pode fazer um servidor de e-mail atender a mais de um usuário, simultaneamente.\nAnalisando essas asserções, é correto afirmar que:",
+    "opcoes": [
+      "a. as duas asserções são verdadeiras, mas a segunda não justifica a primeira.",
+      "b. as duas asserções são verdadeiras e a segunda justifica a primeira.",
+      "c. as duas asserções são falsas.",
+      "d. a primeira asserção é verdadeira e a segunda é falsa.",
+      "e. a primeira asserção é falsa e a segunda é verdadeira."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A proposição I está correta, pois, dentre os principais motivos do uso de Threads, há o fato de esse uso permitir que o sistema operacional divida as tarefas entre todos os processadores disponíveis, aumentando, assim, a eficiência do processo. A proposição II está correta, mas não justifica a primeira, pois a segunda assertiva apresenta apenas um exemplo prático de uso de Threads no processamento assíncrono (segundo plano) com Threads, um servidor de e-mail pode, por exemplo, atender a mais de um usuário, simultaneamente."
+  },
+  {
+    "textoDaPergunta": "Pergunta g05 ___ Você pode criar uma thread na linguagem de programação Java estendendo a classe Thread, implementando Runnable ou usando a estrutura Executor em Java. Lembre-se de que Runnable não representa Thread; na verdade, é uma tarefa executada por outra Thread. [...] “no streaming de áudio ou vídeo pela internet, talvez o usuário não queira esperar até que todo o áudio ou vídeo seja baixado antes de iniciar a reprodução. Para resolver esse problema, múltiplas threads podem ser usadas – uma para baixar o áudio ou vídeo e outra para reproduzi-lo. [...]”. Com base no texto e em conceitos de programação concorrente e threads, observe as afirmativas a seguir.\nI.   No nível do sistema operacional, geralmente, dois estados separados participam do chamado estado executável na thread Java. O sistema operacional omite esses estados da Java Virtual Machine (JVM), vendo somente o estado em execução.\nII.  Todo aplicativo Java tem pelo menos uma thread – thread principal, embora existam tantos outros encadeamentos Java em execução em segundo plano como gerenciamento de memória, gerenciamento de sistema, processamento de sinal etc.\nIII. Não é possível determinar uma prioridade de atendimento das threads. Como todas devem executar simultaneamente, o sistema sempre vai se basear no FIFO – primeiro que chega, primeiro que sai.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. II e III, apenas.",
+      "b. I, apenas.",
+      "c. I, II e III.",
+      "d. I e III, apenas.",
+      "e. I e II, apenas."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I está correta, pois o sistema operacional se encarrega em visualizar apenas a execução, ou seja, o estado executável do Java, devida à utilização do JVM, o que permite a interoperabilidade com diferentes plataformas de execução.  A afirmativa II está correta, pois uma thread em Java é a direção ou o caminho percorrido enquanto um programa está sendo executado. Geralmente, todos os programas possuem pelo menos uma thread, conhecida como thread principal, fornecida pela JVM no início da execução do programa.  A afirmativa III está incorreta, pois as threads podem ter priorização a nível de criação com base no processo ao qual estão relacionadas, permitindo que diferentes critérios possam ser usados na execução pelo processador, e não apenas o tipo FIFO."
+  },
+  {
+    "textoDaPergunta": "Pergunta g06 ___ A interface ObjectOutput contém o método writeObject, que recebe um Object como um argumento e grava as suas informações em um OutputStream. [...] A interface ObjectInput contém o método readObject, que lê e retorna uma referência a um Object a partir de um InputStream. [...] Sobre o que foi apresentado, analise as asserções a seguir e as relações propostas entre elas.\nI. As classes ObjectInputStream e ObjectOutputStream são fluxos de alto nível nos quais uma série de métodos as compõem para a serialização ou a desserialização de um objeto.\nPORQUE\nII. A classe ObjectOutputStream possui muitos métodos de gravação para vários tipos de dados, em que alguns se destacam com a utilização da serialização.\nAnalisando as asserções anteriores, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A asserção II é uma proposição verdadeira, e a I é uma proposição falsa.",
+      "b. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "c. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa para I.",
+      "d. As asserções I e II são proposições falsas.",
+      "e. As asserções I e II são proposições verdadeiras, e a II é uma justificativa para I."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A asserção I é verdadeira, pois são usados fluxos de objeto para ler e gravar objetos Java em formato binário. ObjectInputStream e ObjectOutputStream são as principais classes de fluxo de objetos fornecidas pela API de E/S de arquivo Java.  A asserção II é verdadeira, mas não justifica a I, uma vez que existem diversos métodos e contextos a serem aplicados a essa classe como, por exemplo, writeObject(Object), que grava um objeto no armazenamento ou no fluxo subjacente."
+  },
+  {
+    "textoDaPergunta": "Pergunta g07 ___ As classes ByteStream são usadas para ler bytes do fluxo de entrada e gravar bytes no fluxo de saída. Em outras palavras, podemos dizer que as classes ByteStream leem/escrevem os dados de 8 bits. Podemos armazenar vídeo, áudio, personagens etc. usando classes ByteStream. Essas classes fazem parte do pacote java.io. Sobre o texto anterior, avalie as afirmativas a seguir.\nI.   As classes ByteStream são divididas em dois tipos de classes, ou seja, InputStream e OutputStream. Essas classes são abstratas e as superclasses de todas as classes de fluxo de entrada/saída.\nII.  O método int read() retorna um inteiro, uma representação integral do próximo byte disponível da entrada. O inteiro 0 é retornado assim que o final da entrada é encontrado, caracterizado por “\\n”.\nIII. ByteArrayInputStream é uma classe de fluxo de bytes usada para ler os bytes da matriz de byte por byte. Ele estende a classe abstrata InputStream, que faz parte do pacote de classes java.io.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I, II e III.",
+      "b. I e III, apenas.",
+      "c. II e III, apenas.",
+      "d. I e II, apenas.",
+      "e. I, apenas."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A afirmativa I está correta, uma vez que as classes ByteStream são usadas para ler bytes do fluxo de entrada e gravar bytes no fluxo de saída. Podemos armazenar vídeo, áudio, personagens etc. usando classes ByteStream. Essas classes fazem parte do pacote java.io.  A afirmativa II está incorreta, primeiro, porque o inteiro retornado com o final de entrada será -1; segundo, porque o caractere “\\n” indica quebra de linha em algumas linguagens de programação.  A afirmativa III está correta, pois essa classe contém um buffer interno no qual existem bytes a serem lidos em um fluxo."
+  },
+  {
+    "textoDaPergunta": "Pergunta g08 ___ O termo “programação de soquete” refere-se a escrever programas executados em vários computadores, nos quais os dispositivos estão todos conectados mutualmente usando uma rede. Existem dois protocolos de comunicação que podemos usar para programação de soquete: User Datagram Protocol (UDP) e Transfer Control Protocol (TCP). No contexto de Sockets, avalie as afirmativas a seguir.\nI.   As classes Socket e ServerSocket são usadas para programação de Socket não orientada à conexão, e as classes DatagramSocket e DatagramPacket são usadas para programação de Socket com conexão.\nII.  O servidor constrói um objeto ServerSocket para especificar o número da porta na qual a comunicação ocorrerá. Métodos de tratamento de exceção são usados sempre que ocorre um erro de E/S.\nIII. Se a conexão for bem-sucedida, o cliente e o servidor poderão se comunicar usando fluxos de entrada/saída. As classes de soquete do cliente e do servidor são responsáveis pelos fluxos de E/S.\nIV.  Objetivando um melhor desempenho em todo processo, o Socket java precisa rodar assincronamente, ou seja, independentemente de protocolo, não aguardará resposta do servidor para a mensagem.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I, III e IV, apenas.",
+      "b. I, II e IV, apenas.",
+      "c. I e II, apenas.",
+      "d. I e III, apenas.",
+      "e. II e III, apenas."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I está incorreta, pois, pelo contrário, as classes Socket e ServerSocket são usadas para programação de Socket orientada a conexão (TCP), e as classes DatagramSocket e DatagramPacket são usadas para programação de Socket sem conexão (UDP). É importante lembrar que Socket com conexão, caracterizado pelo TCP, indica que um circuito é estabelecido, e a mensagem é apenas enviada caso o receptor responda um “ok”. O UDP, ao contrário, enviará os pacotes, efetivada ou não a sua entrega ao destinatário.  A afirmativa II está correta, pois o objeto ServerSocket é usado para fornecer implementação, independentemente do sistema do lado do servidor de uma conexão de soquete cliente/servidor.  A afirmativa III está correta, pois, após o estabelecimento da conexão, o cliente-servidor passa a se comunicar efetivamente, e os soquetes são responsáveis pelo fluxo entre os dois agentes.   \nA afirmação IV está incorreta, uma vez que o Socket java precisa rodar de forma síncrona no caso apresentado, pois deverá aguardar resposta do servidor para a mensagem trocada. O servidor constrói um objeto ServerSocket para especificar o número da porta na qual a comunicação ocorrerá. Métodos de tratamento de exceção são usados sempre que ocorre um erro de E/S."
+  },
+  {
+    "textoDaPergunta": "Pergunta g09 ___ A API Stream é usada para processar coleções de objetos. Um fluxo é uma sequência de objetos que suporta vários métodos que podem ser canalizados para produzir o resultado desejado. Sobre o fluxo de APIs, analise as afirmativas a seguir.\nI.   Um fluxo não é uma estrutura de dados, em vez disso, recebe entrada das coleções, matrizes ou canais de E/S.\nII.  Os fluxos não alteram a estrutura de dados original, eles apenas fornecem o resultado conforme os métodos de pipeline.\nIII. Cada operação intermediária é executada lentamente e retorna um fluxo como resultado; portanto, várias operações intermediárias podem ser canalizadas.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I e III, apenas.",
+      "b. II e III, apenas.",
+      "c. I, II e III.",
+      "d. I e II, apenas.",
+      "e. I, apenas."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A afirmativa I está correta, pois um fluxo está relacionado com a movimentação de dados por meio de um sistema, independentemente de sua estrutura. FlowAdapters tem métodos para converter as interfaces da API Flow em interfaces Reactive Stream e vice-versa; portanto, ajuda na interoperabilidade entre a API Flow e as bibliotecas com suporte a fluxo reativo.  A afirmativa II está correta, pois o objetivo dos fluxos é realizar a transmissão dos dados de um remetente ao destinatário, obedecendo ao método de comunicação, mas sem alterar a estrutura de dados original.  A afirmativa III está correta, pois as operações de terminal marcam o fim do fluxo e retornam o resultado. Em quase todos os casos, as operações de terminal são antecipadas, concluindo o seu fluxo a partir da fonte de dados e processando o pipeline antes de retornar o resultado final."
+  }
+]

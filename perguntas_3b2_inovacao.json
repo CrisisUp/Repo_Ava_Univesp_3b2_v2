@@ -1,0 +1,854 @@
+[
+  {
+    "textoDaPergunta": "Pergunta a01 ___ Suponha que você é gestor de uma empresa e precisa inovar em seus processos e produtos para conseguir se destacar no mercado. Porém você percebe que não basta apenas falar sobre inovação e, entre os três modelos (linear, linear reverso e inovação de terceira geração), decide seguir o modelo linear do processo de inovação a fim de identificar a necessidade do mercado para dar um \"pontapé\" na inovação de sua empresa. Além disso, você precisa que nesse modelo sejam consideradas as interações entre os agentes responsáveis e analisar a repetição das etapas do processo de inovação.\nCom relação ao modelo de processo de inovação escolhido, assinale a alternativa CORRETA.",
+    "opcoes": [
+      "a. Escolha incorreta, pois o processo de inovação deve ser guiado pelo pesquisador, e não pelo mercado.",
+      "b. Escolha incorreta, pois o modelo de inovação de terceira geração é o modelo que atende às necessidades apontadas.",
+      "c. Escolha correta, pois o modelo linear analisa as interações entre os agentes e as etapas repetidas no processo.",
+      "d. Escolha correta, pois o modelo linear tem como início de sua metodologia a necessidade do mercado.",
+      "e. Escolha incorreta, pois o modelo ideal, de acordo com as necessidades, seria o linear reverso. "
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "O modelo de inovação de terceira geração, apesar de também ter limitações, é o mais completo, visto que analisa a inovação de maneira sistêmica, considerando as necessidades do mercado, sem deixar de analisar a interação entre os agentes responsáveis pelos processos e as etapas repetidas, buscando otimizar o processo. O modelo linear parte do pesquisador, e não da necessidade do mercado, além de não conseguir analisar a interação entre os agentes e as etapas do processo. Não é errado o processo de inovação partir do pesquisador, porém cada modelo de inovação segue de uma forma: o modelo linear parte do pesquisador, já o modelo linear reverso e o de terceira geração partem da necessidade do mercado."
+  },
+  {
+    "textoDaPergunta": "Pergunta a02 ___ A empresa XYZ se considera uma organização que anseia a inovação, mas está com grandes dificuldades para competir com seus concorrentes. Nesse cenário, imagine que você foi contratado para analisar as métricas utilizadas para analisar as perspectivas de inovação e verificou que, apesar de existir um processo para gerar novas ideias e investir em treinamento de inovação para grande parte dos funcionários, poucos deles conseguem entender e reconhecer o foco estratégico e as metas de inovação.\nCom relação às perspectivas de métricas apresentadas, avalie as afirmativas a seguir. \nI. Está presente a perspectiva dos recursos, uma vez que a empresa alocou recursos para inovar. \nII. Falta a perspectiva de capacidade, pois poucos funcionários reconhecem as metas de inovação. \nIII. Está presente a perspectiva da liderança, visto que a empresa investe em treinamento para seus funcionários.\nEstá correto que se afirma em:",
+    "opcoes": [
+      "a. I e II, apenas.",
+      "b. I, apenas.",
+      "c. I e III, apenas.",
+      "d. II, apenas.",
+      "e. II e III, apenas."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A afirmativa I está correta, pois a perspectiva de recursos busca analisar o quanto a empresa investe em novos negócios ou processos inovadores ou como ela aplica seus recursos para inovar. A afirmativa II está incorreta, já que a perspectiva de capacidade analisa como a empresa insere a inovação em seu dia a dia, seja por treinamento, pela cultura de inovação etc. A afirmativa III está incorreta, visto que a perspectiva de liderança vai analisar a comunicação entre liderança e liderados e a qualidade dela, para entender se o objetivo e as metas de inovação estão alinhados entre eles."
+  },
+  {
+    "textoDaPergunta": "Pergunta a03 ___ Leia o excerto a seguir. \n“Nas primeiras décadas posteriores às revoluções tecnológicas do século XX, ainda era possível manter um negócio sem inovar. Afinal de contas, a demanda pelas maravilhosas novidades – carros, telefones, televisores, fast-food – era tão grande que o produtor era quem “dava as cartas”. À medida que essas novidades foram se popularizando e a espiral de avanço tecnológico assumiu um ritmo frenético, as empresas viram sua margem de lucro despencar”. \nAssinale a alternativa que indica corretamente o objetivo último das organizações, independentemente do negócio.",
+    "opcoes": [
+      "a. Produzir inovação.",
+      "b. Gerar processos criativos.",
+      "c. Inovar para sobreviver.",
+      "d. Obter lucros e garantir a continuidade do negócio.",
+      "e. Buscar a diferenciação em relação aos concorrentes."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "O objetivo último de qualquer negócio abrange o lucro e a garantia de que o negócio continuará prosperando. Não basta inovar e ser criativo em relação aos concorrentes, se o negócio não gera lucros. É incorreto afirmar que produzir inovação é o objetivo último das organizações, afinal, o objetivo último inclui a geração de lucros e o mantimento do funcionamento do negócio. A inovação é fundamental para garantir esse objetivo último. Também é incorreto sustentar que gerar processos criativos é o objetivo último das organizações, dado que o objetivo último abarca duas ações: gerar lucros e manter o negócio funcionando. A geração de processos criativos é essencial para garantir esse objetivo último. É incorreto defender que inovar para sobreviver é o objetivo último das organizações. O objetivo último é o seguinte: gerar lucros e manter o negócio funcionando. Contudo a inovação, visando à sobrevivência, é primordial para garantir esse objetivo último. Por fim, é incorreto afirmar que buscar a diferenciação em relação aos concorrentes é o objetivo último das organizações, afinal, o objetivo último abrange gerar lucros e manter o negócio funcionando. Entretanto a busca pela diferenciação em relação aos concorrentes é importante para garantir esse objetivo último."
+  },
+  {
+    "textoDaPergunta": "Pergunta a04 ___ Antes de iniciar a Copa do Mundo, o técnico se reúne com seus jogadores escalados e elaboram um planejamento para cada jogo de acordo com o adversário que irão enfrentar dentro de sua chave. O time observa qual o estilo de jogo de seu rival, quais são os principais jogadores que devem ser marcados, entre diversas outras variáveis. Por meio dessa análise, o técnico define a escalação e a posição de seus jogadores, além de como irá fazer o ataque durante o jogo. No momento do jogo, contudo, acontecem coisas inesperadas, como um jogador se lesionar, sendo necessário fazer alterações na estratégia.\nApós análise do problema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. Se o técnico fez o planejamento, mas não pensou nos contratempos que poderiam surgir, sua derrota será evidente.\nPORQUE\nII. Um planejamento inflexível e desconexo da tática não é capaz de acompanhar as demandas que estão em constante mutação.\nA respeito dessas asserções, assinale a alternativa correta:",
+    "opcoes": [
+      "a. As asserções I e II são falsas.",
+      "b. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "c. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "d. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "e. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A asserção I é verdadeira, pois o planejamento é imprescindível para que o time (também se aplica a empresas) tenha um norte a seguir, porém ele deve ser feito considerando que podem acontecer muitos imprevistos pelo caminho. Essas mudanças no planejamento são conhecidas como táticas. A asserção II é verdadeira e é uma justificativa correta da I, porque planejamento estratégico e táticas devem andar juntos de modo que o time saiba o que fazer para concluir seu objetivo, mas que também consiga se adaptar frente às adversidades. Quando não há essa conexão, o time – ou, até mesmo, as empresas – está fadado ao fracasso."
+  },
+  {
+    "textoDaPergunta": "Pergunta a05 ___ Suponha que você vende on-line nos marketplaces e, devido à crescente demanda de vendas, percebe que não está conseguindo responder a todos os seus clientes em tempo hábil e, por conta disso, acaba perdendo vendas. Além disso, você analisa que muitas das perguntas feitas poderiam ser respondidas com a mesma resposta ou com informações que já estão no anúncio. Nesse sentido, a solução encontrada foi a utilização de Inteligência artificial (IA), por meio da utilização de um chatbot (robôs que conversam). \nCom relação à sua decisão, assinale a alternativa CORRETA.",
+    "opcoes": [
+      "a. A solução é inviável, pois você poderia trabalhar mais horas por dia para responder.",
+      "b. A solução é inviável, pois poderiam ter sido contratados mais funcionários para essa finalidade.",
+      "c. A solução é viável, pois reduz tempo de atendimento e facilita as tarefas do dia a dia.",
+      "d. A solução é viável, pois, após sua implantação,  você não precisará mais se preocupar com as vendas.",
+      "e. A solução é inviável, pois não existem chatbots que  apresentam respostas padronizadas. "
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A IA tem como principais funções reduzir o tempo de atendimento e facilitar as tarefas do dia a dia dos seres humanos. Porém é preciso ressaltar que você ainda precisaria se preocupar com as vendas, pois existem dúvidas que a IA não consegue responder, sendo direcionadas para você esclarecê-las. Além disso, a IA tende a ser mais barata que novos funcionários a longo prazo. Não seria viável o empreendedor trabalhar mais horas, porque, em geral, ele já fica sobrecarregado com todas suas funções e acabaria tirando tempo de outras atividades importantes. Da mesma forma, contratar funcionário aumentaria demasiadamente seus custos, tornando a ideia inviável. Por mais que a IA seja ótima, como toda tecnologia, ela apresenta limitações, ou seja, haveria perguntas não padronizadas que apenas uma pessoa que conhece o processo e os produtos poderia responder. "
+  },
+  {
+    "textoDaPergunta": "Pergunta a06 ___ Joseph Schumpeter foi professor de Harvard, muito reconhecido por criar teorias utilizadas até hoje. Existe uma expressão criada por ele denominada ________________, que ocorre devido às oscilações causadas pelo _____________, em que os produtos são incansavelmente substituídos por novos modelos, criando os _________________. Por esse motivo, a _____________ é tão importante para a sobrevivência das empresas atualmente.\nPreencha as lacunas escolhendo a alternativa CORRETA.",
+    "opcoes": [
+      "a. Ciclos econômicos; capitalismo; mercados competitivos; inovação.",
+      "b. Destruição criativa; capitalismo; ciclos econômicos; inovação.",
+      "c. Destruição criativa; mercado competitivo; ciclos econômicos; visão empresarial.",
+      "d. Ciclos econômicos; socialismo; concorrentes; internet.",
+      "e. Mercado competitivo; socialismo; ciclos econômicos; internet."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A primeira lacuna é completada pela expressão “destruição criativa”, pois o capitalismo faz com que constantemente os produtos existentes sejam substituídos por novos, criando, assim, uma destruição criativa.\nA segunda lacuna é completada pelo termo “capitalismo”, visto que, para crescer, empresas criam ciclos de novidades em produtos e obsolescência. A terceira lacuna é completada pela expressão “ciclos econômicos'', pois acontecem de maneira contínua, por meio de oscilações no mercado. A quarta lacuna é completada pelo termo \"inovação'', porque as empresas precisam inovar para se manterem ativas no mercado, ou seja, melhorar seus produtos e processos de forma a acompanhar esse movimento."
+  },
+  {
+    "textoDaPergunta": "Pergunta a07 ___ O capitalismo é um sistema econômico em que os atores privados detêm e controlam a propriedade de acordo com os próprios interesses. Os atores privados também controlam a demanda e a oferta, ao estabelecerem preços nos mercados de maneira a servir aos melhores interesses da sociedade. A característica essencial do capitalismo é a obtenção de lucro. \nSobre o capitalismo, analise as afirmativas a seguir.\nI. A destruição criativa é o processo em que são continuamente destruídos os velhos modelos, a fim de substituí-los por novos.\nII. Quanto maior for a intensidade de inovação no setor, maior será a tendência de ele ser líder da economia.\nIII. Os ciclos econômicos representam ondas longas de prosperidade, períodos em que o capitalismo alcança o auge.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. I e II, apenas.",
+      "b. II, apenas.",
+      "c. II e III, apenas.",
+      "d. I, II e III.",
+      "e. I e III, apenas."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "Todas as afirmativas estão corretas. A afirmativa I está correta, uma vez que a destruição criativa é um processo inerente ao capitalismo. Ela representa a substituição constante de velhos modelos por novos. A afirmativa II também está correta, dado que o setor que mais aplica os processos de inovação assume a liderança da economia. A afirmativa III está correta, visto que, ao assumirem a liderança das economias, os setores vivem grandes ondas de prosperidade. Isso permite que o capitalismo alcance o apogeu."
+  },
+  {
+    "textoDaPergunta": "Pergunta a08 ___ Leia o excerto a seguir:\n“Inovação incremental é aquela que introduz aperfeiçoamentos graduais num produto, serviço, processo ou prática de gestão já existente. A sucessão de inovações incrementais ao longo do tempo forma a chamada melhoria contínua. [...] Inovação radical é aquela que introduz produtos, serviços, processos ou práticas de gestão inteiramente novos. Dela pode resultar o surgimento de novos setores ou mercados.”\nCRIATIVIDADE e inovação. Academia Pearson. São Paulo: Pearson Prentice Hall; Inova Consulting, 2011. p. 78-79.\nCom base nas informações apresentadas, identifique se são (V) verdadeiras ou (F) falsas as afirmativas a seguir.\nI.   ( ) Em relação às locadoras de filmes, a Netflix foi uma inovação radical. \nII.  ( ) O Iphone 12, em relação ao Iphone 11, foi uma inovação radical.\nIII. ( ) O Airbnb, em relação ao mercado de hospedagens dos viajantes, foi uma inovação radical.\nAssinale a alternativa que apresenta a sequência CORRETA.",
+    "opcoes": [
+      "a. F - F - V.",
+      "b. V - V - F.",
+      "c. F - V - V.",
+      "d. V - F - F.",
+      "e. V - F - V."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I é verdadeira, pois a Netflix pode ser considerada uma inovação radical se comparada às locadoras, pois revolucionou a maneira dos clientes assistirem filmes, bem como alterando a forma de pagamento (nas locadoras, era por quantidade de filmes locados; na Netflix, você paga uma quantia por mês e assiste a quantos filmes e séries quiser), além da comodidade de não precisar sair de casa. A afirmativa II é falsa, já que as inovações de um Iphone para o outro envolvem apenas melhorias e algumas mudanças no layout do produto, caracterizando, dessa forma, uma inovação incremental. A afirmativa III é verdadeira, visto que foi criada uma forma de se hospedar que é muito mais em conta que hotéis."
+  },
+  {
+    "textoDaPergunta": "Pergunta b01 ___ Para que a inovação de fato aconteça dentro das empresas, é preciso criar um processo bem desenhado e sistematizado. Dentro desse processo é importante a utilização de personas para identificar em seus funcionários, diretores e, até mesmo, na alta administração seu perfil e conseguir aproveitá-lo da melhor maneira possível. Uma determinada persona é mais ligada ao processo, sendo adepta a testar e revisar ideias para torná-las palpáveis. Essa persona corre riscos, porém pensa em todos os cenários até encontrar a melhor solução.\nCom relação a essa persona, assinale a alternativa CORRETA.",
+    "opcoes": [
+      "a. Trata-se do diretor.",
+      "b. Trata-se do experimentador.",
+      "c. Trata-se do corredor de obstáculos.",
+      "d. Trata-se do colaborador.",
+      "e. Trata-se do antropólogo. "
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A persona do experimentador exibe uma pessoa que corre riscos calculados, ou seja, busca analisar todos os cenários, além de testar e revisar uma ideia para verificar se ela é viável. Com isso, essa persona geralmente encontra boas soluções, procurando manter todo o projeto com baixo custo e grande agilidade. O antropólogo, por sua vez, busca humanizar o método científico para redefinir os problemas de novas maneiras, enquanto o corredor de obstáculos adora tentar coisas que outros não tentaram ainda, buscando enfrentar seus desafios e superar dificuldades. O colaborador é aquele que prioriza o coletivo em vez do individual, tirando o melhor de equipes multidisciplinares, enquanto o diretor tem a característica de pulso firme e visão global de todo o cenário."
+  },
+  {
+    "textoDaPergunta": "Pergunta b02 ___ O profissional inovador precisa ser hábil em transformar a criatividade em inovação. Deve estar disposto a arriscar com cautela e precisa ter uma excelente capacidade de comunicação, com a finalidade de persuadir os colegas a colocar as próprias ideias em prática. Além de profissionais inovadores, as organizações necessitam de processos inovadores. Assinale a alternativa correta.",
+    "opcoes": [
+      "a. Empresas inovadoras  requerem  projetos  que dispensam fases de tentativa e erro.",
+      "b. Ao fomentar processos inovadores, é importante o uso de técnicas que valorizem a produção de ideias brilhantes mediante a busca por  consenso.",
+      "c. As organizações que  restringem a diversidade de ideias tendem a ser as mais bem sucedidas na inovação.",
+      "d. Processos inovadores de sucesso beneficiam-se de técnicas que estimulam a manifestação de opiniões divergentes.",
+      "e. Processos inovadores contam com o groupthinking para promoverem decisões tomadas corretamente.  "
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "É incorreto afirmar que  processos inovadores requerem projetos que dispensam fases de tentativa e erro, uma vez que  inovação implica possibilidade de erro. Também é incorreto afirmar que ideias brilhantes são produzidas mediante a busca por consenso. Na verdade, a busca pelo consenso inibe que diversas ideias sejam expressas. Por outro lado é correto declarar que  processos inovadores de sucesso beneficiam-se de técnicas que estimulam a manifestação de opiniões divergentes. A técnica dos seis chapéus é um exemplo de tais técnicas, dado que  objetiva a superação da pressão grupal, estimulando as pessoas a se manifestar. É incorreto afirmar que o groupthinking promove a tomada de decisões corretas: a busca pelo consenso pode ocasionar a tomada de decisões incorretas. Por fim, é incorreto sustentar que,  as organizações que  restringem a diversidade de ideias tendem a ser as mais bem sucedidas na inovação. Quanto mais a organização restringe a diversidade de ideias, menos inovadores são os processos. "
+  },
+  {
+    "textoDaPergunta": "Pergunta b03 ___ Leia o excerto a seguir.\n“O desenvolvimento do ‘sistema de envase em latas’ da cerveja Guinness enfatiza de forma clara os problemas de gestão de incerteza sobre meios. Nesse caso, inúmeros projetos foram malsucedidos, e é provável que tenha havido inúmeras ocasiões em que decisões sobre aplicações futuras de verbas, como cancelar, continuar ou aumentar o investimento, tiveram de ser tomadas. Em tais situações, devido ao alto grau de incerteza, os administradores responsáveis por verbas milionárias precisam ouvir com atenção àqueles mais ligados ao design e àqueles que possuem mais informação e conhecimento”. Sobre o assunto, analise as asserções a seguir e a relação proposta entre elas.\nI.  O tempo é um elemento importante e que precisa ser considerado.\nPORQUE \nII.  Com o passar do tempo, mais informação e conhecimento são disponibilizados.\nAnalisando as asserções anteriores, conclui-se que:",
+    "opcoes": [
+      "a. a primeira asserção é falsa e a segunda é verdadeira.",
+      "b. as duas asserções são verdadeiras, e a segunda não justifica a primeira.",
+      "c. a primeira asserção é verdadeira e a segunda é falsa.",
+      "d. as duas asserções são verdadeiras, e a segunda justifica a primeira.",
+      "e. as duas asserções são falsas."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A asserção I é verdadeira, pois no processo de administração de incertezas, o tempo é um elemento fundamental e que precisa ser levado em consideração. A asserção II também é verdadeira e justifica a I, uma vez que, com o passar do tempo, mais informações e conhecimento se tornam disponíveis, e é por conta desse tempo limitado que a tomada de decisões é necessária."
+  },
+  {
+    "textoDaPergunta": "Pergunta b04 ___ Suponha que você trabalha em uma fábrica de carros e está buscando ideias inovadoras para aumentar as vendas. Porém, ao solicitar ao grupo de funcionários que fossem levantadas novas ideias, houve muito conflito e ideias divergentes sobre o que poderia ser criado ou melhorado. Com base nas informações apresentadas, identifique se são (V) verdadeiras ou (F) falsas as afirmativas a seguir.\nI.   ( ) O gestor deve intervir para que os funcionários cheguem em um consenso.\nII.  ( ) Deve-se punir ou ignorar as ideias divergentes e focar nas ideias comuns.\nIII. ( ) A empresa precisa valorizar e estimular pessoas com opiniões diferentes.\nAssinale a alternativa que apresenta a sequência CORRETA.",
+    "opcoes": [
+      "a. V - F - V.",
+      "b. V - V - F.",
+      "c. V - F - F.",
+      "d. F - V - V.",
+      "e. F - F - V.   "
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I é falsa, pois uma pesquisa feita pelo psicólogo Irvin Janis analisou que, muitas vezes, decisões erradas são tomadas com base na busca incansável de chegar a um consenso entre as ideias. Ou seja, o gestor não deve intervir, mas estimular para que ideias diferentes sejam abordadas. A afirmativa II é falsa, já que ninguém deve ser punido por dar ideias e buscar soluções inovadoras. A afirmativa III é verdadeira, visto que é preciso que as empresas olhem para pessoas e ideias divergentes, que fogem do comum e criem um ambiente no qual essas ideias ganhem espaço."
+  },
+  {
+    "textoDaPergunta": "Pergunta b05 ___ Leia o excerto a seguir.\n“Equipes funcionam melhor quando há uma mistura de perfis inovadores e outros mais conservadores. Além disso, times interdepartamentais são mais propícios à inovação graças à diversidade de background e pontos de vista” (MONTEIRO JUNIOR, 2011, p. 105). MONTEIRO JUNIOR, J. G. Criatividade e inovação. São Paulo: Pearson Prentice Hall, 2011. \nSobre o profissional inovador, analise as afirmativas a seguir.\nI. Ele amplia seus horizontes por meio de treinamentos em programas de educação continuada.\nII. Ele  atualiza-se em relação às novidades tecnológicas, beneficiando-se do entendimento da língua inglesa.\nIII. Ele atualiza-se em relação às novidades tecnológicas por meio da leitura de periódicos científicos internacionais.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. II, apenas.",
+      "b. II e III, apenas.",
+      "c. I e II, apenas.",
+      "d. I e III, apenas.",
+      "e. I, II e III."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "Todas as afirmativas estão corretas. A afirmativa I está correta, pois a educação continuada faz com que ele se mantenha atualizado em relação às novidades tecnológicas e atento no que diz respeito às tendências tecnológicas presentes no mercado em que está inserido. A afirmativa II está correta, uma vez que a compreensão da língua inglesa permite ao colaborador acompanhar as tendências internacionais e adaptá-las à empresa. Por fim, a afirmativa III está correta, já que a leitura de periódicos científicos internacionais proporciona a compreensão das pesquisas internacionais de impacto. Isso viabiliza a aplicação dos conhecimentos obtidos a partir dessas pesquisas na própria organização."
+  },
+  {
+    "textoDaPergunta": "Pergunta b06 ___ O gênio criativo humano deixou a marca em nosso mundo. Ele avançou a civilização, ao melhorar as condições de vida humana. Pense nas invenções criativas que alteraram e melhoraram drasticamente as nossas vidas, incluindo aviões, carros, lâmpadas, telefones e televisão. O homem é virtualmente definido pela criatividade.\nSobre a inovação e a criatividade, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A inovação e a criatividade não são sinônimos.",
+      "b. A invenção, a inovação e a criatividade são sinônimos.",
+      "c. A criatividade é fruto de um processo de inovação.",
+      "d. A inovação e a criatividade são sinônimos.",
+      "e. Toda ideia criativa resulta em inovação."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "É incorreto afirmar que a inovação e a criatividade são sinônimos.  A criatividade, mãe de novas ideias,  é condição necessária para que possa ser criado um processo de inovação. Ainda assim, somente será considerada uma inovação, a nova ideia que for amadurecida em uma invenção e aceita pelo mercado. Também é incorreto asseverar que a criatividade é fruto de um processo de inovação. Ocorre o contrário: um processo de inovação é precedido de um processo criativo. Também é incorreto afirmar que toda ideia criativa resulta em inovação, afinal, só é inovador se é aceito pelo mercado. Por fim, é incorreto sustentar que a invenção, a inovação e a criatividade são sinônimos: tratam-se de processos diferentes, ainda que  complementares."
+  },
+  {
+    "textoDaPergunta": "Pergunta b07 ___ Tom Kelley criou a figura de 10 personas ou talentos que desenvolvem projetos inovadores. Essas personas ainda podem ser classificadas em três grupos: pessoas que aprendem, as que organizam e, por fim, as que constroem. O ____________ faz parte do grupo dos que constroem, buscando estimular a ________________. Essa persona utiliza seu próprio espaço como uma das melhores ____________, a fim de equilibrar o trabalho colaborativo e individual.\nPreencha as lacunas escolhendo a alternativa CORRETA.",
+    "opcoes": [
+      "a. Polinizador; curiosidade; inspirações.",
+      "b. Contador de histórias; iniciativa; mensagens.",
+      "c. Cuidador; alma; experiência.",
+      "d. Arquiteto de experiências; experiências; organizações.",
+      "e. Cenógrafo; criatividade; ferramentas."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A primeira lacuna é completada pelo termo “cenógrafo”, pois é a persona que faz parte dos que constroem, visto que busca constantemente animar seu ambiente de trabalho. A segunda lacuna é completada pelo termo “criatividade”, visto que o cenógrafo busca melhorar seu ambiente por meio da propagação da cultura de inovação repleta de energia positiva, inspirando criatividade. A terceira lacuna é completada pelo termo “ferramentas”, porque o cenógrafo equilibra as oportunidades de trabalho colaborativo e individual por meio do ajuste de seu espaço físico, transformando-o em uma ferramenta poderosa."
+  },
+  {
+    "textoDaPergunta": "Pergunta b08 ___ A inovação tem sido um tema recorrente no cenário atual, visto que empresas que não buscam melhorar ou criar novidades acabam perdendo seu lugar no mercado. Porém, ao contrário do que muitos pensam, inovação vai muito além de levantar ideias e abusar da criatividade. São necessários outros “ingredientes” para que ela realmente seja tangível. Com base no enunciado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A persona de diretor é o melhor perfil para construir a inovação dentro de uma empresa, devido à sua ampla gama de interesses e à sua capacidade de coletar ideias do mundo exterior e trazer para a organização.\nPORQUE\nII. A criatividade empreendedora ocorre devido à combinação de um indivíduo detentor de conhecimento, criatividade e motivação com um ambiente propício. A respeito dessas asserções, assinale a alternativa correta:",
+    "opcoes": [
+      "a. As asserções I e II são falsas.",
+      "b. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "c. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "d. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "e. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A asserção I é uma proposição falsa, pois não há um tipo melhor de persona, mas sim tipos de perfis diferentes engajados na inovação. Além disso, a persona de diretor faz parte das personas que organizam, não das que se destacam pela busca de ideias. A asserção II é uma proposição verdadeira, visto que a inovação ocorre por meio da criatividade empreendedora, que é resultante da combinação entre características do indivíduo com o  ambiente, que deve proporcionar o  florescimento e o amadurecimento de ideias."
+  },
+  {
+    "textoDaPergunta": "Pergunta b09 ___ No mapa de Pearson, segundo Trott (2012, p. 81), “[...] mostra-se a natureza da incerteza e a forma como ela evolui com o passar do tempo. O mapa é baseado nas duas dimensões anteriormente referidas, com a incerteza acerca de resultados no eixo vertical e a incerteza sobre os meios no eixo horizontal. Esses eixos são então divididos em quatro quadrantes”. TROTT, P. J. Gestão da inovação e desenvolvimento de novos produtos. 4. ed. Porto Alegre: Bookman editora, 2012,  p. 81. Imagine uma empresa de tecnologia que desenvolve atividades com alto grau de incerteza sobre os meios para criação de novos produtos, e que não certeza sobre os resultados a serem alcançados, e assinale a alternativa que compreenda a resposta correta sobre o quadrante em que se situa segundo o mapa de Pearson.",
+    "opcoes": [
+      "a. Quadrante 4 - análise e desenvolvimento.",
+      "b. Quadrante 2 - engenharia de desenvolvimento.",
+      "c. Quadrante 1 - pesquisa exploratória.",
+      "d. Quadrante 3 - engenharia de aplicações.",
+      "e. Quadrante 4 - combinação de oportunidades de mercado com capacidades técnicas."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "O quadrante 1 do Mapa de Pearson representa as inovações com elevada incerteza sobre os processos e os resultados, sendo difícil estabelecer uma meta final. Esse quadrante também é conhecido como pesquisa “céu azul” justamente por muitas vezes estar longe da realidade, sendo geralmente feito por laboratórios de pesquisa e universidades principalmente com a utilização de tecnologias que ainda não estão totalmente prontas. No quadrante 2 são estabelecidas metas ou finalidades diretas, mesmo que ainda não tenha definidas as formas de atingi-las. O quadrante 3 apresenta grande incerteza em relação aos resultados que serão encontrados e em geral são utilizados para buscar descobrir como otimizar o uso de alguma tecnologia. O quadrante 4 envolve atividades com maior grau de certeza nas inovações, ou seja, buscam melhorar seu produto já existente ou criar algum outro que combine oportunidades técnicas."
+  },
+  {
+    "textoDaPergunta": "Pergunta c01 ___ A diferenciação do produto é algo muito importante para que o cliente não confunda seu produto com o da concorrência. Essa diferenciação pode ocorrer de diversas formas, entre elas por meio da ______________, muitas vezes subestimadas pelas empresas. Essa forma de diferenciação pode levar o consumidor a realizar a compra apenas devido a esse aspecto. Em outros casos, ela ainda pode ser crucial na ______________ do produto e pode ser multiuso para os _________________, mesmo após o produto em si acabar. Preencha as lacunas escolhendo a alternativa CORRETA.",
+    "opcoes": [
+      "a. Marca; identificação; concorrentes.",
+      "b. Embalagem; publicidade; consumidores.",
+      "c. Embalagem; compra; concorrentes.",
+      "d. Design; diferenciação; determinados grupos.",
+      "e. Marca; diferenciação; consumidores."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A primeira lacuna é completada pelo termo “embalagem”, pois muitas empresas não pensam muito na embalagem, porém ela pode ser um diferencial para o cliente no momento da compra. A segunda lacuna é completada pelo termo “publicidade”, visto que um papel importante da embalagem é na própria publicidade do produto, uma vez que ele será reconhecido devido à embalagem escolhida, como por meio de suas formas e cores. A terceira lacuna é completada pelo termo “consumidores”, porque os consumidores em geral buscam embalagens que possam ser utilizadas para outros fins, como o famoso copo de requeijão, que quando era feito de vidro, passava a ser utilizado para tomar líquidos."
+  },
+  {
+    "textoDaPergunta": "Pergunta c02 ___ Tão importante quanto produzir um produto é saber colocar o preço correto no momento da venda, mas para que haja êxito nessa ação, a empresa precisa definir qual será sua estratégia. Uma determinada estratégia de precificação consiste em inserir o produto com um preço alto no mercado e reduzir aos poucos para alcançar diferentes públicos-alvo. Com base nesses aspectos, assinale a alternativa que descreve corretamente essa estratégia de precificação.",
+    "opcoes": [
+      "a. Preço de acordo com o custo de produção.",
+      "b. Preço de desnatação.",
+      "c. Preço de defesa.",
+      "d. Preço premium.",
+      "e. Preço de penetração. "
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A estratégia de desnatação consiste em lançar o produto com um preço elevado para aproveitar o ineditismo, alcançando consumidores com padrão de compra mais elevado. Conforme esse produto vai perdendo a característica de novidade, a empresa baixa o valor para conquistar outro público-alvo, buscando manter suas vendas altas. O preço premium refere-se a produtos que têm uma vantagem incontestável perante o mercado ou por serem inéditos, podendo, desse modo, trabalhar com valores mais elevados e mesmo assim vender boas quantidades. O preço de penetração é o valor mais baixo para ter aceitação e participação no mercado. O preço de defesa é utilizado em estratégias para acompanhar o mercado, ou seja, se o preço dos concorrentes baixa, você também baixa o seu. E o preço de acordo com os custos de produção devem ser levados em consideração, mas não apenas ele, é preciso delimitar a quantidade de lucro e o mercado."
+  },
+  {
+    "textoDaPergunta": "Pergunta c03 ___ O fator “qualidade” dos produtos e serviços é algo muito importante tanto para as empresas mensurarem como está seu produto quanto para os consumidores que confiam no que estão comprando. Porém trata-se de um conceito interdisciplinar e complexo de se estudar, podendo ser analisadas algumas definições para medir a qualidade. \nConsiderando as definições de qualidade, avalie as afirmativas a seguir em relação a situações envolvendo a qualidade e as correlacione adequadamente aos termos às quais se referem:\n1. Desempenho.\n2. Acessórios.\n3. Durabilidade.\nI. Os fones de ouvido que antigamente vinham junto na aquisição do celular Iphone.\nII. Geladeira Brastemp, que prometia uma vida útil longa para quem comprasse.\nIII. Carro Kwid, que faz vários quilômetros com um litro, sendo econômico.\nAssinale a alternativa que correlaciona adequadamente os dois grupos de informação.",
+    "opcoes": [
+      "a. 1-III; 2-II; 3-I.",
+      "b. 1-II; 2-I; 3-III.",
+      "c. 1-III; 2-I; 3-II.",
+      "d. 1-I; 2-II; 3-III.",
+      "e. 1-I; 2-III; 3-II. "
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A sentença I se enquadra no conceito 2, pois os acessórios, como o nome já diz, são complementos, ou seja, o produto funciona sem ele, porém é um “plus”, como os fones que eram enviados juntos com o celular. A sentença II se enquadra no conceito 3, visto que a durabilidade se refere ao tempo de vida útil desse produto. A sentença III se enquadra no conceito 1, porque o desempenho dentro da qualidade diz respeito às características primárias operacionais de determinado produto ou serviço. Sobre o exemplo de um carro com bom desempenho em relação a km/L, o Kwid é referência."
+  },
+  {
+    "textoDaPergunta": "Pergunta c04 ___ Segundo Trott (2012, p. 416), “Uma das formas mais evidentes de identificar a variedade de opções de crescimento disponíveis para um negócio é empregar a matriz de Ansoff (1965, 1968). [...] Dentro dessa matriz, o desenvolvimento de novos produtos é visto como uma das quatro opções disponíveis. Cada uma das quatro células considera várias combinações de produto – opções de mercado. O crescimento pode ser alcançado organicamente (desenvolvimento interno) ou por meio de aquisições externas.” Considerando o trecho apresentado, avalie as asserções a seguir e a relação proposta entre elas. \nI. A empresa Havaianas utilizou a estratégia de penetração no mercado para aumentar suas vendas.\nPORQUE\nII. Utilizou um marketing poderoso e promoveu seus chinelos como um calçado para se usar em qualquer lugar.\nA respeito dessas asserções, assinale a alternativa correta:",
+    "opcoes": [
+      "a. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "b. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "c. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.",
+      "d. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "e. As asserções I e II são falsas."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A asserção I é uma proposição verdadeira, pois com a estratégia de penetração de mercado a organização busca aumentar sua fatia no mercado por meio da exploração das atividades de marketing a fim de consolidar sua marca e alcançar novos públicos. A asserção II é uma proposição verdadeira e uma justificativa correta da I, pois a empresa Havaianas não conseguia aumentar suas vendas, uma vez que o chinelo era um item utilizado apenas dentro de casa, mas ao implementar estratégias de marketing passou a ser um calçado utilizado em diferentes tipos de lugares."
+  },
+  {
+    "textoDaPergunta": "Pergunta c05 ___ A estratégia de diversificação significa que uma organização fará uma incursão em mercados ou grupos de produtos que atualmente não operam. Para isso, empresas utilizam seu conhecimento prévio comercial ou técnico e buscam diversificar seja por meio de diversificação de retorno, avanço ou horizontal. Com relação à estratégia de diversificação, avalie as afirmativas a seguir. \nI. A Apple utilizou a diversificação ao lançar seus relógios Apple Watch, uma vez que seu produto principal era smartphones.\nII. A Coca-Cola utilizou a diversificação ao comprar empresas concorrentes, com o objetivo de continuar líder de mercado.\nIII. A Kodak utilizou a diversificação ao ser pioneira com as fotos digitais, ao perceber que esse produto seria inovador.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. II e III, apenas.",
+      "b. I, apenas.",
+      "c. II, apenas.",
+      "d. I e III, apenas.",
+      "e. I e II, apenas."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I está correta, pois a Apple era referência em computadores, celulares e tablets, mas diversificou ainda mais dominando o mercado de relógios tecnológicos que, além de tudo, interagem com o smartphone. A afirmativa II está correta, visto que a Coca-Cola diversifica de maneira horizontal, comprando concorrentes potenciais, que poderiam ganhar uma boa fatia de mercado, impedindo potenciais concorrentes e continuando líder de mercado. A afirmativa III está incorreta, porque o grande erro da Kodak foi acreditar que as fotos digitais não seriam um produto de sucesso concreto e continuou apenas em sua linha de produtos sem diversificar."
+  },
+  {
+    "textoDaPergunta": "Pergunta c06 ___ O mix de marketing de uma empresa é uma combinação de produtos, preços, locais e promoções utilizada para se diferenciar da concorrência. Os quatro elementos são comumente chamados de “quatro Ps”. Há uma forte dependência entre cada um dos Ps. Considerando a “praça” e a “promoção” dos 4 Ps, assinale a alternativa correta.",
+    "opcoes": [
+      "a. Transportes e propaganda.",
+      "b. Funcionalidade e propaganda.",
+      "c. Embalagem e armazenagem.",
+      "d. Estilo e estratégia de promoção.",
+      "e. Transportes e estratégia de preço."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "Está correta a alternativa que apresenta os transportes e a propaganda: o primeiro está relacionado à praça, enquanto o segundo se volta à promoção. Contudo está incorreta η alternativa que exibe os transportes e a estratégia de preço: os transportes estão relacionados à praça, e a estratégia de preço não está vinculada à promoção, e sim ao preço. Também está incorreta a alternativa que expõe η funcionalidade e a propaganda, dado que a propaganda está relacionada à promoção, enquanto a funcionalidade se volta ao produto. Além disso, está incorreta a alternativa que apresenta a embalagem e a armazenagem, uma vez que a armazenagem está vinculada à praça, enquanto a embalagem se relaciona ao produto. Por fim, está incorreta a alternativa que expressa o estilo e a estratégia de promoção, já que a estratégia de promoção está relacionada à promoção, e o estilo se volta ao produto."
+  },
+  {
+    "textoDaPergunta": "Pergunta c07 ___ Antes de lançar um determinado produto ou serviço, as empresas precisam analisar se os consumidores terão boa aceitação e para isso existem técnicas para testagem de novos produtos que também podem ser utilizados para identificar a preferência do cliente. Um exemplo disso foi o teste cego feito pela empresa de refrigerantes Pepsi, convidando seus clientes a experimentar dois refrigerantes (sendo um de sua marca e outro da marca concorrente) para entender qual deles o consumidor de fato preferia. No teste cego, os experimentadores preferiam a Pepsi, porém, ao informarem qual refrigerante era, a grande maioria dizia preferir a Coca-Cola. Com relação ao teste aplicado, assinale a alternativa que apresenta corretamente o método utilizado.",
+    "opcoes": [
+      "a. Exposições comerciais.",
+      "b. Comparações em pares.",
+      "c. Testes monádicos.",
+      "d. Testes de saguão/lojas móveis.",
+      "e. Centro de testes.  "
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "Na técnica de comparação em pares são expostos dois ou mais produtos para que o cliente experimente e escolha qual deles prefere. No caso do teste aplicado pela Pepsi foi justamente isso que ela fez, porém, na primeira fase, ela não mostrou qual produto se referia a determinada marca e na segunda fase mostrou. O centro de testes se refere a criar um ambiente para realizar o teste, envolvendo produtos que são muito grandes ou caros. O teste de saguão funciona da seguinte maneira: os consumidores são levados até um certo local para que lá consigam analisar aspectos como preço, propaganda, embalagem etc. As exposições comerciais envolvem grande número de consumidores analisando de uma vez o produto, para que a empresa consiga observar a reação deles. Nos testes monádicos, o consumidor recebe um único produto que será testado para posteriormente dar sua opinião sobre ele."
+  },
+  {
+    "textoDaPergunta": "Pergunta c08 ___ A qualidade expressa o quão bom algo é, se comparado aos itens semelhantes. Em outras palavras, refere-se ao grau de excelência. Quando se pensa na qualidade, de acordo com a perspectiva de um empreendedor que deve tomar decisões sobre o próprio negócio, algumas definições de qualidade são consideradas. A seguir, relacione os conceitos de qualidade às respectivas descrições.\nI. Desempenho\nII. Acessórios\nIII. Confiabilidade \n1. Retrata a expectativa de duração satisfatória do produto em um período de tempo.\n2. Abrange as características operacionais primárias de um produto.\n3. Simboliza os acréscimos às características primárias dos produtos.\nAssinale a alternativa que correlaciona adequadamente os dois blocos de informações.",
+    "opcoes": [
+      "a. I,1 ; II,3 ; III,2.",
+      "b. I,2 ; II,3 ; III,1.",
+      "c. I,3 ; II,1 ; III,2.",
+      "d. I,3 ; II,2 ; III,1.",
+      "e. I,1 ; II,2 ; III,3."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A sequência I,2 ; II,3 ; III,1 está correta. A sentença 2 se vincula à afirmativa I, dado que o desempenho é a característica inicial do produto, sem a inclusão de acessórios. A sentença 3 se relaciona à afirmativa II, tendo em vista que os acessórios são adendos às características originais do produto. Por fim, a sentença 1 se associa à afirmativa III, porque a confiabilidade se refere ao tempo de uso do produto em um determinado período de tempo."
+  },
+  {
+    "textoDaPergunta": "Pergunta c09 ___ Uma empresa que deseja expandir seu negócio precisa analisar quais formas são viáveis para tal feito. Uma opção é utilizar a matriz de Ansoff que considera quatro opções: estratégia de penetração do mercado, estratégia de desenvolvimento de produto, estratégia de desenvolvimento de mercado e estratégia de diversificação. Nesse sentido, no caso de uma empresa que já tem um espaço consolidado em seu país e deseja expandir para outro, se encontra em um quadrante em específico. Com relação à expansão para outro país, assinale a alternativa que apresente corretamente a qual quadrante se enquadra.",
+    "opcoes": [
+      "a. Estratégia de desenvolvimento de mercado.",
+      "b. Estratégia de barreiras a novos entrantes.",
+      "c. Estratégia de penetração do mercado.",
+      "d. Estratégia de desenvolvimento de produto.",
+      "e. Estratégia de diversificação."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "Na estratégia de desenvolvimento de mercado, a organização busca atingir novos mercados para aumentar suas vendas. Nesse sentido, a expansão de vendas para outros países se encaixa nesse quadrante, uma vez que a empresa passará a vender em um mercado que antes não era atendido por ela. A estratégia de penetração de mercado se refere à tentativa de entrar em mercados existentes com um produto já existente também, por meio de estratégias de marketing. Já o desenvolvimento de produto se refere à mudança ou melhoria de um produto existente para aumentar as vendas. A diversificação seria buscar meios de entrar em áreas de mercados ou produtos que não operam. E a barreira a novos entrantes não faz parte da matriz de Ansoff."
+  },
+  {
+    "textoDaPergunta": "Pergunta c10 ___ Segundo Trott (2012, p. 434), “Os modelos de estágios departamentais representam a forma pioneira de modelos de DNP (Desenvolvimento de Novos Produtos). Podem ser descritos como baseados em um modelo linear de inovação, em que cada departamento é responsável por certas tarefas. [...] Tais modelos são também chamados de modelos ‘por cima do muro’, assim conhecidos porque cada departamento executa suas tarefas antes de ‘arremessar’ o projeto por cima do muro para a área seguinte.” Com base nas informações apresentadas, identifique se são (V) verdadeiras ou (F) falsas as afirmativas a seguir.\nI.   ( ) Esse modelo dificulta a criação de novos produtos e serviços, porque separa os setores.\nII.  ( ) De maneira geral, ocorre muito retrabalho do processo e perguntas entre funções nesse modelo.\nIII. ( ) Apesar de separar em departamentos, um setor é escolhido para fazer as modificações.\nAssinale a alternativa que apresenta a sequência CORRETA.",
+    "opcoes": [
+      "a. V - V - F.",
+      "b. F - V - V.",
+      "c. V - F - V.",
+      "d. V - F - F.",
+      "e. F - F - V."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A afirmativa I é verdadeira, pois, com a separação dos departamentos, há pouca interação, reduzindo a quantidade de ideias que poderiam surgir dentro de um único grupo heterogêneo. A afirmativa II é verdadeira, porque como há pouca comunicação dentro da elaboração de cada etapa, ocorre que uma área entende algo errado e faz diferente do esperado. A afirmativa III é falsa, visto que o controle do projeto do produto é alterado de acordo com o departamento em que ele está, ou seja, as modificações necessárias podem ocorrer em qualquer departamento, dependendo da fase em que o produto está."
+  },
+  {
+    "textoDaPergunta": "Pergunta c11 __ O desempenho do produto e o atendimento ao cliente estão intimamente ligados em qualquer programa de qualidade. Quanto maior for a atenção atribuída à qualidade do produto durante a produção, menores serão as demandas relativas ao atendimento ao cliente, a fim de corrigir os problemas subsequentes. Sobre as definições de qualidade que um gestor leva em consideração sobre o produto, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A estética está relacionada à embalagem do produto.",
+      "b. A confiabilidade simboliza os juízos pessoais sobre produtos ou serviços.",
+      "c. A excelência representa o melhor que se pode realizar em todas as dimensões do produto.",
+      "d. O desempenho se refere ao tempo de vida útil do produto.",
+      "e. A durabilidade representa a expectativa de duração que existe em um período de tempo."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A alternativa que afirma que a excelência representa o melhor que se pode realizar em todas as dimensões do produto está correta. A excelência simboliza o melhor que a empresa consegue entregar ao cliente, considerando as condições de produção que ela tem. É incorreto sustentar que a estética está relacionada à embalagem do produto, visto que ela se volta às sensações que o produto causa nos sentidos humanos. Além disso, é incorreto asseverar que o desempenho se refere ao tempo de vida útil do produto, já que ele trata das características iniciais operacionais de um produto. Também é incorreto afirmar que a confiabilidade simboliza os juízos pessoais sobre produtos ou serviços, dado que ela representa η expectativa de duração que existe em um período de tempo. Por fim, é incorreto sustentar que a durabilidade se volta à expectativa de duração que existe em um período de tempo, já que ela representa a medida de tempo do uso de determinado produto até que seja inviável realizar o conserto dele."
+  },
+  {
+    "textoDaPergunta": "Pergunta c12 ___ Igualmente importantes, mas, muitas vezes, esquecidos, são os aspectos de marketing dos programas de melhoria da qualidade. As empresas devem se certificar de que estão oferecendo os benefícios que os clientes procuram. A qualidade deve ser orientada ao cliente, e não à tecnologia, à produção ou à concorrência. A seguir, associe os itens de qualidade que o gestor considera para a tomada de decisão às respectivas definições.\nI. Excelência\nII. Estética\nIII. Qualidade percebida\n1. Representa os juízos pessoais sobre os produtos ou os serviços. \n2. Refere-se aos efeitos que o produto ou o serviço impõe aos sentidos humanos.\n3. Diz respeito ao melhor que pode ser feito para  o aumento do desempenho do produto ou do serviço .\nAssinale a alternativa que correlaciona adequadamente os dois blocos de informações.",
+    "opcoes": [
+      "a. I,1 ; II,2 ; III,3.",
+      "b. I,1 ; II,3 ; III,2.",
+      "c. I,2 ; II,3 ; III,1.",
+      "d. I,3 ; II,2 ; III,1.",
+      "e. I,3 ; II,1 ; III,2."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A sequência correta é I,3 ; II,2 ; III,1. A sentença I se vincula ao conceito 3, afinal, a excelência representa aquilo que a organização consegue oferecer de melhor com os recursos que tem à disposição. Já a sentença II se relaciona ao conceito 2, ou seja, a estética representa as sensações causadas nas pessoas que se deparam com os produtos. Por fim, a sentença III se associa ao conceito 1, porque a qualidade percebida se relaciona aos juízos emitidos pelos usuários dos produtos."
+  },
+  {
+    "textoDaPergunta": "Pergunta d01 ___ Evidências arqueológicas e biológicas mostraram que os ancestrais Homo Sapiens (humanos) modernos exibem criatividade e comportamento criativo desde que se separaram dos proto-humanos ancestrais há cerca de 200.000 anos na África. Na contemporaneidade, Joy Paul Guilford é compreendido por muitos como o mentor dos estudos científicos na área da criatividade desde a década de 1950. \nSobre o trabalho de Guilford, analise as afirmativas a seguir.\nI. Notou que havia pouca publicação científica relativa à criatividade nas revistas da Associação Norte-Americana de Psicologia.\nII. Constatou que havia alto grau de interdependência entre o nível de inteligência e a criatividade.\nIII. Elaborou um conceito ao estudo da criatividade: a diferenciação entre o pensamento convergente e o pensamento divergente.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. I e II, apenas.",
+      "b. II e III, apenas.",
+      "c. III, apenas.",
+      "d. I e III, apenas.",
+      "e. I, II e III."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A afirmativa I está correta, pois Guilford, ao explorar 121 mil artigos publicados pela Associação Norte-Americana de Psicologia, constatou que apenas 186 versavam sobre a criatividade. Desse modo, percebeu que havia poucas publicações científicas sobre a criatividade nas revistas da Associação Norte-Americana de Psicologia. Já a afirmativa II está incorreta, pois Guilford, por meio dos estudos, constatou que não havia alto grau de interdependência entre o nível de inteligência e a criatividade. A distinção é que as pessoas criativas obtinham várias soluções a um mesmo problema, ao passo que as inteligentes formulavam apenas uma. Por fim, a afirmativa III está correta, dado que Guilford elaborou um conceito para o estudo da criatividade. O estudioso propôs a diferenciação entre o pensamento convergente e o pensamento divergente."
+  },
+  {
+    "textoDaPergunta": "Pergunta d02 ___ A criatividade pode ocorrer em três vertentes: culturais, perceptivos e emocionais. Infelizmente, cada uma delas apresenta diversos bloqueadores que fazem com que um indivíduo não consiga ser criativo ou seja inibido de alguma maneira. Nesse sentido, é muito importante compreender quais são para buscar formas de combatê-los. Considerando os tipos de bloqueios culturais, avalie as afirmativas a seguir em relação a exemplos de bloqueios na prática e as correlacione aos tipos de bloqueio às quais se referem.\n1 - Polidez excessiva.\n2 - Atitude de tudo ou nada.\n3 - Desejo de se adaptar a um padrão aceito.\nI. Empreendedor com uma ideia de produto inovador que fica constantemente esperando o momento certo.\nII. Criança muito curiosa que fica o tempo todo fazendo perguntas para as pessoas que a cercam. \nIII. Alunos que entram na faculdade e participam de atividades do trote (mesmo contra sua vontade) para serem aceitos.\nAssinale a alternativa que correlaciona adequadamente os dois grupos de informação.",
+    "opcoes": [
+      "a. 1-I; 2-II; 3-III.",
+      "b. 1-II; 2-I; 3-III.",
+      "c. 1-I; 2-III; 3-II.",
+      "d. 1-III; 2-II; 3-I.",
+      "e. 1-III; 2-I; 3-II."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A sentença I se enquadra no conceito 2, pois o bloqueio de “atitude tudo ou nada” é caracterizado por aquela pessoa que sempre espera o momento certo para agir, porém grande parte das vezes nunca haverá um momento perfeito. A sentença II se enquadra no conceito 1, porque polidez excessiva refere-se à curiosidade muito aguçada que, por vezes, é reprimida e considerada como falta de educação. A sentença III se enquadra no conceito 3, visto que o desejo de se adaptar a um padrão aceito é o que ocorre principalmente quando vamos envelhecendo. Existe um padrão que as pessoas acabam seguindo para se comportar, se vestir, falar para que sejam aceitas."
+  },
+  {
+    "textoDaPergunta": "Pergunta d03 ___ Os mitos integram todas as culturas do mundo e são usados para explicar fenômenos naturais, incluindo o local de onde um povo veio, a maneira como a civilização se desenvolveu e os motivos pelos quais as coisas ocorrem do modo como acontecem. No nível mais básico, os mitos confortam, ao fornecerem um sentido de ordem e um significado àquilo que, às vezes, pode parecer um mundo caótico. Sobre os mitos da criatividade estudados por Scott Isaksen, analise as asserções a seguir e a relação proposta entre elas.\nO primeiro mito é o de que a criatividade é um fenômeno sobrenatural. Assim, estudá-la de maneira criteriosa resolveria o enigma.\nPORQUE\nO segundo mito é o de que a criatividade está vinculada à loucura ou ao desequilíbrio psicológico. Portanto, seria uma característica dos excêntricos.\nA respeito das asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "b. As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.",
+      "c. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.",
+      "d. As asserções I e II são proposições falsas.",
+      "e. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. "
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I. A asserção I descreve corretamente o primeiro mito da criatividade, enquanto a asserção II define corretamente o segundo mito da criatividade. No entanto não há relação de causalidade entre ambas."
+  },
+  {
+    "textoDaPergunta": "Pergunta d04 ___ Leia o trecho a seguir:\n“Para que o pensamento lateral flua, é necessário evitar essa tendência e se colocar no lugar do outro para ver como ele enxerga as coisas. Para tornar tal tarefa mais fácil, Bono criou a técnica dos seis chapéus pensantes. A pessoa deve se imaginar ‘colocando’ um desses chapéus e enxergando o mundo por um ângulo diferente a cada chapéu usado. A técnica também ajuda a considerar os diferentes aspectos de um problema, um de cada vez, tornando o pensamento mais claro.”\nCom base nas informações apresentadas, identifique se são (V) verdadeiras ou (F) falsas as afirmativas a seguir.\nI.   ( ) Chapéu branco: é o da positividade, em que é preciso procurar vantagens e buscar ver as coisas pelo lado bom.\nII.  ( ) Chapéu preto: é o da precaução, em que se busca avaliar o risco de forma crítica, racional e pessimista.\nIII. ( ) Chapéu vermelho: é o da neutralidade, pois é necessário apresentar as informações de maneira objetiva.\nAssinale a alternativa que apresenta a sequência CORRETA.",
+    "opcoes": [
+      "a. F - F - V.",
+      "b. F - V - F.",
+      "c. V - F - F.",
+      "d. V - F - V.",
+      "e. V - V - F."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A afirmativa I é falsa, pois o chapéu branco é o da neutralidade, em que a pessoa que está utilizando deve apresentar apenas as informações, sem vieses. A pessoa deve ser objetiva e não deve colocar sentimentos ao expressar as informações. A afirmativa II é verdadeira, pois o chapéu preto significa ser cauteloso, entender os riscos e agir com racionalidade, até mesmo sendo pessimista. Nesse cenário, a pessoa que utiliza esse chapéu deve pensar em tudo que pode dar errado. A afirmativa III é falsa, pois o chapéu vermelho, ao contrário do branco, utiliza a emoção e a intuição para pensar e decidir, ou seja, além de considerar os dados, a pessoa deve utilizar suas emoções, ou seja, o que está sentindo em relação àquela ideia."
+  },
+  {
+    "textoDaPergunta": "Pergunta d05 ___ “Desde o início do século XX, os psicólogos - sobretudo da área cognitiva, aquela que investiga os processos mentais - vêm estudando a criatividade. Um dos pioneiros nesse sentido foi o inglês Graham Wallas, que em 1926 elaborou aquele que é tido como primeiro modelo do pensamento criativo. No modelo de Wallas, a criação de uma nova ideia é um processo de quatro etapas.” Considerando o modelo de Wallas, avalie as afirmativas a seguir em relação ao conceito das etapas e as correlacione adequadamente aos termos às quais se referem.\n1 - Preparação.\n2 - Incubação.\n3 - Iluminação.\n4 - Verificação.\nI - Momento em que o indivíduo chega em uma solução criativa.\nII - Momento de coletar informações sobre o problema. \nIII - Momento de ajustar e implementar a solução.\nIV - Momento em que o indivíduo se afasta temporariamente do problema.",
+    "opcoes": [
+      "a. 1-IV; 2-III; 3-II; 4-I.",
+      "b. 1-II; 2-IV; 3-I; 4-III. ",
+      "c. 1-III; 2-I; 3-IV; 4-II.",
+      "d. 1-II; 2-III; 3-I; 4-IV.",
+      "e. 1-I; 2-II; 3-III; 4-IV."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A sentença I se enquadra no conceito 3, pois a iluminação, como o nome já diz, é o momento em que o indivíduo tem um “estalo\" e identifica a solução criativa para o problema. A sentença II se enquadra no conceito 1, visto que a primeira etapa do modelo de Wallas é a preparação, em que a pessoa começa a investigar dados do problema. A sentença III se enquadra no conceito 4, porque a etapa de verificação corresponde a ajustes necessários e finalmente à implantação da solução. A sentença IV se enquadra no conceito 2, pois a etapa de incubação se refere ao indivíduo que se afasta por um período do problema para conseguir ter uma visão global e descansada sobre ele."
+  },
+  {
+    "textoDaPergunta": "Pergunta d06 ___ Ao contrário daquilo que o senso comum preconiza, a criatividade é um processo que pode ser aprendido, aperfeiçoado e dominado. O uso de ferramentas específicas podem aumentar a criatividade, mas uma das maneiras mais significativas de impulsionar a criatividade é cultivar a motivação interna para ter novas ideias. A literatura afirma que a criatividade pode ser proveniente da soma de vários fatores. \nSobre os fatores que proporcionam a criatividade, analise as afirmativas a seguir.\nI. Curiosidade.\nII. Perseverança.\nIII. Autoconfiança.\nIV. Humildade para reconhecer limites.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. I e IV, apenas.",
+      "b. I, II, III e IV.",
+      "c. I e II, apenas.",
+      "d. II e III, apenas.",
+      "e. II e IV, apenas."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "As I, II, III e IV estão corretas. Todos os fatores elencados estão relacionados ao desenvolvimento da criatividade. A curiosidade representa a busca incessante pelo novo. A perseverança significa não desistir na primeira negativa. A autoconfiança simboliza estar ciente dos caminhos que está percorrendo. A humildade é necessária para reconhecer limites e pedir ajuda, quando necessário."
+  },
+  {
+    "textoDaPergunta": "Pergunta d07 ___ O cérebro é dividido em dois hemisférios simétricos: o esquerdo e o direito. Cada hemisfério é responsável pelo lado oposto do corpo. Desse modo, o cérebro direito controla a mão esquerda. O hemisfério direito recebe as informações sensoriais do lado esquerdo e vice-versa. O cérebro é segmentado em regiões chamadas “lobos”. Cada hemisfério do cérebro é responsável por funções distintas. Em 1981, Roger Sperry recebeu o prêmio Nobel de Medicina pelos estudos desenvolvidos sobre o cérebro. A seguir, relacione os lados do cérebro às respectivas funções\n1. Lado direito\n2. Lado esquerdo\nI. Tarefas verbais.\nII. Tarefas não verbais.\nIII. Acionado ao ler um jornal.\nIV. Acionado ao ouvir músicas.\nV. Responsável pelas tarefas lógicas.\nAssinale a alternativa que correlaciona adequadamente os dois blocos de informações.",
+    "opcoes": [
+      "a. I,2 ; II,1 ; III,2 ; IV,1 ; V,2.",
+      "b. I,1 ; II,1 ; III,1 ; IV,2 ; V,2.",
+      "c. I,2 ; II,1 ; III,1 ; IV,2 ; V,2.",
+      "d. I,1 ; II,2 ; III,2 ; IV,1 ; V,2.",
+      "e. I,2 ; II,2 ; III,2 ; IV,1 ; V,1."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A sentença I se enquadra ao conceito 2, dado que o lado esquerdo do cérebro é o responsável pelas tarefas verbais. Já a sentença III se vincula ao conceito 2, visto que o lado esquerdo do cérebro é acionado ao ler um jornal ou uma revista. Por sua vez, a sentença V se volta ao conceito 2, tendo em vista que o lado esquerdo do cérebro é o responsável pelas tarefas lógicas do ser humano. A sentença II se enquadra ao conceito 1, pois o lado direito do cérebro realiza as tarefas não verbais. Por fim, a sentença IV se vincula ao conceito 1, já que o lado direito do cérebro, por ser mais artístico, é acionado ao ouvir músicas."
+  },
+  {
+    "textoDaPergunta": "Pergunta d08 ___ Leia o trecho a seguir:\n“Por meio de seus inúmeros programas de pesquisa, o lacat foi formando um consistente arcabouço teórico na área da criatividade. Entre outros conceitos criados pela equipe do lacat, encontramos os ativadores criativos. Ativadores criativos são táticas para estimular a criatividade, funcionam como detonadores ou catalisadores do pensamento criativo.” CRIATIVIDADE e inovação. Academia Pearson. São Paulo: Pearson Prentice Hall; Inova Consulting, 2011. p. 64.\nCom relação aos ativadores criativos, avalie as afirmativas a seguir.\nI. O gestor escreve em um quadro todas as ideias geradas por todos os colaboradores – este é um exemplo do ativador turbilhão de ideias.\nII. Quando um professor faz diversas perguntas aos alunos – principalmente perguntas inusitadas – é um exemplo de analogia inusual.\nIII. Um empreendedor que utiliza caixas de papelão para transformar em brinquedos é um exemplo de metamorfose total do objeto.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I, apenas.",
+      "b. II, apenas.",
+      "c. I e II, apenas.",
+      "d. I e III, apenas.",
+      "e. II e III, apenas."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A afirmativa I está correta, pois o turbilhão de ideias também conhecido como brainstorm, consiste em conseguir o máximo de ideias possíveis sobre determinado tema. Nesse caso, o gestor pede para que todos os participantes apenas falem das ideias, sem se preocupar com julgamentos ou críticas. A afirmativa II está incorreta, porque a analogia usual consiste em comparar elementos distintos para levantar semelhanças e diferenças. No exemplo dado do professor fazendo várias perguntas, se encaixaria o ativador do tipo busca interrogatória. A afirmativa III está correta, visto que a metamorfose total do objeto se refere à transformação de um objeto em outro, seja em outra utilidade, forma, tamanho etc. Muito se usa essa transformação na reciclagem, por exemplo, transformando materiais que não seriam mais utilizados em outros que podem até mesmo ser comercializados."
+  },
+  {
+    "textoDaPergunta": "Pergunta d09 ___ Imagine que você trabalha em uma empresa de software e precisa desenvolver um produto inovador para expandir seu mercado e aumentar seu faturamento. Para isso, você resolveu convidar os colaboradores para realizar um brainstorm e, ao dar uma determinada ideia, um indivíduo foi criticado por outro colega. Nessa situação, você parou a atividade e resolveu repassar as regras para um brainstorm de sucesso.\nApós análise do problema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI. A atitude foi correta, visto que uma das regras do brainstorm é a proibição de críticas, além das outras três que compreendem: aceitação de disparates, a quantidade de ideias é importante e a necessidade de buscar melhorias e combinações.\nPORQUE\nII. Críticas tendem a prejudicar o pensamento criativo devido ao medo do julgamento, deixando os participantes inibidos e com receio de dar novas sugestões.\nA respeito dessas asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "b. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.",
+      "c. As asserções I e II são falsas.",
+      "d. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "e. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A asserção I é uma proposição verdadeira, pois o brainstorm apresenta quatro regras: proibição de críticas, disparates são aceitos, grandes quantidades de ideias são ideias e a busca por combinações e melhorias. Assim, a atitude de parar a atividade para relembrar as regras foi correta e importante. A asserção II é uma proposição verdadeira e é uma justificativa correta da I, visto que o motivo da proibição de críticas é porque elas têm o poder de bloquear a criatividade de quem foi criticado ou fazer com que a pessoa se sinta julgada."
+  },
+  {
+    "textoDaPergunta": "Pergunta d10 ___ Em 1926, Graham Wallas propôs um dos primeiros modelos completos do processo criativo. Wallas descreveu o modelo em quatro estágios. Essa teoria continua a ser extremamente citada entre as equipes de design profissional e em trabalhos acadêmicos relativos à criatividade.\nAssinale a alternativa que apresenta corretamente os quatro estágios na ordem proposta por Wallas.",
+    "opcoes": [
+      "a. Incubação, iluminação, verificação e preparação.",
+      "b. Preparação, verificação, iluminação e incubação.",
+      "c. Preparação, incubação, iluminação e verificação.",
+      "d. Iluminação, preparação, incubação e verificação.",
+      "e. Verificação, iluminação, incubação e preparação."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "O primeiro passo (preparação) representa a coleta das informações sobre um eventual problema. O segundo (incubação) defende o descanso mental, para que seja possível se afastar do problema de maneira temporária. O terceiro (iluminação) é caracterizado pelo encontro da solução criativa por meio de um “clique”, nas palavras do autor. Por fim, na quarta etapa (verificação), são feitos os ajustes e a implementação da solução obtida."
+  },
+  {
+    "textoDaPergunta": "Pergunta d11 ___ Soluções criativas dependem de uma série de agentes inter-relacionados. Nesse sentido, o psicólogo Mel Rhodes analisou em um estudo que a criatividade acontece quando uma ______________ comunica um novo ______________. O indivíduo chega neste estágio por meio de um ________________ mental, sendo necessário considerar o ______________ no qual ele está inserido. Preencha as lacunas escolhendo a alternativa CORRETA.",
+    "opcoes": [
+      "a. Pessoa; processo; ambiente; produto.",
+      "b. Empresa; processo; ambientação; trabalho.",
+      "c. Pessoa; produto; processo; ambiente.",
+      "d. Produção; ambiente; processo; local.",
+      "e. Empresa; trabalho; descanso; ambiente."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A primeira lacuna é completada pelo termo “pessoa”, pois a criatividade parte de uma pessoa, por meio de seus pensamentos inovadores. A segunda lacuna é completada pelo termo “produto”, porque a pessoa responsável pelo pensamento criativo identifica a necessidade de criação de um novo produto. A terceira lacuna é completada pelo termo “processo”, visto que a ideia criativa de um novo produto não vem 100% pronta, é preciso passar por um processo mental até se tornar uma ideia concreta. A quarta lacuna é completada pelo termo “ambiente”, pois se essa pessoa está em um ambiente que não encoraja e a coloca em constante pressão, dificilmente conseguirá ter ideias criativas."
+  },
+  {
+    "textoDaPergunta": "Pergunta d12 ___ Sabe-se que a criatividade é algo que deve ser instigado e isso deve ser feito desde a infância, pois em geral é a época mais propícia para ser criativo. Porém existem alguns bloqueadores de criatividade que afetam a capacidade e a vontade da criança em ser criativa. Imagine um pai que elabora uma lista minuciosa do que a criança deve fazer durante seu dia, desde sua ajuda na casa até as brincadeiras que ela pode colocar em prática neste momento.\nAssinale a alternativa CORRETA que diz respeito ao tipo de bloqueio de criatividade colocado pelo pai dessa criança.",
+    "opcoes": [
+      "a. Recompensas.",
+      "b. Controle excessivo.",
+      "c. Competição.",
+      "d. Avaliação.",
+      "e. Vigilância."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "O tipo de bloqueio imposto por esse pai é o de controle excessivo. Essa lista detalhada faz com que a criança ache que não pode ser original, visto que ela só pode seguir o que lhe foi imposto. Assim, ela não terá abertura para explorar o mundo que a cerca. A vigilância tem a ver com estar o tempo todo observando a criança, deixando-a retraída, enquanto a avaliação é constantemente julgar o que a criança faz, criando uma preocupação sem necessidade. As recompensas, até certo ponto, são boas, mas, quando muito utilizadas, fazem com que a criança perca a vontade de fazer algo por criatividade própria. E a competição faz com que a criança se preocupe unicamente em vencer e acaba esquecendo que o importante é se divertir."
+  },
+  {
+    "textoDaPergunta": "Pergunta d13 ___ Mel Rhodes tentou definir a palavra “criatividade”. Depois de revisar mais de quarenta definições de criatividade, ficou insatisfeito. O que o estudioso encontrou foram temas que se sobrepunham e se entrelaçaram. Em 1961, publicou um artigo intitulado “An Analysis of Creativity”, em que definiu os 4 Ps da criatividade. Sobre os 4 Ps de Rhodes, assinale a alternativa correta.",
+    "opcoes": [
+      "a. O processo retrata o entendimento dos traços e dos atributos da pessoa criativa.",
+      "b. O produto tem relação com os processos de criação do processo criativo.",
+      "c. A pressão (ambiente) representa as cobranças que a pessoa faz para ser criativa.",
+      "d. O preço simboliza o custo que o produto terá para ser criado.",
+      "e. O produto representa a identificação dos resultados e das qualidades dos produtos criativos."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "Está correta a alternativa que afirma que a etapa de produto simboliza o reconhecimento dos resultados e das qualidades dos produtos criativos. Trata-se, também, do momento de comunicação do novo conceito encontrado por meio da criatividade. Está incorreta a alternativa que defende que o preço simboliza o custo que o produto terá para ser criado, afinal, não existe o preço nos 4 Ps de Rhodes. Além disso, é incorreto sustentar que a pressão (ambiente) representa as cobranças que a pessoa faz para ser criativa, dado que consiste no entendimento do ambiente em que a pessoa está inserida. O entendimento dos traços e dos atributos da pessoa criativa está voltado ao P de “pessoas”, e não de “processo”. Por fim, é incorreto afirmar que o produto tem vínculo com os processos de criação do processo criativo, visto que essa preocupação é de responsabilidade do P denominado “processo”."
+  },
+  {
+    "textoDaPergunta": "Pergunta d14 ___ Leia o fragmento a seguir.\n“É importante lembrar que o pensamento divergente não é “melhor” do que o convergente. Os dois são importantes e se retroalimentam. Quanto mais a pessoa se informar e desenvolver sua capacidade lógico-analítica, fortalecendo seu pensamento convergente, mais estará apta a ter, também, momentos de pensamento divergente”. Considerando a relação entre o pensamento divergente e o pensamento convergente, analise as asserções a seguir e a relação proposta entre elas.\nI. O pensamento convergente usa um raciocínio profundo para concluir uma solução lógica para determinado dilema.\nPORQUE \nII. O pensamento divergente identifica várias possibilidades de resolução para um mesmo problema.\nA respeito das asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.",
+      "b. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "c. As asserções I e II são proposições falsas.",
+      "d. As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.",
+      "e. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I. Afinal, a asserção I descreve corretamente o pensamento convergente, enquanto a asserção II define corretamente o pensamento divergente. Entretanto ambas não estabelecem uma relação de causa e efeito."
+  },
+  {
+    "textoDaPergunta": "Pergunta e01 ___ A metodologia do Design Thinking é muito utilizada em situações que envolvem grande complexidade em analisar o problema ou a solução, fazendo-se necessário experimentar a inovação antes de implantá-la de fato, buscando economizar recursos e acertar no momento da implantação. Para isso, o Design Thinking possui cinco etapas. Considerando as etapas, avalie as afirmativas a seguir, em relação à definição do que é elaborado em cada etapa, e relacione-as adequadamente à etapa a qual pertence.\n1 - Empatia.\n2 - Idealizar.\n3 - Prototipar.\nI -    Criação de um modelo que possa passar por testes e ser avaliado, mesmo que seja algo simples.\nII -  Identificação do público-alvo ou criação de personas e entrevistas para entender o sentimento dessas pessoas.\nIII - Utilização da ferramenta brainstorming para levantar o máximo de soluções criativas possíveis.\nAssinale a alternativa que correlaciona adequadamente os dois grupos de informação:",
+    "opcoes": [
+      "a. 1-II; 2-III; 3-I.",
+      "b. 1-I; 2-II; 3-III.",
+      "c. 1-III; 2-II; 3-I.",
+      "d. 1-II; 2-I; 3-III.",
+      "e. 1-I; 2-III; 3-II."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A sentença II se enquadra na etapa 1, pois a empatia é justamente compreender os sentimentos do público que utilizará a solução. Ou seja, compreender suas necessidades e suas dores para então proporcionar uma solução.  A sentença III se enquadra na etapa 2, pois a idealização é a fase em que o indivíduo precisa pensar criativamente, sem regras ou críticas, a fim de levantar o máximo de ideias possíveis. Essa atitude pode ser comparada à ferramenta brainstorming.  A sentença I se enquadra na etapa 3, pois a prototipagem envolve criar algo simples e de baixo custo que possa ser testado e avaliado antes de se tornar algo palpável de fato. No caso de um produto novo, por exemplo, cria-se um esboço para ter a noção de como ficará e esse esboço passa pela avaliação de seu público-alvo."
+  },
+  {
+    "textoDaPergunta": "Pergunta e02 ___ O design thinking é um processo em que os designers estudam a resolução de problemas. Ele incorpora os pensamentos analítico, sintético, divergente e convergente, a fim de criar um grande número de soluções potenciais e, em seguida, reduzi-las a uma solução que melhor se ajuste ao problema que se deseja resolver. Assinale a alternativa que indica a ordem correta do processo de design thinking.",
+    "opcoes": [
+      "a. Testagem, definição, empatia, prototipação e idealização.",
+      "b. Empatia, definição, idealização, prototipação e testagem.",
+      "c. Definição, empatia, idealização, prototipação e testagem.",
+      "d. Prototipação, empatia, definição, idealização e  testagem.",
+      "e. Definição, idealização, prototipação, testagem e empatia."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A ordem correta de aplicação do design thinking é a seguinte: empatia, definição, idealização, prototipação e testagem. Durante a empatia, entende-se aquilo que o público-alvo deseja. Na etapa de definição, são definidos os objetivos do projeto. Por outro lado, durante a idealização, são buscadas as soluções por meio de ferramentas de construção de ideias coletivas. Na prototipagem, cria-se um modelo para ser testado e avaliado. Por fim, durante a testagem, testa-se o protótipo. Geralmente, retorna-se às etapas “idealização” e “prototipagem” após os testes, para que sejam feitas as adequações."
+  },
+  {
+    "textoDaPergunta": "Pergunta e03 ___ O design thinking é um processo para a resolução criativa de problemas. Ele carrega um núcleo centrado no ser humano, incentivando as organizações a se concentrarem nas pessoas para as quais estão criando. Isso proporciona a elaboração de melhores produtos, serviços e processos internos. Trata-se de um processo composto por cinco etapas. Assinale a alternativa que contempla uma das etapas do design thinking.",
+    "opcoes": [
+      "a. Processo.",
+      "b. Empatia. ",
+      "c. Design.",
+      "d. Produto.",
+      "e. Pensamento convergente."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "Está correta a alternativa que indica a empatia como uma das etapas do design thinking. Trata-se da primeira etapa, que busca conhecer o público-alvo daquilo que se está criando. Todavia está incorreta a alternativa que afirma que o design é uma de etapas do design thinking. Embora o nome do processo tenha o termo “design”, ele não integra as etapas. Também é incorreta a alternativa que expressa que o pensamento convergente é uma das etapas do design thinking. Esse termo é oriundo da teoria de Guilford relativa à criatividade. O processo não é uma das etapas do design thinking, mas é um dos 4 Ps de Mel Rhodes para a criatividade. Por fim, é incorreta a alternativa que elenca o produto como uma das etapas do design thinking. O produto é um dos 4 Ps do marketing e também pode ser entendido como um dos 4 Ps da criatividade de Mel Rhodes."
+  },
+  {
+    "textoDaPergunta": "Pergunta e04 ___ Suponha que você é dono de uma loja de roupas para gestante e, após entender quais as “dores” de seu público-alvo e definir o que poderia ser feito, teve a ideia de expandir sua loja e passar a atender também o público recém nascido a fim de ser uma loja completa para mamães e bebês. Mas, antes de realmente fazer essa reforma e adquirir esse novo tipo de produto para revender, começou a pensar o que precisaria fazer para não implementar algo que não fosse lucrativo. Com base nas etapas do Design Thinking, avalie as afirmativas a seguir sobre as próximas etapas. \nI.   Poderia ser realizado o protótipo de desenho do layout da loja para perguntar ao público-alvo a opinião deles e se ficaria de forma fácil de localizar as compras integrando os produtos.\nII.  Como já houve uma conversa com o público-alvo e você identificou suas necessidades, é possível adquirir os novos produtos para começar a vender o quanto antes e aproveitar os lucros.\nIII. Depois de identificar a vontade de seu público-alvo de encontrar produtos para elas e para seus bebês em um único local, você precisa prototipar quais produtos são de real validade devido à grande variedade.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I, apenas.",
+      "b. II, apenas.",
+      "c. I e III, apenas.",
+      "d. I e II, apenas.",
+      "e. II e III, apenas."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "Está correta a alternativa que indica a empatia como uma das etapas do design thinking. Trata-se da primeira etapa, que busca conhecer o público-alvo daquilo que se está criando. Todavia está incorreta a alternativa que afirma que o design é uma de etapas do design thinking. Embora o nome do processo tenha o termo “design”, ele não integra as etapas. Também é incorreta a alternativa que expressa que o pensamento convergente é uma das etapas do design thinking. Esse termo é oriundo da teoria de Guilford relativa à criatividade. O processo não é uma das etapas do design thinking, mas é um dos 4 Ps de Mel Rhodes para a criatividade. Por fim, é incorreta a alternativa que elenca o produto como uma das etapas do design thinking. O produto é um dos 4 Ps do marketing e também pode ser entendido como um dos 4 Ps da criatividade de Mel Rhodes."
+  },
+  {
+    "textoDaPergunta": "Pergunta e05 ___ Suponha que uma empresa foi contratada para criar um software de gestão para um restaurante controlar os dados de seus clientes. Ao elaborar o demo, a empresa de TI verificou que poderia incluir algumas funcionalidades em relação às finanças para tornar o software mais completo ao seu cliente. Após análise do caso apresentado, analise as asserções a seguir e a relação proposta entre elas.\nI.  A empresa de software está certa, quanto mais funcionalidade apresentar para o cliente no mínimo produto viável maior a chance de fechar o negócio.\nPORQUE\nII. O intuito do mínimo produto viável é surpreender o consumidor e demonstrar o máximo de funcionalidades possíveis para realizar a testagem.\nA respeito dessas asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. As asserções I e II são falsas.",
+      "b. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "c. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "d. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "e. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A asserção I é uma proposição falsa, pois o demo deve ser um mínimo produto viável, ou seja, a empresa deve reduzir o produto em sua essência a fim de evitar desperdícios. É importante saber dosar e não ficar muito simples, mas também não muito complexo, pois esse é o momento de identificar as características principais e essenciais do produto.  A asserção II é uma proposição falsa, pois o intuito do demo é incluir funcionalidades que sejam necessárias de fato, assim cada funcionalidade incluída deve ser justificada. Ao inserir muitas outras funcionalidades, o empreendedor pode estar gastando tempo e dinheiro sem necessidade."
+  },
+  {
+    "textoDaPergunta": "Pergunta e06 ___ Se a startup enxuta se relaciona com as iterações rápidas de produtos focados nas necessidades e nos requisitos do usuário, então, o aprendizado validado é a parte do processo em que aprendemos o quão perto cada iteração está de satisfazer às pessoas para as quais estamos construindo. O ciclo de aprendizagem validado é uma criação de Eric Ries e tem três etapas. Sobre o ciclo de aprendizagem validado, analise as afirmativas a seguir.\nI.   Na etapa I, constrói-se o produto ou se aplica um conjunto de ideias.\nII.  Na etapa II, mede-se a reação dos clientes ao serem colocados diante do artefato.\nIII. Na etapa III, deve-se aprender com base nas observações e refutar ou validar as hipóteses.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. I, II e III.",
+      "b. I e II, apenas.",
+      "c. II e III, apenas.",
+      "d. III, apenas.",
+      "e. I e III, apenas."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A afirmativa I está correta, pois, na etapa I, é construído um artefato ou é aplicado um conjunto de ideias para criar um produto ou serviço. A afirmativa II está correta, tendo em vista que, na etapa II, coloca-se a criação diante dos clientes e se mede a reação deles diante do contato artefato. Por fim, a afirmativa III está correta, já que, na etapa III, é necessário aprender com base nas observações e nos dados obtidos, a fim de aceitar ou negar as hipóteses iniciais. Caso seja necessário, são feitos os ajustes necessários."
+  },
+  {
+    "textoDaPergunta": "Pergunta e07 ___ O design thinking é aplicável independentemente da função que a pessoa ocupa em uma organização ou do setor econômico em que a empresa atua. Nos negócios, no governo, na educação ou em uma organização sem fins lucrativos, o design thinking pode ajudar a desenvolver soluções inovadoras com base nas necessidades dos clientes. \nAo analisar o fluxo dos processos de design thinking, é perceptível que ele passa por momentos de convergência e divergência de ideias. Sobre a temática, assinale a alternativa correta.",
+    "opcoes": [
+      "a. Na etapa de evolução, há muitas divergências de ideias.",
+      "b. Na etapa de idealização, há apenas divergências de ideias.",
+      "c. Na etapa de interpretação, há muitas divergências de ideias.",
+      "d. Na etapa de descobertas, há muitas divergências de ideias.",
+      "e. Na etapa de definição, há muitas convergências de ideias. "
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "É correta a alternativa que afirma que, durante a etapa de descobertas, há muitas divergências de ideias. Afinal, é o momento de levantar hipóteses junto ao público-alvo. É normal que surjam muitas possibilidades. É incorreto afirmar que, na etapa de interpretação, há muitas divergências de ideias, dado que, nessa etapa, as ideias passam a convergir, a fim de definir os próximos passos. Também é incorreto sustentar que, durante a etapa de idealização, existem apenas divergências de ideias. Nela, há um pico de divergências, mas é necessário finalizá-la com convergências. Na etapa de evolução, não há muitas divergências de ideias. Nessa etapa, as ideias precisam estar convergidas, de modo que todos trabalhem em uníssono. Por fim, é incorreto afirmar que, durante a etapa de definição, há muitas convergências de ideias. De fato, nela, há muitas divergências, mas, ao final, todas devem convergir em apenas uma"
+  },
+  {
+    "textoDaPergunta": "Pergunta f01 ___ Um plano de negócios é uma ferramenta muito importante e estratégica para os empreendedores. Um bom plano de negócios orienta o empreendedor em cada estágio. Usa-se o plano de negócios como um roteiro que evidencia a maneira de estruturar, administrar e expandir o novo negócio. Trata-se de uma forma de pensar nos elementos-chave do negócio. Sobre o plano de negócios, analise as asserções a seguir e a relação proposta entre elas.\nI.  Todo negócio necessita de um plano de negócios. Ele precisa expor a maior quantidade possível de informações sobre o novo produto. Esse documento é relevante ao relacionamento com investidores, bancos e clientes, por exemplo. \nPORQUE\nII. Toda vez que é feita uma solicitação de investimentos no negócio, o provável investidor requer o plano de negócios da empresa em questão. Afinal, é por meio desse documento que ele pode tomar as decisões.\nA respeito das asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "b. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.",
+      "c. As asserções I e II são proposições falsas. ",
+      "d. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "e. As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I. Ambas as asserções expõem motivos relevantes para se ter um plano de negócios. Contudo não há relação de causa e efeito entre elas. Afinal, o plano é bom tanto para conquistar investimentos quanto para auxiliar na tomada de decisões."
+  },
+  {
+    "textoDaPergunta": "Pergunta f02 ___ Uma panificadora teve a ideia de criar um novo modelo de bolo especial para pessoas com alergia a glúten e, para tornar a ideia palpável, decidiu fazer um plano de negócio. No campo de produtos e serviços de seu plano, a gestora colocou os seguintes dados: ingredientes utilizados e forma de preparo. Após análise do problema apresentado, analise as asserções a seguir e a relação proposta entre elas. \nI.  O campo de produtos e serviços está incompleto, a gestora precisa completar com mais informações.\nPORQUE\nII. Outros dados são imprescindíveis como o tempo de vida do produto (validade), quais recursos são necessários para produção, entre outros.\nA respeito dessas asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "b. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.",
+      "c. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "d. As asserções I e II são falsas.",
+      "e. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A asserção I é uma proposição verdadeira, pois o plano de negócios deve ser o mais completo possível, para quem leia consiga entender todos os elementos importantes de sua respectiva etapa.  A asserção II é uma proposição verdadeira e justificativa correta da I, pois neste caso, a gestora poderia incluir quanto tempo de validade o bolo terá, quais equipamentos ela utilizou para produzi-lo e, até mesmo, feedbacks de clientes que já experimentaram (se houver). "
+  },
+  {
+    "textoDaPergunta": "Pergunta f03 ___ Plano de negócio refere-se a um documento que formaliza um empreendimento e o modelo de negócio adotado para ser a base da organização. Sua criação faz com que o empreendedor entenda seu ambiente de negócios e por meio de um processo de ______________ (lacuna 1) e aprendizagem. Um plano de negócio é dividido em partes que em geral são _____________ (lacuna 2) a fim de facilitar sua elaboração e entendimento, sendo que cada uma possui um determinado _______________ (lacuna 3). Preencha as lacunas escolhendo a alternativa correta.",
+    "opcoes": [
+      "a. análise, iguais, cliente.",
+      "b. desenvolvimento, diferentes, meio de produção.",
+      "c. autoconhecimento, padronizadas, propósito.",
+      "d. melhorias, desenhadas, fim.",
+      "e. desenvolvimento, padronizadas, interessado."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A primeira lacuna é completada pelo termo “autoconhecimento”, pois o empreendedor precisa entender como a empresa está hoje ou como ele quer construir seu negócio antes de identificar onde quer chegar.  A segunda lacuna é completada por “padronizadas”, pois as partes já vem com “nome” e o que deve ser preenchido como forma de facilitar a compreensão e a elaboração do plano. Nesse sentido, o empreendedor deve apenas analisar o que deve ser escrito em cada bloco para elaborar o plano corretamente.  A terceira lacuna é completada por “propósito”, pois cada área do plano tem um propósito a cumprir, por exemplo, a estrutura de custos para o empreender ter noção do quanto de dinheiro será necessário e quais serão suas contas."
+  },
+  {
+    "textoDaPergunta": "Pergunta f04 ___ O plano de negócios é um componente inegavelmente crítico para fazer qualquer empresa decolar. Ele é fundamental para garantir o financiamento, documentar o modelo de negócios, delinear as projeções financeiras e transformar a ideia de negócio em realidade. Sobre o plano de negócios, analise as asserções a seguir e a relação proposta entre elas.\nI.  A principal utilidade do plano de negócios é dispor de uma ferramenta de gestão para planejar o desenvolvimento inicial de uma empresa. \nPORQUE\nII. O que tem acontecido ultimamente é o uso do plano de negócios apenas como uma ferramenta de captação de recursos junto aos capitalistas de risco e aos investidores-anjo.\nA respeito das asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "b. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.",
+      "c. As asserções I e II são proposições falsas.",
+      "d. As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.",
+      "e. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I. A asserção I expressa η real utilidade do plano de negócios, assim como ele foi concebido. Já a asserção II explica a utilidade atual do plano de negócios. Ambas as asserções estão corretas, mas não estabelecem uma relação de causa e efeito."
+  },
+  {
+    "textoDaPergunta": "Pergunta f05 ___ “Essa ferramenta de gestão pode e deve ser usada por todo e qualquer empreendedor que queira transformar seu sonho em realidade, seguindo o caminho lógico e racional que se espera de um bom administrador. Espera-se que um plano de negócios seja uma ferramenta para o empreendedor expor suas ideias, em uma linguagem que os leitores entendam e, principalmente, que mostre viabilidade e probabilidade de sucesso em seu mercado”. Com relação à elaboração do plano de negócio, observe as afirmações a seguir.\nI.   O plano de negócio deve ser elaborado uma vez e com o objetivo de abrir uma empresa.\nII.  É uma ferramenta estática, que deve ser feita com cuidado, pois não pode ser alterada.\nIII. Deve apresentar onde a empresa quer chegar, mas também a situação presente e real.\nIV.  O empreendedor precisa ser criativo para enfatizar questões interessantes aos clientes. \nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. III e IV, apenas.",
+      "b. II e IV, apenas.",
+      "c. I, II e IV, apenas.",
+      "d. I, II e III, apenas.",
+      "e. I e III, apenas."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A afirmativa I está incorreta, pois o plano de negócio pode ser elaborado em qualquer fase em que uma empresa se encontra, seja na abertura seja para melhorar algo na empresa ou para seguir novos caminhos.  A afirmativa II está incorreta, pois o plano de negócio é uma ferramenta dinâmica que deve ser atualizada quantas vezes forem necessárias. Por exemplo, caso ocorra uma mudança no mercado que influencie o setor da sua empresa, deve-se alterar o que for necessário no plano para acompanhar a mudança.  A afirmativa III está correta, pois a empresa precisa entender sua situação atual para depois planejar onde deseja chegar e como conseguirá fazer isso. Não é possível planejar o futuro sem entender as condições atuais, seus recursos etc.  A afirmativa IV está correta, pois o foco é sempre agradar o cliente e conseguir vender o máximo possível. Em geral, o cliente não compra apenas o produto, mas sim a solução que proposta para um problema que ele possui."
+  },
+  {
+    "textoDaPergunta": "Pergunta f06 ___ Um gestor de determinada empresa teve uma ideia inovadora e decidiu construir seu plano de negócios para conseguir vendê-la. Após a elaboração, ele conseguiu marcar uma reunião com um potencial investidor, porém ficou tão empolgado com a oportunidade que ficou 1 hora apontando detalhes de sua ideia e de seu plano de negócios. Após análise do problema apresentado, avalie as asserções a seguir e a relação proposta entre elas. \nI.  A atitude do empresário foi a única correta, abordando todos os os pontos do plano de negócio de maneira completa.\nPORQUE.\nII. São poucas as oportunidades de apresentar a ideia aos investidores, então é preciso saber usá-la com zelo. \nA respeito dessas asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "b. As asserções I e II são falsas.",
+      "c. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.",
+      "d. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "e. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira. "
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A asserção I é uma proposição falsa, pois geralmente o tempo dos investidores é curto, então o empreendedor precisa abordar os pontos essenciais de seu plano de negócios e posteriormente enviar maiores detalhes.  \nA asserção II é uma proposição verdadeira, pois a apresentação da ideia deve ser pensada com muito cuidado e carinho, visto que não é fácil conseguir apresentá-la aos investidores. Trata-se de um momento único e que pode ser decisivo, por isso deve-se pensar nos mínimos detalhes. "
+  },
+  {
+    "textoDaPergunta": "Pergunta f07 ___ O planejamento permite que sejamos responsáveis pelo que fazemos. Também auxilia na escolha da melhor forma de usar os recursos (pessoas, tempo, dinheiro, informações e equipamentos), para que eles contribuam de forma significativa no alcance do nosso objetivo. O planejamento estabelece a base para avaliarmos as nossas realizações de forma eficaz. Sobre o planejamento na cultura brasileira, analise as asserções a seguir e a relação estabelecida entre elas.\nI.  No Brasil, há uma cultura de não planejar os próprios negócios.\nPORQUE\nII. O brasileiro consegue resolver tudo com a criatividade e a persistência.\nA respeito das asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "b. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.",
+      "c. As asserções I e II são proposições falsas. ",
+      "d. As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.",
+      "e. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. A asserção I é verdadeira, afinal, o brasileiro é conhecido por não ter o hábito de planejar os próprios negócios. No entanto não é com a criatividade e a persistência que os negócios evoluem. Objetividade e transformação da criatividade em ações concretas são essenciais. Portanto, a assertiva II está incorreta."
+  },
+  {
+    "textoDaPergunta": "Pergunta f08 ___ Muitos pensam que o plano de negócio possui como público-alvo apenas aquela pessoa que está elaborando como forma de organização de ideias ou os bancos a fim de conceder crédito para a empresa. Porém há inúmeros outros públicos e benefícios envolvendo a criação de um plano de negócio. Avalie as afirmações a seguir em relação às situações envolvendo diferentes públicos-alvo e relacione-as adequadamente aos termos às quais se referem. \n1 - Fornecedores.\n2 - Empresa internamente.\n3 - Clientes.\nI -    Uma empresa de cosméticos lançou um novo batom e está utilizando como marketing para conseguir realizar boas vendas.\nII.  Para lançar um novo batom, a empresa de cosméticos precisou fazer mudanças nos processos e utilizou o plano como forma de comunicar a equipe.\nIII. Empresa de cosméticos utilizou o plano a fim de conseguir preços melhores em suas matérias-primas. \nAssinale a alternativa que correlaciona adequadamente os dois grupos de informação.",
+    "opcoes": [
+      "a. 1-III; 2-II; 3-I.",
+      "b. 1-II; 2-I; 3-III.",
+      "c. 1-I; 2-III; 3-II.",
+      "d. 1-III; 2-I; 3-II.",
+      "e. 1-I; 2-II; 3-III."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A sentença I se enquadra no conceito 3, pois o plano de negócio pode ter como público-alvo seus clientes, como forma de publicidade para que seus consumidores tenham conhecimento de seus produtos.  A sentença II se enquadra no conceito 2, pois o plano também pode ser usado para comunicar mudanças ou pontos importantes internamente na empresa. Assim, todos os pontos devem ser alinhados com a equipe para que eles tenham conhecimento da importância de seu papel.  A sentença III se enquadra no conceito 1, pois uma maneira de conseguir parceria com os fornecedores é utilizando o plano de negócios a fim de que eles entendam a viabilidade do negócio e reconheçam que uma aliança seria benéfica para ambos os lados."
+  },
+  {
+    "textoDaPergunta": "Pergunta f09 ___ O número de empresas abertas por ano no Brasil cresce a cada dia mais, porém, em diversas pesquisas, constata-se que grande parte dessas empresas recém-abertas acabam fechando até seu segundo ano de vida. Por mais desculpas dadas pelos empreendedores buscando amenizar a situação em grande parte (esmagadora) dos casos, a causa é uma só. Com relação à causa da mortalidade das empresas, assinale a alternativa correta.",
+    "opcoes": [
+      "a. O governo é o problema central do fechamento das empresas.",
+      "b. A mudança tecnológica é a maior causa da mortalidade.",
+      "c. A falta de planejamento é o principal problema.",
+      "d. A burocracia é a grande causadora da mortalidade.",
+      "e. A grande concorrência faz com que a maior parte das empresas feche."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "Apesar de diversos empreendedores alegarem que a burocracia e o governo prejudicam seu negócio e que existem concorrentes desleais, o problema que de fato causa a mortalidade das empresas é a falta de planejamento. Sem elaborar planos e metas a empresa não consegue determinar onde quer e precisa chegar e, com isso, acaba ficando \"à deriva\" e não acompanha o mercado que muda cada dia mais rápido.  Além disso, o planejamento também auxilia a não ser surpreendido pela ampla concorrência e pela mudança tecnológica. "
+  },
+  {
+    "textoDaPergunta": "Pergunta f10 ___ Um plano de negócios é um documento que define em detalhes os objetivos de uma empresa e a maneira como ela planeja atingir as próprias metas. Portanto, um plano de negócios estabelece um roteiro escrito para a empresa em consonância com os pontos de vista do marketing, do financeiro e do operacional. Tanto as startups quanto as empresas estabelecidas usam planos de negócios. Sobre o uso do plano de negócios no Brasil, assinale a alternativa correta.",
+    "opcoes": [
+      "a. Foi o setor de automóveis que deu início à popularização do plano de negócios, em 1960.",
+      "b. Foi o setor de games que deu início à popularização do plano de negócios, em 1990.",
+      "c. Foi o setor de alimentos que deu início à popularização do plano de negócios, em 1990.",
+      "d. Foi o setor de softwares que deu início à popularização do plano de negócios, em 1990.",
+      "e. Foi o setor agropecuário que deu início à popularização do plano de negócios, em 1980."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "Foi o setor de softwares que deu início à popularização do plano de negócios, em 1990. Isso aconteceu por meio do Programa Softex."
+  },
+  {
+    "textoDaPergunta": "Pergunta f11 ___ Uma fábrica de chocolates finos possui como visão “Ser referência de chocolates finos no país, garantindo uma experiência ótima aos clientes”. Essa empresa tem grandes concorrentes, por exemplo a Cacau-Show, mas não se deixa afetar focando na qualidade de seus produtos e em um bom marketing. Além disso, ela começou a desenvolver um plano de negócio para melhorar ainda mais, porém precisa de auxílio para escrever corretamente cada seção. Com relação ao caso apresentado acima, avalie as afirmações a seguir.\nI.   A visão deve ser inserida na seção da descrição da empresa, visto que é um dos aspectos básicos.\nII.  O processo e sistema produtivo dos chocolates devem ser inseridos na seção de plano operacional.\nIII. A Cacau-Show e demais concorrentes devem ser analisados na seção de análise de mercado, juntamente à pesquisa sobre o mercado consumidor.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. I e II, apenas.",
+      "b. II e III, apenas.",
+      "c. I e III, apenas.",
+      "d. I, apenas.",
+      "e. II, apenas."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A afirmativa I está incorreta, pois a visão deve ser colocada na análise estratégica juntamente a uma análise interna e externa à organização, os objetivos e as metas da empresa.  A afirmativa II está correta, pois o plano operacional, como o nome já diz, separa aspectos do processo produtivo, levando em consideração as ações que serão implantadas.  A afirmativa III está correta, pois concorrentes e clientes fazem parte de uma análise de mercado - o próprio nome da seção do plano. Nesse sentido, a empresa deve entender preferências, fatias e crescimento de mercado, entre outros."
+  },
+  {
+    "textoDaPergunta": "Pergunta f12 ___ Um empreendedor deseja abrir uma empresa, visto que possui uma ideia que considera inovadora, porém lhe faltam recursos para conseguir atingir seu objetivo.   Com base nisso, ele decidiu elaborar um plano de negócios e especificar em todas as partes o que realmente gostaria de fazer em sua organização e de que maneira faria isso, para então levar até seu banco. Com relação ao trecho acima, assinale a alternativa correta sobre o objetivo de seu plano de negócios.",
+    "opcoes": [
+      "a. Orientar o desenvolvimento das operações e estratégias.",
+      "b. Desenvolver a equipe de gestão.",
+      "c. Transmitir credibilidade.",
+      "d. Atrair recursos financeiros.",
+      "e. Testar a viabilidade de um conceito de negócios."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "Quando um empreendedor solicita crédito a bancos ou instituições financeiras, pode ter que apresentar o plano de negócio para que o concedente saiba se estará investindo dinheiro em algo palpável e de retorno possível. Nesse sentido, no exemplo explorado, o empreendedor precisava de dinheiro para abrir sua empresa, então elaborou o plano de negócios com o objetivo de atrair recursos financeiros.  O plano de negócio também pode ter finalidades de testar a viabilidade de determinado negócio para que o empresário não tome ações erradas, orientar o desenvolvimento de estratégias a fim de ter um norte a seguir, pode ser usado para criar credibilidade de algo palpável e para melhorar o desempenho da equipe de gestão, mas no exemplo citado o empreendedor buscava recursos para abrir sua empresa."
+  },
+  {
+    "textoDaPergunta": "Pergunta f13 ___ A definição de gestão empresarial é a seguinte: gestão da coordenação e organização das atividades empresariais. Isso, normalmente, inclui a produção de materiais, dinheiro e máquinas. Além disso, envolve a inovação e o marketing. A administração é a responsável por planejar, organizar, dirigir e controlar os recursos do negócio, a fim de que eles possam cumprir os objetivos da política. Sobre as armadilhas do gerenciamento de pequenas empresas, analise as afirmativas a seguir.\nI.   Falta de experiência.\nII.  Falta de recursos financeiros.\nIII. Dificuldade de obtenção de crédito.\nIV.  Pouco uso de recursos do proprietário.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. I, II e III, apenas.",
+      "b. II, III e IV, apenas.",
+      "c. I, III e IV, apenas.",
+      "d. I, II e IV, apenas.",
+      "e. II e III, apenas."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A afirmativa I está correta, pois a falta de experiência dos trabalhadores é uma das armadilhas do gerenciamento de pequenas empresas. A afirmativa II também está correta, dado que a falta de recursos financeiros para manter η organização funcionando é uma das armadilhas do gerenciamento de pequenas empresas. Além disso, a afirmativa III está correta, uma vez que a dificuldade de obter crédito para fazer a organização funcionar é uma das armadilhas do gerenciamento de pequenas empresas. Por fim, a afirmativa IV está incorreta, já que o uso excessivo de recursos próprios é uma armadilha do gerenciamento de pequenas empresas."
+  },
+  {
+    "textoDaPergunta": "Pergunta g01 ___ “Ao se entender como são as principais fases de investimento em empresas, fica mais claro em quais estágios o capital de risco está mais presente. Às vezes, existem várias rodadas de investimento, os chamados first round, second round etc., e, em cada rodada, os capitalistas anteriores procuram realizar seus lucros ao vender parte de sua participação na empresa”. Avalie as afirmações a seguir, em relação às situações que podem ocorrer nos estágios, e relacione-as aos termos aos quais se referem:\n1- Fase pré-inicial.\n2 - Fase inicial.\n3 - Consolidação.\nI.   Empreendedor, com ideia inovadora, vai até seus amigos para pedir ajuda financeira para abrir seu próprio negócio.\nII.  Empresa estável no mercado procura uma expansão grande por meio da aquisição de outra empresa.\nIII. Empresa com menos de 1 ano de vida e busca melhorar seu produto vendido já começa a ser aceita em alguns mercados.\nAssinale a alternativa que correlaciona adequadamente os dois grupos de informação.",
+    "opcoes": [
+      "a. 1-I; 2-III; 3-II.",
+      "b. 1-I; 2-II; 3-III.",
+      "c. 1-II; 2-I; 3-III.",
+      "d. 1-III; 2-I; 3-II.",
+      "e. 1-III; 2-II; 3-I."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A sentença I se enquadra no conceito 1, pois na fase pré-inicial, a empresa ainda é um “sonho” e não saiu do papel. O empreendedor deve buscar fontes de investimento para conseguir abrir seu negócio.  A sentença II se enquadra no conceito 3, pois na fase inicial, a empresa já foi aberta, mas em geral possui menos de 1 ano. Neste estágio, o produto ainda precisa de melhorias, mas já é aceito por alguns mercados.  A sentença III se enquadra no conceito 2, pois na consolidação, a empresa já passou por uma primeira expansão e essa será maior ainda, seja por meio de aquisição, rodadas de investimento ou parcerias. "
+  },
+  {
+    "textoDaPergunta": "Pergunta g02 ___ Uma empresa de tecnologia da informação (TI) com mais de 1 ano de mercado deseja expandir seu negócio e começar a comercializar um tipo de software novo que seja vendido no exterior. Porém isso exige um grande investimento devido ao alto grau de retorno que poderá trazer e, com isso, o gestor da empresa procurou bancos de investimento para conseguir capital de risco. As negociações deram certo e o banco de investimento liberou capital de risco ao gestor, porém surgiu um problema com o software e, ao tentar direcionar uma estratégia, o gestor ficou descontente e disse que eles não poderiam fazer isso. Após análise do problema apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI.  O gestor está correto, o banco de investimentos não tem o direito de opinar sobre a estratégia.\nPORQUE\nII. Os investidores do capital de risco assumem o papel de sócio minoritário do negócio. \nA respeito dessas asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "b. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.",
+      "c. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "d. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "e. As asserções I e II são falsas."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A asserção I é uma proposição falsa, pois os investidores do capital de risco possuem participação no Conselho Administrativo da empresa, mesmo sem participar diretamente da gestão. Nesse sentido, eles podem além de direcionar uma estratégia, vetar ou sugerir executivos.  A asserção II é uma proposição verdadeira, pois quando uma empresa aceita o capital de risco, o investidor tem direito a se tornar sócio minoritário como “moeda de troca”, podendo opinar no negócio."
+  },
+  {
+    "textoDaPergunta": "Pergunta g03 ___ O Canvas pode ser uma ferramenta simples, mas não deve ser subestimado, visto que pode auxiliar muito na elaboração de estratégias e do plano de negócios de uma empresa. Mas, para que isso ocorra, é preciso preencher corretamente cada bloco, ou seja, entender as perguntas e saber corretamente como respondê-las. Com relação aos blocos do Canvas, avalie as afirmações a seguir:\nI.   A estrutura de custos e as fontes de receita representam o quanto o empreendedor vai precisar gastar com seu negócio.\nII.  A proposta de valor representa para quem o negócio é voltado, quem são os clientes, quais as formas de distribuição.\nIII. Parceiros-chave, atividades-chave e recursos-chave representam todas as informações de como o negócio será feito.\nEstá correto o que se afirma em:",
+    "opcoes": [
+      "a. II, apenas.",
+      "b. II e III, apenas.",
+      "c. I, apenas.",
+      "d. I e II, apenas.",
+      "e. I e III, apenas."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I está correta, pois na estrutura de custos são analisados quais os custos importantes, além de delimitar quais recursos-chave e atividade-chave são mais caras, assim o empreendedor conseguirá ter um panorama do dinheiro necessário.  A afirmativa II está incorreta, pois a proposta de valor analisa o que será feito, seja produto ou serviço, além de objetivar qual necessidade do cliente será atendida, para que o empreendedor saiba se o negócio realmente será viável.  A afirmativa III está correta, pois parceiros-chave analisam os parceiros, sejam fornecedores, investidores, que são imprescindíveis para o negócio funcionar. Os recursos-chave são os modelos de receita, canais de relacionamento e, por fim, as atividades-chave são aquelas que, se não forem feitas, o negócio não funciona."
+  },
+  {
+    "textoDaPergunta": "Pergunta g04 ___ Muitos empreendedores brasileiros possuem a ideia e a vontade de ser dono de seu próprio negócio, porém a grande maioria enfrenta a dificuldade de não ter dinheiro ou não conseguir empréstimos para tal fim. Recentemente a figura do ________________ (lacuna 1) se tornou mais popular no país, sendo uma pessoa responsável por investir o dinheiro necessário para iniciar um negócio, em troca de parte da ________________ (lacuna 2) da empresa. Esse tipo de investimento, em geral, é feito por pessoas que são adeptas a correr riscos, mas que deem retorno no máximo em _______________ (lacuna 3). Preencha as lacunas escolhendo a alternativa correta.",
+    "opcoes": [
+      "a. economia familiar, gestão, 1 a 3 anos.",
+      "b. investidor anjo, quota social, 3 a 5 anos.",
+      "c. fornecedores, gestão, 4 a 6 anos.",
+      "d. banco, hipoteca, 10 anos.",
+      "e. capital de risco, quota social, 2 a 4 anos.  "
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A primeira lacuna é completada pelo termo “investidor anjo”, pois é uma pessoa física que analisa o plano de negócios de uma empresa e, caso veja potencial, investe seu dinheiro para que ela consiga abrir seu negócio ou inicie seu produto.  A segunda lacuna é completada pelo termo “quota social”, pois o investidor anjo pede em troca do dinheiro investido parte da quota social ou então participação acionária da empresa, mas não se intromete na gestão.  A terceira lacuna é completada pelo termo “3 a 5 anos”, pois outra condição imposta é que o investidor anjo apenas investe em negócios que deem retorno financeiro em 3 a 5 anos no máximo."
+  },
+  {
+    "textoDaPergunta": "Pergunta g05 ___ No contexto do empreendedorismo, a expressão 'investir para colher'\nmuitas vezes se revela precisa. Após conceber uma ideia de negócio\ninovadora, identificar uma demanda no mercado e formular um plano\nde valor, é imperativo buscar recursos financeiros para iniciar a\noperação da empresa. A essência para obter financiamento reside em\nmanter os custos o mais baixos que puder, enquanto se assegura que o\ncapital investido seja direcionado para a aquisição de informações\ncruciais sobre como encontrar oportunidades e se adaptar ao mercado\nde forma eficaz. Sobre as dificuldades de se obter financiamento\nno Brasil, analise as afirmativas a seguir.\nI.   Grandes exigências estabelecidas pelos agentes financiadores.\nII.  Altas taxas de juros cobradas pelos agentes financiadores.\nIII. Dificuldades em pagar os empréstimos após o término do acordo.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. II e III, apenas.",
+      "b. I, II e III.",
+      "c. III, apenas.",
+      "d. I e II, apenas.",
+      "e. I e III, apenas."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A afirmativa I está correta, pois há grandes exigências estabelecidas pelos agentes financiadores, o que inibe os empresários na busca pelo financiamento. A afirmativa II também está correta, dado que as altas taxas de juros cobradas pelos agentes financiadores desestimulam os empresários na busca por financiamentos. Por fim, a afirmativa III está correta, tendo em vista que os empresários expressam grandes dificuldades em pagar os empréstimos após o término do acordo. Isso, às vezes, torna inviável a continuidade do negócio."
+  },
+  {
+    "textoDaPergunta": "Pergunta g06 __ Dornelas (2018, p. 182) afirma que “o fato de não existirem políticas públicas claras, que apoiem o empreendedorismo no país, não justifica jogar toda a culpa do insucesso do empreendimento no governo”. Para combater a problemática, o empreendedor pode optar por alguns caminhos. Considerando os caminhos que o empreendedor pode seguir para combater uma eventual falta de incentivo, analise as afirmativas a seguir.\nI.   Utilizar a capacidade de planejamento.\nII.  Utilizar as habilidades de negociação.\nIII. Colocar o networking em uso.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. I e III, apenas.",
+      "b. I, II e III.",
+      "c. I e II, apenas.",
+      "d. II e III, apenas.",
+      "e. III, apenas."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A afirmativa I está correta, pois, para driblar a falta de incentivo ao empreendedorismo, o empreendedor deve utilizar a própria capacidade de planejamento, a fim de encontrar brechas e caminhos a seguir. A afirmativa II também está correta, tendo em vista que, diante da falta de incentivo ao empreendedorismo, o empreendedor deve utilizar as habilidades de negociação, procurando oportunidades em diferentes locais. A afirmativa III está correta, já que, ao vivenciar a falta de incentivo ao empreendedorismo, o empreendedor precisa promover o networking. Portanto, por meio de contatos, precisa buscar as melhores soluções para edificar o próprio negócio."
+  },
+  {
+    "textoDaPergunta": "Pergunta g07 ___ Dentre os vários tipos de financiamento, aquele que é realizado com a participação de amigos, família e economia pessoal é o mais comum. Isso ocorre devido aos fatores que estão envolvidos no processo e ao ambiente que cerca o empreendedor. Sobre essa modalidade de financiamento, analise as afirmativas a seguir.\nI.   As amizades sempre se mantêm ao final do processo.\nII.  A confiança é mais importante que o plano de negócios.\nIII. Fatores relacionados ao rendimento do dinheiro são importantes nessa modalidade.\nIV.  Um histórico de credibilidade da amizade é importante.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. I e III, apenas.",
+      "b. III e IV, apenas.",
+      "c. I e II, apenas.",
+      "d. II e IV, apenas.",
+      "e. I, II e III, apenas."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A afirmativa I está incorreta, pois é não é possível afirmar que as amizades sempre são mantidas até o final do processo. Nos casos em que as dívidas não são honradas, a amizade pode ser prejudicada. Já a afirmativa II está correta, uma vez que a confiança é mais importante que o plano de negócios. Um amigo não solicitará a leitura do plano, mas confiará nas ideias do amigo. A afirmativa III está incorreta, porque os fatores vinculados ao rendimento do dinheiro não são importantes nessa modalidade. O amigo está mais focado em auxiliar o outro que no rendimento financeiro. A afirmativa IV está correta, tendo em vista que o histórico de credibilidade da amizade é importante. Um amigo com um histórico de credibilidade tem maiores chances de conseguir a ajuda dos colegas."
+  },
+  {
+    "textoDaPergunta": "Pergunta g08 ___ Apesar de muitos gestores lidarem com mortalidade de empresas devido à falta de planejamento, são muitas as ferramentas existentes para evitar que isso aconteça. Uma dessas ferramentas é dividida em nove partes integradas em um quadro, onde sugere-se para colar post-it para responder a cada respectivo bloco. É uma maneira mais visual para o gestor conseguir encontrar novas soluções e analisar estratégias. Assinale a alternativa que apresenta a ferramenta correta.",
+    "opcoes": [
+      "a. Seis chapéus.",
+      "b. Design Thinking.",
+      "c. Brainstorming.",
+      "d. Plano de negócio.",
+      "e. Canvas."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A principal característica do Canvas é o fato dela ser visual. Essa ferramenta é distribuída em nove grupos, onde devem ser feitas perguntas, e você pode colocar post-it para respondê-las. Ao concluir, o resultado é uma análise de oportunidades e, com isso em mãos, o gestor pode realizar uma pesquisa primária com seu público-alvo.  O plano de negócio também é dividido em blocos, porém conta com muitas outras páginas e é bem mais complexo, deixando de ser uma ferramenta visual. Já o brainstorming, em sua tradução “tempestade de ideias”, é uma ferramenta de levantamento do máximo de ideias possíveis naquele meio, enquanto o modelo seis chapéus é um critério para se analisar as ideias por meio de diferentes perspectivas. Por fim, o Design Thinking é uma maneira de prototipar ideias e testá-las antes de torná-las soluções palpáveis."
+  }
+]

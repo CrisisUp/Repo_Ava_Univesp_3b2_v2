@@ -1,0 +1,710 @@
+[
+  {
+    "textoDaPergunta": "Pergunta a01 ___ A “estatística é a ciência que coleta, organiza, analisa e interpreta\n dados para a tomada de decisões”, podendo ser dividida em dois ramos principais:\n estatística descritiva e estatística inferencial. Sobre os ramos da estatística, leia as afirmações abaixo e marque V para as verdadeiras e F para as falsas.\n( ) A estatística descritiva se preocupa com a descrição dos dados.\n( ) Na estatística descritiva, utiliza-se medidas de posição e de dispersão para descrever os dados.\n( ) A estatística inferencial infere propriedades da população a partir de estimativas e testes de hipótese.\n( ) A estatística inferencial busca inferir conclusões sobre a amostra a partir dos dados colhidos da população.\nAssinale a alternativa que apresenta a sequência CORRETA.",
+    "opcoes": [
+      "a. V - F - V - F.",
+      "b. F - F - V - V.",
+      "c. V - V - V - F.",
+      "d. V - F - F - V.",
+      "e. F - V - V - V."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A afirmação I é verdadeira, pois a estatística descritiva faz a descrição dos dados. A afirmação II é verdadeira, pois as medidas de posição (como média, mediana e moda) e de dispersão (como variância e desvio padrão) podem ser utilizadas na estatística descritiva para descrever os dados. A afirmação III é verdadeira, visto que a estatística inferencial infere propriedades da população a partir de dados coletados da amostra por meio de estimativas e testes de hipótese. A afirmação IV é falsa, pois a estatística inferencial coleta dados da amostra para realizar inferências para a população."
+  },
+  {
+    "textoDaPergunta": "Pergunta a02 ___ A Copa do Mundo é uma competição de futebol realizada a cada 4 anos\n pela Federação Internacional de Futebol e que ocorreu pela primeira vez em 1930, no Uruguai.\n Na Copa do Mundo, o Brasil conta com 5 títulos, obtidos nos anos:\n 1958,1962,1970,1994 e 2002. Em relação aos anos de obtenção dos títulos brasileiros,\n é correto afirmar que o conjunto de dados está no nível de mensuração:",
+    "opcoes": [
+      "a. Qualitativo.",
+      "b. Intervalar.",
+      "c. Ordinal.",
+      "d. Racional.",
+      "e. Nominal."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "Para os anos das vitórias brasileiras, é possível encontrar diferenças entre os dados (por exemplo, a diferença entre a primeira e a última vitória é de 2002-1958=44 anos), mas não faz sentido dizer que um é múltiplo do outro. Logo, estão no nível de mensuração intervalar, uma vez que o ano zero é um ano arbitrário."
+  },
+  {
+    "textoDaPergunta": "Pergunta a03 ___ Ao realizar um estudo estatístico, é importante saber a natureza\n do dado envolvido, podendo ser qualitativo ou quantitativo.\n Além disso, outra característica importante é o nível de mensuração,\n o qual auxilia na determinação de quais cálculos estatísticos são significantes.\n Sobre os níveis de mensuração, analise as asserções a seguir e a relação proposta entre elas.\nI. Dentre os níveis de mensuração, o nível de mensuração do tipo razão é aquele que apresenta maior versatilidade matemática. \nPORQUE \nII. Dentre os diferentes níveis de mensuração é o único que permite operações matemáticas de razão e proporciona uma escala com zero natural, além de possibilitar categorização, ordenação e subtração.\nA respeito dessas asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.",
+      "b. As asserções I e II são falsas.",
+      "c. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "d. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "e. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A asserção I é verdadeira, pois o nível de mensuração do tipo razão possibilita a categorização, a ordenação, a subtração e a razão entre os valores observados. A asserção II é verdadeira, e justificativa da I, pois, além de permitir a ordenação dos dados, o nível de mensuração do tipo razão também permite a realização de operações aritméticas, como adição, subtração, multiplicação e divisão. Possui também um ponto zero natural, o que significa que é possível realizar comparações e cálculos relativos à magnitude das quantidades. "
+  },
+  {
+    "textoDaPergunta": "Pergunta a04 ___ Uma pesquisa buscou identificar se os adultos brasileiros preferem comprar tênis em lojas físicas ou pela internet. Ao todo, 1.500 adultos brasileiros foram entrevistados, dos quais 951 disseram que preferem fazer as compras pela internet.\nSobre a situação acima exposta, é correto afirmar que a população são:",
+    "opcoes": [
+      "a. As 549 pessoas que preferem comprar na loja física.",
+      "b. Os 1.500 adultos brasileiros entrevistados.",
+      "c. As 951 pessoas que preferem comprar pela internet.",
+      "d. As respostas de todos os adultos brasileiros.",
+      "e. Toda a população geográfica brasileira."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "Na situação exposta, a população diz respeito às respostas de todos os adultos brasileiros. Os 1.500 adultos brasileiros entrevistados são a amostra (um subgrupo da população), dos quais 951 preferem comprar pela internet e 549 preferem comprar na loja física."
+  },
+  {
+    "textoDaPergunta": "Pergunta b01 ___ Ana Maria é investidora na bolsa de valores e tem como meta um preço médio de R$ 15,00 na ação AABB4 no ano. Observando os preços de compra da referida ação nos meses de janeiro a novembro, qual deverá ser o preço a se pagar na AABB4 no mês de dezembro para que a média seja 15?\n\n| jan | fev | mar | abr | mai | jun | jul | ago | set | out | nov | dez |\n|12,60|13,80|15,40|12,80|12,80|13,50|16,80|17,10|18,40|15,70|16,30|  x  |\n\nAssinale a alternativa correta.",
+    "opcoes": [
+      "a. R$ 15,15.",
+      "b. R$ 15,00.",
+      "c. R$ 14,20.",
+      "d. R$ 14,70.",
+      "e. R$ 14,80."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A média dos doze meses precisa ser R$ 15,00, ou seja:\n(12,6+13,8+15,4+12,8+12,8+13,5+16,8+17,1+18,4+15,7+16,3+x)/12 = 15\n(165,2+x)/12=15 => x=14,8\nLogo, ela precisa pagar R$ 14,80 em dezembro para bater a meta de preço médio de R$ 15,00 no ano."
+  },
+  {
+    "textoDaPergunta": "Pergunta b02 ___ Realizou-se um estudo experimental para verificar a capacidade das pessoas perderem peso quando submetidas a dieta e exercícios físicos regulares por um período de 2 meses. \nA tabela abaixo ilustra os resultados obtidos para 5 participantes. \n\n| Participante | Peso inicial (kg) | Segunda pesagem (kg) | Peso final (kg) | Média | Desvio Padrão |\n|     A      |        80       |        77        |       71        |       |               |\n|     B      |        75       |        74        |       72        |       |               |\n|     C      |        81       |        78        |       77        |       |               |\n|     D      |        90       |        87        |       82        |       |               |\n|     E      |        77       |        75        |       76        |       |               |\n\nA partir dos dados expostos, leia as asserções que seguem.\nI.   O peso médio do candidato C foi de 74kg.\nII.  O candidato com maior desvio padrão amostral foi o candidato D.\nIII. O candidato A foi o que perdeu mais peso no experimento.\nIV.  O candidato mais homogêneo nas pesagens foi o E.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. III e IV, apenas.",
+      "b. I, III e IV, apenas.",
+      "c. IV, apenas.",
+      "d. I e III, apenas.",
+      "e. II e IV, apenas."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A afirmativa I está incorreta, pois o peso médio do candidato C foi de (81+78+77)/3=78,667kg .\nA afirmativa II está incorreta, pois os desvios padrão foram: A=4,58; B=1,53; C=2,08; D=4,04; e E=1.\n Logo, o candidato com maior desvio padrão foi o candidato A.\n A afirmativa III está correta, pois o candidato A foi o que perdeu mais peso no experimento (80-71=9kg).\n A afirmativa IV está correta, pois os desvios padrão amostrais foram:\n A=4,58; B=1,53; C=2,08; D=4,04; e E=1, logo, o candidato mais homogêneo nas pesagens foi o E (apresentou o menor desvio padrão)."
+  },
+  {
+    "textoDaPergunta": "Pergunta b03 ___ Uma pesquisa buscou fazer um levantamento dos salários dos cinquenta funcionários de uma empresa. Os resultados obtidos no estudo encontram-se ilustrados na distribuição de frequências abaixo.\n\n| Salário (R$) | Frequência | Frequência Relativa | Frequência Acumulada |\n| 1000 |- 2000 |     4      |        0,100        |        0,100         |\n| 2000 |- 3000 |     8      |        0,200        |        0,300         |\n| 3000 |- 4000 |     12     |        0,300        |        0,600         |\n| 4000 |- 5000 |     9      |        0,225        |        0,825         |\n| 5000 |- 6000 |     5      |        0,125        |        0,950         |\n| 6000 |- 7000 |     2      |        0,050        |          1           |\n\nEm relação à tabela apresentada, é correto o que se afirma em:",
+    "opcoes": [
+      "a. 22,5% das pessoas ganham entre R$ 6.000,00 a R$ 6.999,99.",
+      "b. 12 pessoas ganham de R$ 1.000,00 a R$ 1.999,99.",
+      "c. 5 pessoas ganham entre R$6.000,00 a R$ 6.999,99.",
+      "d. 30% das pessoas ganham entre R$ 4.000,00 a R$ 4.999,99.",
+      "e. 8 pessoas ganham de R$ 2.000,00 a R$ 2.999,99."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A partir da tabela infere-se que: 12 pessoas ganham de R$ 3.000,00 a R$ 3.999,99.\n 8 pessoas ganham de R$ 2.000,00 a R$ 2.999,99. 22,5% das pessoas ganham entre R$ 4.000,00 a R$ 4.999,99.\n 30% das pessoas ganham entre R$ 3.000,00 a R$ 3.999,99.\n 5 pessoas ganham entre R$ 5.000,00 a R$ 5.999,99."
+  },
+  {
+    "textoDaPergunta": "Pergunta b04 ___ Na sequência, encontramos os dados referentes a vinte observações relativas ao índice pluviométrico (mm) em uma determinada cidade, observe:\n\n| 120 | 144 | 160 | 152 | 130 | 119 | 160 | 143 | 159 | 156 | \n| 145 | 123 | 126 | 100 | 110 | 132 | 136 | 147 | 145 | 159 |\n\nAssinale a alternativa correta que contempla a mediana do índice pluviométrico da cidade.",
+    "opcoes": [
+      "a. 153,5 mm.",
+      "b. 150,5 mm.",
+      "c. 143,5 mm.",
+      "d. 145 mm.",
+      "e. 142 mm."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "Ordenando os dados, temos: 100,110,119,120,123,126,130,132,136,143,144,145,145,147,152,156,159,159,160,160.\n Como o conjunto de dados tem 20 elementos, um número par, então a mediana encontra-se na média dos itens centrais nas posições 10 e 11.\n Assim: (143+144)/2=143,5"
+  },
+  {
+    "textoDaPergunta": "Pergunta b05 ___ Uma pesquisa buscou identificar o nível de colesterol (em mg/100 ml) medido no sangue de oitenta pacientes. Os resultados obtidos no estudo encontram-se ilustrados na distribuição de frequências abaixo.\n\n      Tabela — Distribuição de frequências para os dados de colesterol\n| Colesterol | Frequência | Frequência Relativa | Frequência Acumulada |\n| (mg/100ml) |            |                     |                      |\n| 150 |- 170 |     21     |        0,2625       |        0,2625        |\n| 170 |- 190 |     24     |        0,3000       |        0,5625        |\n| 190 |- 210 |     17     |        0,2125       |        0,7750        |\n| 210 |- 230 |     15     |        0,1875       |        0,9625        |\n| 230 |- 250 |     3      |        0,0375       |          1           |\n\nA respeito dos dados apresentados na tabela, é correto o que se afirma em:",
+    "opcoes": [
+      "a. 18,75% das pessoas entrevistadas têm colesterol entre 170 e 190 mg/100 ml.",
+      "b. 30% das pessoas entrevistadas têm colesterol entre 150 e 170 mg/100 ml.",
+      "c. 17 pessoas entrevistadas têm colesterol >=190 e <210 mg/100 ml.",
+      "d. 3,75%% das pessoas entrevistadas têm colesterol entre 210 e 230 mg/100 ml.",
+      "e. 3 pessoas entrevistadas têm colesterol >=210 e <230 mg/100 ml. "
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A partir da tabela, infere-se que:\n 17 pessoas entrevistadas tem colesterol >=190 e <210 mg/100 ml.\n 26,25% das pessoas entrevistadas tem colesterol entre 150 e 170 mg/100 ml.\n 18,75% das pessoas entrevistadas tem colesterol entre 210 e 230 mg/100 ml.\n 3,75% das pessoas entrevistadas tem colesterol entre 230 e 250 mg/100 ml.\n 3 pessoas entrevistadas tem colesterol >=230 e <250 mg/100 ml."
+  },
+  {
+    "textoDaPergunta": "Pergunta b06 ___ Sabe-se que o coronavírus (COVID-19) é uma doença infecciosa causada pelo vírus SARS-CoV-2, que se iniciou em dezembro de 2019, na China. A figura abaixo ilustra a evolução dos casos de covid em uma determinada cidade ao longo de uma semana. \nDescrição de imagem: a figura ilustra um gráfico de linha em vermelho para os casos de covid. \nNo eixo vertical, lê-se a “quantidade” e, no eixo horizontal, lê-se “03/jan”, “04/jan”, “05/jan”, “06/jan”, “07/jan”, “08/jan”, ‘09/jan”, “10/jan” e “11/jan”. \nEm 4 de jan., houveram 1800 casos, \nem 5 de jan., houveram 200 casos, \nem 6 de jan., houveram 1700 casos, \nem 7 de jan., houveram 1300 casos, \nem 8 de jan., houveram 1270 casos, \nem 9 de jan., houveram 1900 casos e, \nem 10 de jan., houveram 1250 casos.\nA respeito dos dados apresentados, leia as asserções que seguem e indique (V) para as verdadeiras e (F) para as falsas.\n( ) A média é de 1610 casos.\n( ) A mediana é de 1700 casos.\n( ) A moda é de 1210 casos.\nAssinale a alternativa que apresenta a sequência CORRETA.",
+    "opcoes": [
+      "a. F - V - F.",
+      "b. F - V - V.",
+      "c. V - V - F.",
+      "d. F - F - V.",
+      "e. V - F - F."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A afirmativa I é falsa, pois a média é de 1603:\n(1800+2000+1700+1300+1270+1900+1250)/7 = 1603\nA afirmativa II é verdadeira, pois a mediana é de 1700. Ordenando os dados, verifica-se que: 1250 - 1270 - 1300 - 1700 - 1800 - 1900 - 2000.\nA afirmativa III é falsa, pois o conjunto de dados é amodal, ou seja, não há moda."
+  },
+  {
+    "textoDaPergunta": "Pergunta b07 ___ Em um concurso para advogado, será aprovado aquele que obtiver média igual ou superior a seis nas provas de matemática, português e conhecimentos gerais. No caso de empate, o desempate será a favor do candidato que obtiver a pontuação mais regular. A tabela abaixo apresenta as pontuações obtidas pelos 5 candidatos. \n\n| Candidato | Matemática | Português | Conhecimentos Gerais |\n|     A     |      10      |     7     |           7          |\n|     B     |      5       |     9     |           10         |\n|     C     |      8       |     6     |           10         |\n|     D     |      7       |     5     |           9          |\n|     E     |      6       |     6     |           6          |\n\nAssinale a alternativa correta que indica o candidato classificado em primeiro lugar. ",
+    "opcoes": [
+      "a. Candidato C.",
+      "b. Candidato D.",
+      "c. Candidato B.",
+      "d. Candidato A.",
+      "e. Candidato E."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "Calculando a média e o desvio padrão dos candidatos, verifica-se que: \nCandidato A: \nmédia 8: x=(10+7+7)/3=8, desvio padrão=1,73:\ns=(raiz de((10-8)^2+(7-8)^2+(7-8)^2)/(3-1))=1,73\nCandidato B: \nmédia 8: x=(5+9+10)/3=8, desvio padrão=2,65: \ns=(raiz de((5-8)^2+(9-8)^2+(10-8)^2)/(3-1))=2,65\nCandidato C: \nmédia 8: x=(8+6+10)/3=8, desvio padrão=2: \ns=(raiz de((8-8)^2+(6-8)^2+(10-8)^2)/(3-1))=2\nCandidato D: \nmédia 7: x=(7+5+9)/3=7, desvio padrão=2: \ns=(raiz de((7-7)^2+(5-7)^2+(9-7)^2)/(3-1))=2\nCandidato E: \nmédia 6: x=(6+6+6)/3=6, desvio padrão=0: \ns=(raiz de((6-6)^2+(6-6)^2+(6-6)^2)/(3-1))=0\nIsso significa que os candidatos A,B e C tiveram a mesma média, 8. No entanto, o menor desvio padrão foi observado para o candidato A (ou seja, teve as notas mais homogêneas), logo ele será o candidato aprovado."
+  },
+  {
+    "textoDaPergunta": "Pergunta b08 ___ A tabela abaixo ilustra os resultados obtidos a partir de um estudo realizado para identificar a idade dos estudantes que cursam a disciplina de estatística em uma determinada instituição de ensino superior.\nIdade\t\tFrequência\n18 |- 23\t20\n23 |- 28\t30\n28 |- 33\t18\n33 |- 38\t13\n38 |- 43\t8\n43 |- 48\t1\n\nCom base nos dados apresentados na tabela acima, leia as asserções que seguem.\nI.   São noventa alunos que cursam a disciplina de estatística.\nII.  A amplitude de classe da distribuição de frequências é cinco.\nIII. A frequência relativa da terceira classe é de 0,4.\nIV.  A maior parte dos estudantes tem menos de 33 anos.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. II e III, apenas.",
+      "b. II, III e IV, apenas.",
+      "c. I e II, apenas.",
+      "d. I, II e IV, apenas.",
+      "e. III e IV, apenas. "
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A afirmativa I está correta, pois são 20+30+18+13+8+1=90 os alunos que cursam a disciplina de estatística.\n A afirmativa II está correta, pois, para verificar a amplitude de classe,\n basta subtrair o limite inferior do limite superior, logo, h=5.\n A afirmativa III está incorreta, visto que a frequência relativa da\n terceira classe é de 0,2, pois 18/90=0,2.\n A afirmativa IV está correta, pois, para verificar, basta somar as frequências\n das quatro primeiras classes: 20+30+18=68 (ou seja, 68 de 90 pessoas; o que representa a maioria)."
+  },
+  {
+    "textoDaPergunta": "Pergunta c01 ___ Um banco de sangue faz a catalogação dos tipos sanguíneos, incluindo também o fator Rh positivo ou negativo, para todas as doações feitas na semana. \n\n| |Tipo Sanguíneo |\n| |A |B |O |AB |Total\nFator RH |Positivo |30 |27 |14 |10 |81\n|Negativo |25 |13 |4 |7 |49\n|Total |55 |40 |18 |17 |130\n\nConsiderando que um doador é selecionado aleatoriamente, assinale a alternativa que apresenta qual será a probabilidade de que o sangue seja do tipo O ou B.  ",
+    "opcoes": [
+      "a. 44,6%.",
+      "b. 35,2%.",
+      "c. 60,3%. ",
+      "d. 54,1%.",
+      "e. 48,8%. "
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "Primeiramente, é preciso definir o espaço amostral: n(Ω)=130.\n| |Tipo Sanguíneo |\n| |A |B |O |AB |Total\nFator RH |Positivo |30 |27 |14 |10 |81\n|Negativo |25 |13 |4 |7 |49\n|Total |55 |40 |18 |17 |130\n\nLogo, a probabilidade do tipo sanguíneo O ou B é dada por: P(OouB)=(18/130)+(40/130)=58/130 ou 44,6%."
+  },
+  {
+    "textoDaPergunta": "Pergunta c02 ___ Um lote de cem peças de roupas contém quatro peças defeituosas e 96 peças não defeituosas. Uma amostra de 6 peças é selecionada dentre as 100 peças do lote. As peças não são repostas. Isso significa que cada peça pode ser somente retirada uma única vez, e a amostra é um subconjunto das cem peças. Sabendo disso, qual a probabilidade de, em uma amostra com 6 peças, haver exatamente 2 defeituosas? Assinale a alternativa correta.",
+    "opcoes": [
+      "a. 6,67%.",
+      "b. 2,27%.",
+      "c. 1,67%.",
+      "d. 3,6%.",
+      "e. 0,06%."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "Um subconjunto que contém exatamente 4 peças não defeituosas dentre 96, é dado por: 96!/(92!*4!)=3.321.960 .\nUm subconjunto que contém exatamente duas peças defeituosas das quatro é dado por: 4!/(2!*2!)=6 .\nUm subconjunto que contém uma seleção de 6 peças dentre as 100 disponíveis é dado por: 100!/(94!*6!)=1.192.052.400.\nPortanto, a probabilidade procurada de ter exatamente duas peças defeituosas em uma amostra de seis peças é de: \nP(2 peças defeituosas e 4 não defeituosas)=((3.321.960*6)/1.192.052.400)=0,0167~=1,67%."
+  },
+  {
+    "textoDaPergunta": "Pergunta c03 ___ Larson e Farber (2010, p. 120) conceituam probabilidade condicional como\n “a probabilidade de um evento ocorrer, dado que outro evento já tenha ocorrido.\n A probabilidade condicional de o evento B ocorrer, dado que o evento A\n tenha ocorrido, é denotada por P(B|A) e lê-se ‘probabilidade de B, dado A’”.\n Sabendo disso, assinale a alternativa correta que indica a probabilidade de,\n em um baralho convencional, selecionar um valete(J) e depois, sem reposição da primeira carta, selecionar um rei(K).",
+    "opcoes": [
+      "a. 0,6%.",
+      "b. 6%.",
+      "c. 12,5%.",
+      "d. 0,2%.",
+      "e. 3,5%."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "Uma vez que a primeira carta não é reposta, então, para a primeira retirada há quatro valetes e 52 cartas. Já para a segunda retirada há quatro reis e 51 cartas, logo: P(JeK)=(4/52*4/51)=(16/2652)=0,006."
+  },
+  {
+    "textoDaPergunta": "Pergunta c04 ___ A probabilidade consiste no estudo da determinação da chance de\n cada resultado de um experimento aleatório, tal que a essas chances são atribuídos números reais que variam de 0 a 1,\n em que 0 é um evento que não ocorre e 1 é um evento certo.\n Sobre a probabilidade, leia as afirmações que seguem a respeito do lançamento de um dado convencional de 6 faces.\nI.   A probabilidade de tirar o número 4 é de 1/6 .\nII.  A probabilidade de tirar um número par é de 50%.\nIII. A probabilidade de tirar um número natural é de 80%.\nIV.  A probabilidade de ser um número <5 é de 77%.\nÉ correto o que se afirma em:",
+    "opcoes": [
+      "a. I e II, apenas.",
+      "b. I, apenas.",
+      "c. I, II e IV, apenas.",
+      "d. II e IV, apenas.",
+      "e. I, II e III, apenas."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A afirmação I está correta, pois a probabilidade de tirar o número 4 é de 16 ou 16,67%. \nA afirmação II está correta, pois a probabilidade de tirar um número par é de 50% ou 3/6 = 1/2.\nA afirmação III está incorreta, pois a probabilidade de tirar um número natural é de 100% (ou seja, todos os resultados possíveis são números naturais).\nA afirmação IV está incorreta, pois a probabilidade de ser um número < 5 é de 4/6 ou 66,67%. "
+  },
+  {
+    "textoDaPergunta": "Pergunta c05 ___ Cem amostras do plástico de policarbonato foram analisadas em relação à resistência a arranhões e a choque, cujos resultados encontram-se resumidos na tabela abaixo.\n\n| | | Resistencia a choques |\nResistencia | | Alta | Baixa |\na arranhões | Alta |   65   |   07  |\n| Baixa |   16   |   12  |\n\nSeja A o evento “amostra com alta resistência a choque”, e B o evento “amostra com alta resistência a arranhões”, leia as afirmações que seguem e assinale V para as verdadeiras e F para as falsas.\n( ) P(AuB)=88%.\n( ) P(AintB)=65%.\n( ) P(A)=81%.\n( ) P(B barrado)=28%.\nAssinale a alternativa com a correta sequência.",
+    "opcoes": [
+      "a. F - V - V - F.",
+      "b. V - V - V - V.",
+      "c. V - V - V - F.",
+      "d. F - V - V - V.",
+      "e. V - F - V - F."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "A afirmação I é verdadeira, pois P(AuB)=88%, visto que corresponde a amostras com alta resistência a choque ou a arranhões.\nA afirmação II é verdadeira, pois P(AintB)=65%, visto que corresponde a amostras com alta resistência a choque e a arranhões.\nA afirmação III é verdadeira, pois P(A)=81%, visto que corresponde a amostras com alta resistência a choque.\nA afirmação IV é verdadeira, pois P(B barrado)=28%, visto que corresponde ao complementar das amostras com alta resistência a arranhões. "
+  },
+  {
+    "textoDaPergunta": "Pergunta c06 ___ Por definição, a probabilidade é um número que associamos a um evento (algo que pode acontecer) e que corresponde à nossa expectativa de que o evento realmente possa ocorrer. Sobre a probabilidade, assinale a alternativa correta:",
+    "opcoes": [
+      "a. A probabilidade de um evento independente ocorrer é sempre 0,5.",
+      "b. A probabilidade é uma medida de incerteza que indica a impossibilidade de um evento ocorrer.",
+      "c. A probabilidade é uma estimativa subjetiva da ocorrência de um evento com base em evidências prévias.",
+      "d. A probabilidade é uma medida numérica que indica a certeza absoluta de que um evento ocorrerá.",
+      "e. A probabilidade é a proporção dada entre as chances de um determinado evento ocorrer em relação ao número de eventos do espaço amostral."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmação “a probabilidade é a proporção de eventos favoráveis em relação ao número total de eventos possíveis\" reflete a definição clássica de probabilidade. Isto porque a probabilidade é calculada determinando-se a relação entre o número de resultados favoráveis (aqueles que atendem às condições ou critérios definidos para o evento) e o número total de resultados possíveis. Essa definição assume que todos os resultados possíveis são igualmente prováveis de ocorrer."
+  },
+  {
+    "textoDaPergunta": "Pergunta c07 ___ Em um determinado jogo de azar, o lançamento da face >= a 4\n em um dado de 6 faces permite que o jogador continue no jogo.\n Sabendo disso, assinale a alternativa que contenha o espaço amostral e o evento “A”\n desejado no lançamento do dado para que o jogador continue no jogo..",
+    "opcoes": [
+      "a. O espaço amostral é omega={2,4,6}, e o evento A de interesse é A={1,2,3,4,5,6}",
+      "b. O espaço amostral é omega={1,2,3,4,5,6}, e o evento A de interesse é A={5,6}",
+      "c. O espaço amostral é omega={1,2,3,4,5,6}, e o evento A de interesse é A={4,5,6}.",
+      "d. O espaço amostral é omega={1,3,5}, e o evento A de interesse é A={4,5,6}",
+      "e. O espaço amostral é omega={1,2,3}, e o evento A de interesse é A={1,2,3,4,5,6}"
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "Como o dado tem seis faces, então o espaço amostral é omega={1,2,3,4,5,6}. E, uma vez que o evento de interesse é face maior ou igual a quatro, logo A = {4,5,6}"
+  },
+  {
+    "textoDaPergunta": "Pergunta c08 ___ A probabilidade de um evento é um número associado - algo que pode acontecer -\n e que, corresponde à expectativa de que o evento realmente possa acontecer.\n Chama-se de experimento aleatório aquele cujo resultado não possa ser previsto de antemão. \nObserve as assertivas e identifique os experimentos aleatórios e assinale-os com Verdadeiro (V) ou, caso não seja, com falso (F) .\n( ) O resultado do lançamento de um dado.\n( ) O resultado do lançamento de uma moeda.\n( ) Os números que serão sorteados na Mega Sena.\n( ) A cotação do dólar amanhã.\nAssinale a alternativa que apresenta a sequência correta.",
+    "opcoes": [
+      "a. V-V-V-F",
+      "b. V-F-V-F",
+      "c. V-V-V-V",
+      "d. V-F-V-V",
+      "e. F-V-V-V"
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A afirmativa I é verdadeira, pois o resultado do lançamento de um dado é um experimento aleatório, e cujo resultado não pode ser previsto de antemão.\n A afirmativa II é verdadeira, pois o resultado do lançamento de uma moeda  é um experimento aleatório, e cujo resultado não pode ser previsto de antemão.\n A afirmativa III é verdadeira, pois os números que serão sorteados na Mega Sena  é um experimento aleatório, e cujo resultado não pode ser previsto de antemão.\n A afirmativa IV é verdadeira, pois a cotação do dólar amanhã  é um experimento aleatório, e cujo resultado não pode ser previsto de antemão."
+  },
+  {
+    "textoDaPergunta": "Pergunta c09 ___ “A probabilidade de que os eventos A ou B ocorram, P(AouB) é dada por: P(AouB)=P(A)+P(B)-P(AeB).\n Se os eventos A e B forem mutuamente exclusivos, então a regra pode ser simplificada para P(AouB)=P(A)+P(B).\n Essa regra simplificada pode ser estendida para qualquer número de eventos mutuamente exclusivos”.\n Seja uma urna com números de 1 a 20, qual a probabilidade de se retirar um número\n da urna que é múltiplo de 2, P(A), ou múltiplo de 5, P(B)?\n Assinale a alternativa correta.",
+    "opcoes": [
+      "a. 25%.",
+      "b. 60%.",
+      "c. 43%.",
+      "d. 77%.",
+      "e. 82%."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "O espaço amostral da urna é dado por: Ω = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}.\nSão 10 os números múltiplos de 2={2,4,6,8,10,12,14,16,18,20}.\nSão 4 os números múltiplos de 5={5,10,15,20}.\nSão 2 os números que são múltiplos de 2 e de 5, simultaneamente = {10,20}.\nLogo, P(AouB)= 10/20 + 4/20 - 2/20 = 12/20 ou 60%."
+  },
+  {
+    "textoDaPergunta": "Pergunta d01 ___ A distribuição binomial é uma distribuição de probabilidade discreta que descreve o número de sucessos em uma sequência de experimentos independentes, cada um com dois possíveis resultados: sucesso ou fracasso. Cada experimento é chamado de tentativa. Sobre a distribuição binomial, analise as asserções a seguir e a relação proposta entre elas.\nI. O experimento é repetido por um número fixo de tentativas, onde cada tentativa depende das outras\nPORQUE\nII. A probabilidade de sucesso é a mesma para cada tentativa\nA respeito dessas asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "b. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.",
+      "c. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "d. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "e. As asserções I e II são falsas."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A asserção I é proposição falsa, pois no experimento binomial, repete-se o mesmo por um número fixo de tentativas, onde cada tentativa é independente das outras. A asserção I é proposição verdadeira, visto que no experimento binomial, a probabilidade de sucesso é a mesma para cada tentativa."
+  },
+  {
+    "textoDaPergunta": "Pergunta d02 ___ Se, em um teste de matemática que contém dez questões com quatro alternativas cada uma, em que apenas uma delas é correta, um aluno que nada sabe a respeito da matéria chuta uma resposta para cada questão. Assinale a alternativa correta, indicando qual é a probabilidade de o aluno acertar exatamente cinco questões.",
+    "opcoes": [
+      "a. 5,83%.",
+      "b. 5,02%.",
+      "c. 12,40%.",
+      "d. 7,10%.",
+      "e. 9,78%."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A probabilidade de acertar um teste aleatoriamente é dada por 1/4=0,25.\n Então, a probabilidade de errar é de 0,75. O número total de formas em que o aluno\n pode acertar 5 questões das 10 é dada por: C(sub 10,5)=(10!/(5!*5!))=252\nPortanto, P(x=5)=(252 * 0,25^5 * 0,75^5)=0,0583."
+  },
+  {
+    "textoDaPergunta": "Pergunta d03 ___ A média de uma variável aleatória, também conhecida por valor esperado,\n representa o que se espera acontecer em milhares de experimentos: E(x)=mi=(Sum x*P(x)).\n Sabendo disso, encontre o valor esperado das características passivo-agressivas de 125 funcionários\n de uma empresa de acordo com os dados da tabela abaixo, em que o escore 1 representa\n extremamente passivo, e o escore 5 representa extremamente agressivo. \n\n| x | Frequência |\n| 1 |     15     |\n| 2 |     32     |\n| 3 |     47     |\n| 4 |     29     |\n| 5 |     2      |\n",
+    "opcoes": [
+      "a. E(x) = 4,051.",
+      "b. E(x) = 3,934.",
+      "c. E(x) = 2,768.",
+      "d. E(x) = 4,120.",
+      "e. E(x) = 2,541."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "Para encontrar a média procurada, primeiramente, é preciso encontrar P(x):\n\n| x | Frequência |     P(x)\n| 1 |     15     | 15/125 = 0,12\n| 2 |     32     | 32/125 = 0,256\n| 3 |     47     | 47/125 = 0,376\n| 4 |     29     | 29/125 = 0,232\n| 5 |     2      | 2/125 = 0,016\n\nA média, ou valor esperado, é dada por: \nE(x) = μ = (1*0,12) + (2*0,256) + (3*0,376) + (4*0,232) + (5*0,016) = 0,12 + 0,512 + 1,128 + 0,928 + 0,08 = 2,768"
+  },
+  {
+    "textoDaPergunta": "Pergunta d04 ___ Por definição, a média de uma variável aleatória representa o que se espera\n acontecer em milhares de experimentos, também é denominada de valor esperado,\n e calculada da seguinte forma: E(x)=mi=(Sum x*P(x)).\n Considere a distribuição de probabilidade para o grau de satisfação\n dos clientes em relação ao serviço prestado por uma empresa e\n encontre a média, em que 1 é insatisfeito, e 5, muito satisfeito.\n\n| x | P(x) |\n| 1 | 0,10 |\n| 2 | 0,15 |\n| 3 | 0,30 |\n| 4 | 0,32 |\n| 5 | 0,13 |\n\nDiante disso, assinale a alternativa correta.",
+    "opcoes": [
+      "a. E(x) = 3,04.",
+      "b. E(x) = 4,12.",
+      "c. E(x) = 3,65.",
+      "d. E(x) = 2,98.",
+      "e. E(x) = 3,23."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A média, ou valor esperado, é dada por:\nE(x)=mi=(1*0,1)+(2*0,15)+(3*0,30)+(4*0,32)+(5*0,13)=0,1+0,3+0,9+1,28+0,65=3,23"
+  },
+  {
+    "textoDaPergunta": "Pergunta d05 ___ No pedágio de uma determinada rodovia, aos finais de semana, passam, em média, 3600 veículos/hora. Qual a probabilidade de passarem trinta carros em quinze segundos? \nUtilize a distribuição de Poisson e assinale a alternativa correta",
+    "opcoes": [
+      "a. 0,02%.",
+      "b. 0,23%.",
+      "c. 0,77%.",
+      "d. 0,16%.",
+      "e. 0,08%."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "Na rodovia, passam 3600 carros em uma hora (3600seg), ou seja,\n um carro por segundo. Então, em 15seg passam 15 carros.\n Seja k=30 e lambda=15, a probabilidade procurada é de: \nP(x=30)=((15^30)*(2,71828)^(-15))/30!\nP(x=30)=(1,92*(10^35)*3,05*(10^(-7)))/(2,65*10^32)\nP(x=30)=0,00022"
+  },
+  {
+    "textoDaPergunta": "Pergunta d06 ___ Experimentos binomiais são experimentos de probabilidade que têm somente dois resultados possíveis: sucesso ou fracasso, cujo experimento é repetido por um número fixo de tentativas, em que cada tentativa é independente das outras. Sabendo disso, observe as afirmativas a seguir.\nI.   ( ) Uma cirurgia tem 85% chance de sucesso e 15% de chance de fracasso.\nII.  ( ) Um aluno, em uma determinada disciplina, pode ser aprovado ou reprovado.\nIII. ( ) No lançamento de uma moeda, pode-se obter face cara ou coroa.\nIV.  ( ) Uma peça pode ser defeituosa ou não defeituosa.\nA sequência que apresenta experimentos binomiais são:",
+    "opcoes": [
+      "a. II, apenas.",
+      "b. II, III e IV, apenas.",
+      "c. I, apenas.",
+      "d. I, II, III e IV.",
+      "e. I, II e III, apenas."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "A afirmativa I é um experimento binomial, pois há apenas dois resultados possíveis: sucesso ou fracasso na cirurgia. A afirmativa II é um experimento binomial, pois há apenas dois resultados possíveis: ser aprovado ou reprovado. A afirmativa III é um experimento binomial, pois há apenas dois resultados possíveis: face cara ou face coroa.\nA afirmativa IV é um experimento binomial, pois há apenas dois resultados possíveis: peça ser defeituosa ou não defeituosa"
+  },
+  {
+    "textoDaPergunta": "Pergunta d07 ___ A distribuição de Poisson é uma distribuição de probabilidade discreta de uma variável aleatória que consiste em prever a probabilidade de um determinado evento acontecer em um determinado período de tempo, sabendo a frequência com a qual o evento ocorreu. Sabendo que a média de acidentes por mês em um determinado cruzamento é de dois, assinale a alternativa correta que apresenta qual é a probabilidade de, em um mês qualquer, ocorrerem três acidentes nesse mesmo cruzamento.",
+    "opcoes": [
+      "a. 18%.",
+      "b. 20%.",
+      "c. 25%.",
+      "d. 12%.",
+      "e. 22%."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "Seja k=3 e lambda=2, a probabilidade procurada é de: \nP(3)=((2^3)*(2,71828)^(-2))/3! => P(3)=(8*0,1353)/6 => P(3)=0,18"
+  },
+  {
+    "textoDaPergunta": "Pergunta d08 ___ A prefeitura de uma determinada cidade está interessada\n em identificar a probabilidade de que em um ano qualquer ocorra\n 1 chuva de intensidade extrema para dimensionar a equipe\n necessária na contenção de danos a comunidade,\n para isso eles tem a média de ocorrência de chuvas de intensidade extrema em 30 anos.\n Para encontrar a probabilidade procurada, qual distribuição ela deverá utilizar? Assinale a alternativa correta:",
+    "opcoes": [
+      "a. Distribuição Geométrica",
+      "b. Distribuição de Bernoulli",
+      "c. Distribuição de Poisson",
+      "d. Distribuição Binomial",
+      "e. Distribuição Normal"
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A distribuição de Poisson é utilizada quando se está interessado em\ndescobrir a probabilidade de um número específico de ocorrência aconteça dentro de um intervalo de tempo ou espaço "
+  },
+  {
+    "textoDaPergunta": "Pergunta d09 ___ A distribuição geométrica é uma distribuição de probabilidade discreta\nem que a tentativa se repete até que o sucesso ocorra.\nNesse caso, as tentativas repetidas são independentes umas das outras,\ne a probabilidade de sucesso é constante para cada tentativa.\nSabendo disso, se a probabilidade de um vendedor fazer uma venda para\no primeiro cliente que entra na loja é de 0,15, então, julgue os itens que seguem:\nI.   A probabilidade de a primeira venda ser para o segundo cliente 5,2%\nII.  A probabilidade de a primeira venda ser para o quarto cliente é de 9,2%\nIII. A probabilidade de a primeira venda ser para o quinto cliente é de 7,8%\nIV.  A probabilidade de a primeira venda ser para o quarto ou quinto cliente é de 17%\nEstá  correto o que se afirma em:",
+    "opcoes": [
+      "a. Apenas I, II e III",
+      "b. Apenas I e III",
+      "c. Apenas II, III e IV",
+      "d. I, II, III e IV",
+      "e. Apenas III e IV"
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "Seja p=0,15 e q=0,85, então:\nA afirmativa I está incorreta, pois a probabilidade de venda para o segundo cliente é de P(x=1)=(0,15*(0,85)^1)=0,1275.\nA afirmativa II está correta, pois a probabilidade de venda para o quarto cliente é P(x=3)=(0,15*(0,85)^3)=0,092.\nA afirmativa III está correta, pois a probabilidade de venda para o quinto cliente é P(x=4)=(0,15*(0,85)^4)=0,078.\nA afirmativa IV está correta, pois a probabilidade de venda para o quarto ou quinto cliente será de:\nP(x=3)+P(x=4) => 0,092+0,078 => 0,17."
+  },
+  {
+    "textoDaPergunta": "Pergunta d10 ___ Sabe-se que, em um determinado bairro, 10% das pessoas possuem um carro ano 2022. Se 25 pessoas forem selecionadas ao acaso, com reposição, qual a probabilidade de que exatamente 5 pessoas possuam um carro ano 2022? Utilize a distribuição binomial e assinale a alternativa correta.",
+    "opcoes": [
+      "a. 8,40%.",
+      "b. 6,46%.",
+      "c. 6,02%.",
+      "d. 9,24%.",
+      "e. 5,47%."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "Seja k=5, n=25, p=0,1 e q=0,9, então:\nP(x=5)=((25!/(5!*20!))*(0,1)^5*(0,9)^20) => P(x=5)=(53.130*0,00001*0,121576654) => P(x=5)=0,0646"
+  },
+  {
+    "textoDaPergunta": "Pergunta d11 ___ A distribuição de Bernoulli é uma distribuição de probabilidade discreta utilizada para modelar experimentos ou eventos que têm apenas dois resultados possíveis: sucesso ou fracasso. Essa distribuição é amplamente utilizada para analisar eventos binários, em que cada tentativa é considerada independente, e a probabilidade de sucesso (ou fracasso) é constante em todas as tentativas. Sabendo disso, assinale a alternativa que indica uma situação que pode ser modelada por uma distribuição de Bernoulli.",
+    "opcoes": [
+      "a. O número de clientes que entram em uma loja em um determinado dia.",
+      "b. A altura média de um grupo de estudantes universitários.",
+      "c. O resultado do lançamento de uma moeda.",
+      "d. O peso médio de um grupo de lutadores.",
+      "e. O tempo que um vendedor leva para concluir uma venda."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A distribuição de Bernoulli é utilizada para modelar eventos binários,\n em que ocorre apenas um resultado de sucesso ou fracasso.\n Dessa forma, no lançamento de moeda temos um exemplo clássico dessa situação,\n em que a moeda pode resultar em cara ou coroa, cada um podendo ser julgado como sucesso ou fracasso.\n As outras alternativas não se encaixam nessa definição,\n pois envolvem diferentes categorias ou medidas contínuas, não se limitando a um resultado binário."
+  },
+  {
+    "textoDaPergunta": "Pergunta e01 ___ Uma pesquisa identificou que a vida útil de uma bateria é normally distribuída,\n com média de 3.000 horas e desvio padrão de 80 horas.\n O z-escore que corresponde a 2.800 horas é de -2,5.\n Sabendo disso, qual é a porcentagem de baterias que têm vida útil inferior a 2.800 horas?",
+    "opcoes": [
+      "a. 1,10%.",
+      "b. 1,62%.",
+      "c. 0,62%.",
+      "d. 0,84%.",
+      "e. 1,24%."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A tabela normal padrão mostra que P(z< -2,5)=0,0062.\n Logo, a probabilidade é de 0,0062, ou 0,62%."
+  },
+  {
+    "textoDaPergunta": "Pergunta e02 ___ Uma pesquisa identificou que as pessoas alugam apartamentos por\n uma média de 5 anos antes de se mudarem para outro local.\n O desvio padrão é de 1 ano. E o z-escore que corresponde a 4 anos é de -1.\n Se uma pessoa for selecionada aleatoriamente, assinale a alternativa\n correta que apresenta a probabilidade de ela ficar em um\n apartamento alugado por menos de 4 anos, antes de se mudar para outro local.\n (Considere que a variável x seja normalmente distribuída.)",
+    "opcoes": [
+      "a. 13,64%.",
+      "b. 17,10%.",
+      "c. 19,80%.",
+      "d. 21,30%.",
+      "e. 15,87%."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A tabela normal padrão mostra que P(z< -1)=0,1587.\n Logo, a probabilidade é de 0,1587, ou 15,87%."
+  },
+  {
+    "textoDaPergunta": "Pergunta e03 ___ Uma pesquisa identificou que as pessoas usam os smartphones por uma\n média de 3 anos antes de trocá-los por um novo aparelho.\n O desvio padrão é de 0,5 ano E, o z-escore que corresponde a 2 anos de uso é de -2.\n Considerando que uma pessoa foi selecionada aleatoriamente,\n assinale a alternativa que apresenta a probabilidade de ela utilizar\n o smartphone por menos de 2 anos antes de trocá-lo por um novo aparelho.\n (Considere que a variável x seja normalmente distribuída.)",
+    "opcoes": [
+      "a. 3,02%.",
+      "b. 3,24%.",
+      "c. 2,28%.",
+      "d. 3,83%.",
+      "e. 1,92%."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A tabela normal padrão mostra que P(z< -2)=0,0228. Logo, a probabilidade de que o smartphone seja substituído em menos de 2 anos é de 0,0228, ou 2,28%."
+  },
+  {
+    "textoDaPergunta": "Pergunta e04 ___ Quando os valores da variável aleatória se espalham uniformemente sobre\n as faixas de valores possíveis em um intervalo [a,b].\n Diz-se que a variável aleatória contínua tem distribuição uniforme,\n cuja função densidade de probabilidade é dada por:\n\nf(x)={1/(b-a) se a<=x<=b e {0 se a<x ou >b\n\nSabendo disso, se um ponto é escolhido ao acaso, no intervalo de [0,5].\n Assinale a alternativa correta que apresenta qual é a probabilidade de que esteja entre 1 e 2.",
+    "opcoes": [
+      "a. 40%.",
+      "b. 10%.",
+      "c. 50%.",
+      "d. 20%.",
+      "e. 30%."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "P(1<=x<=2)=(integral(sub 2)(sup 1) (1/5)*dx)\n=[(1/5)*x](sub 1)(sup 2) => (1/5)*(2-1) => 0,2 ou 20%"
+  },
+  {
+    "textoDaPergunta": "Pergunta e05 ___ Para uma distribuição de probabilidade contínua, a média é calculada por meio da seguinte fórmula: mi=(integral(sub a)(sup b) (x*f(x)*dx)), enquanto que a variância é dada por sigma^2 = mi(x^2) - [mi(x)^2]. \n\nf(x) = {k * x se 0 < x <= 1 e {0 se x <= 0 ou x > 1\n\nSabendo disso, determine k, para que f(x) seja uma função densidade de probabilidade, e assinale a alternativa correta.",
+    "opcoes": [
+      "a. k=5.",
+      "b. k=2.",
+      "c. k=3.",
+      "d. k=1.",
+      "e. k=0."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "(integral(sub 0)(sup 1) k*x*dx) = 1\n= [(k*x^2)/2](sub 0)(sup 1)=1 => k*(((1)^2)/2 - (0))=1 => k/2 = 1 => k=2"
+  },
+  {
+    "textoDaPergunta": "Pergunta e06 ___ Uma pesquisa verificou que, a cada ida ao shopping, uma pessoa gasta uma média de 80 min, com desvio padrão de 20 min. Esse tempo é normalmente distribuído. Sabendo disso, qual a probabilidade de que uma ida ao shopping dure entre 55 a 110 min? Assinale a alternativa correta.",
+    "opcoes": [
+      "a. 75,12%.",
+      "b. 68,45%.",
+      "c. 82,76%.",
+      "d. 89,54%.",
+      "e. 78,41%."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "Justificativa\n\nPara o tempo de 55 min, verifica-se que:\n\nz=((55-80)/20)= -1,25\n\nA tabela normal padrão mostra que P(z< -1,25)=0,1056. Logo, a probabilidade é de 0,1056, ou 10,56%.\nPara o tempo de 110 min, verifica-se que: z=((110-80)/20)=1,50\nA tabela normal padrão mostra que P(z<1,5)=0,9332. Logo, a probabilidade é de 0,9332, ou 93,32%.\nPortanto, P(55<x<110)=(0,9332-0,1056)=0,8276 ou 82,76%"
+  },
+  {
+    "textoDaPergunta": "Pergunta e07 ___ Geralmente, a distribuição de probabilidade exponencial é utilizada na descrição do tempo que se leva para completar uma determinada tarefa. Sabendo disso, leia as asserções que seguem e a relação proposta entre elas:\n\nSe o intervalo de tempo para atendimento em uma fila de banco é uma variável aleatória, com distribuição exponencial de parâmetro lambda=0,15, então, a probabilidade de haver um atendimento em um intervalo inferior a 10 min é de 50%\n\nPORQUE\nDesenvolvendo o cálculo para a probabilidade procurada, encontraremos o resultado de 0,5, ou seja, P(x<10)=(integral(sub 0)(sup 10) 0,15*e^(-0,15*x)*dx)=0,5\n\nA respeito dessas asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "b. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "c. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.",
+      "d. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "e. As asserções I e II são falsas."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "As asserções I e II são falsas, pois desenvolvendo o cálculo da probabilidade, verifica-se que P(x<10)=(integral(sub 0)(sup 10) 0,15*e^(-0,15*x)*dx)=0,77 ou 77%"
+  },
+  {
+    "textoDaPergunta": "Pergunta e08 ___ A distribuição de probabilidade exponencial normalmente é utilizada na descrição do tempo que se leva para completar uma determinada tarefa. Nesse caso, a função densidade de probabilidade que descreve a variável exponencial é dada por $$f(x) = \\begin{cases} \\lambda e^{-\\lambda x} & \\text{se } x \\ge 0 \\\\ 0 & \\text{se } x < 0 \\end{cases}$$. Sabendo disso, leia as asserções que seguem e a relação proposta entre elas:\nI. Se, em minutos, o intervalo de tempo entre emissões de uma fonte radioativa é uma variável aleatória com distribuição exponencial de parâmetro=0,1, então a probabilidade de haver uma emissão em um intervalo inferior a 5 min é de 39%\nPORQUE\nII. Desenvolvendo o cálculo da probabilidade para P(x<5), com x variando a 0 até 5, encontraremos o resultado de 0,39, ou seja,  $$\\int_{0}^{5} 0,1e^{-0,1x} dx = 0,39$$\nA respeito dessas asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "b. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.",
+      "c. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "d. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "e. As asserções I e II são falsas."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "Portanto, as asserções I e II são proposições verdadeiras, e a II é uma justificativa da I, pois fazendo P(x<5)=(integral(sub 0)(sup 5) 0,1*e^(-0,1*x)*dx)=0,39 ou 39%"
+  },
+  {
+    "textoDaPergunta": "Pergunta e09 ___ Uma pesquisa verificou que, a cada ida ao shopping, uma pessoa gasta uma média de 80 min, com desvio padrão de 20 minutos. Esse tempo é normalmente distribuído. Sabendo disso, qual a probabilidade de que uma ida ao shopping dure entre 55 a 110 min? Assinale a alternativa correta.",
+    "opcoes": [
+      "a. 75,12%.",
+      "b. 89,54%.",
+      "c. 82,76%.",
+      "d. 68,45%.",
+      "e. 78,41%."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "Para o tempo de 55 min, verifica-se que: z=((55-80)/20)= -1,25\nA tabela normal padrão mostra que P(z< -1,25)=0,1056. Logo, a probabilidade é de 0,1056, ou 10,56%.\nPara o tempo de 110 min, verifica-se que: z=((110-80)/20)=1,5\nA tabela normal padrão mostra que P(z<1,5)=0,9332. Logo, a probabilidade é de 0,9332, ou 93,32%.\nPortanto, P(55<x<110)=0,9332-0,1056)=0,8276 ou 82%"
+  },
+  {
+    "textoDaPergunta": "Pergunta e10 ___ Por definição, uma variável aleatória contínua tem distribuição uniforme quando seus valores se espalham uniformemente sobre as faixas de valores possíveis em um intervalo [a,b]. Sabendo disso, se um ponto é escolhido ao acaso, no intervalo de [0,2], assinale a alternativa correta que apresenta qual é a probabilidade de que esteja entre 1 e 1,5. ",
+    "opcoes": [
+      "a. 25%.",
+      "b. 45%.",
+      "c. 30%.",
+      "d. 15%.",
+      "e. 20%."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "P(1<=x<=1,5)=(integral(sub 1)(sup 1,5) 1/2*dx) => [1/(2*x)](sub 1)(sup 1,5) => 1/2 * (1,5-1) => 0,25 ou 25%"
+  },
+  {
+    "textoDaPergunta": "Pergunta f01 ___ “Uma distribuição amostral é a distribuição de probabilidade de uma estatística da amostra que é formada quando amostras de tamanho n são repetidamente colhidas de uma população. Se uma estatística da amostra é a sua média, temos uma distribuição amostral de médias das amostras”. Sobre a distribuição das médias das amostras, leia as asserções que seguem e a relação proposta entre elas.\nI.  A distribuição das médias das amostras tem o mesmo centro que a população, mas não tem a mesma dispersão\nPORQUE\nII. A distribuição de médias das amostras têm a mesma média que a população, mas o desvio padrão é menor que o da população.\nA respeito dessas asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "b. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "c. As asserções I e II são falsas.",
+      "d. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "e. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A asserção I é verdadeira, pois a distribuição das médias das amostras tem o mesmo centro que a população, mas não é tão estendido.  A asserção II é verdadeira e uma justificativa da asserção I, porque a distribuição de médias das amostras têm a mesma média que a população, mas o desvio padrão é menor que o da população."
+  },
+  {
+    "textoDaPergunta": "Pergunta f02 ___ “O teorema do limite central fundamenta o ramo inferencial da estatística. Esse teorema descreve a relação entre a distribuição amostral de médias das amostras e a população das quais as amostras são tiradas. O teorema do limite central é uma ferramenta importante que fornece a informação que você vai precisar ao usar estatísticas amostrais para fazer inferências sobre a média de uma população”. Sobre o teorema do limite central, leia as asserções que seguem e identifique V para as verdadeiras e F para as falsas.\n( ) Quanto maior o tamanho da amostra, mais provável de a média da amostrar estar mais próxima da média populacional.\n( ) Para amostras de tamanho n30, a distribuição amostral da média das amostras pode ser aproximada pela distribuição normal.\n( ) A distribuição amostral da média das amostras tem uma média igual à média da população.\nAssinale a alternativa com a correta associação.",
+    "opcoes": [
+      "a. V - F - V.",
+      "b. V - V - F.",
+      "c. F - V - F.",
+      "d. F - V - V.",
+      "e. V - V - V."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A afirmativa I é verdadeira, pois quanto maior o tamanho da amostra, maior será a aproximação. Por outro lado, quanto menor a amostra, menor a aproximação.  A afirmativa II é verdadeira, pois para amostras com tamanho maior ou igual a 30, a distribuição amostral da média das amostras situa-se próxima da distribuição normal.\nA afirmativa III é verdadeira, pois a distribuição amostral da média das amostras tem uma média igual à média da população, ou seja, mi(sub x)=mi."
+  },
+  {
+    "textoDaPergunta": "Pergunta f03 ___ A Lei dos Grandes Números é um teorema que garante que a média dos resultados obtidos de um grande número de experimentos aleatórios tende a se aproximar do valor esperado da variável aleatória observada.\nSobre a Lei dos Grandes Números, também conhecida por LGN, leia as asserções que seguem e a relação proposta entre elas. \nI.  Se em uma urna há uma mesma quantidade de bolas azuis e vermelhas, então a porcentagem de vezes em que a bola azul será sorteada irá convergir para 50%\nPORQUE\nII. A porcentagem de vezes em que a bola azul será sorteada será um número entre 0 e 100%, que corresponderá exatamente à proporção de bolas azuis na urna. A respeito dessas asserções, assinale a alternativa correta.",
+    "opcoes": [
+      "a. As asserções I e II são falsas.",
+      "b. A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
+      "c. As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.",
+      "d. A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
+      "e. As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "A asserção I é verdadeira, pois de acordo com a Lei dos Grandes Números, se o experimento for realizado várias vezes, a frequência de bolas azuis retiradas sempre irá convergir para um determinado número, que é exatamente a proporção de bolsas azuis que estão na urna.  A asserção II é verdadeira e uma justificativa da I, pois as bolas azuis que serão sorteadas representam 50%."
+  },
+  {
+    "textoDaPergunta": "Pergunta f04 ___ Por definição, a distribuição amostral de médias das amostras tem uma média igual à média da população, ou seja, mi(sub x)=mi, e desvio padrão dado por sigma(sub x)=sigma/raiz de n. Sabendo disso e considerando que a renda média familiar mensal da população de uma determinada cidade é de R$ 3.000,00, com desvio padrão de R$ 750,00, assinale a correta alternativa que contém mi(sub x) e sigma(sub x) para uma amostra aleatória de n=64.",
+    "opcoes": [
+      "a. mi(sub x)=3000 e sigma(sub x)=64.",
+      "b. mi(sub x)=3750 e sigma(sub x)=93,75.",
+      "c. mi(sub x)=3000 e sigma(sub x)=750.",
+      "d. mi(sub x)=3000 e sigma(sub x)=93,75.",
+      "e. mi(sub x)=3000 e sigma(sub x)=11,71."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "Como mi(sub x)=mi, então, mi(sub x)=3000.  \nComo (sigma(sub x)=sigma/raiz de n), então, (sigma(sub x)=750/raiz de 64)=93,75."
+  },
+  {
+    "textoDaPergunta": "Pergunta f05 ___ Este é um importante teorema da teoria da probabilidade, o qual descreve o resultado da realização de um mesmo experimento por várias vezes. De acordo com este teorema, a média aritmética dos resultados da realização do experimento por repetidas vezes tende a aproximar o valor esperado, à medida que mais tentativas são feitas. Assinale a alternativa correta que apresenta o teorema a que estamos nos referindo.",
+    "opcoes": [
+      "a. Lei dos Grandes Números. ",
+      "b. Teorema Central do Limite.",
+      "c. Lei de Chebyshev.",
+      "d. Teorema de Bayes.",
+      "e. Lei dos Pequenos Números."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A Lei dos Grandes Números afirma que quanto mais tentativas são feitas para um experimento, mais a probabilidade da média aritmética dos resultados observados irá se aproximar da probabilidade real."
+  },
+  {
+    "textoDaPergunta": "Pergunta f06 ___ Em um determinado condomínio, as contas de água têm uma média de R$ 150,00 e desvio padrão de R$ 15,00. Amostras aleatórias de 25 contas de água do condomínio são escolhidas dessa população, e a média de cada amostra é determinada. Sabendo disso, assinale a alternativa correta que contém a média e o erro padrão da distribuição das médias amostrais.",
+    "opcoes": [
+      "a. mi(sub x)=150 e sigma(sub x)=5.",
+      "b. mi(sub x)=15  e sigma(sub x)=3.",
+      "c. mi(sub x)=450 e sigma(sub x)=5.",
+      "d. mi(sub x)=150 e sigma(sub x)=15.",
+      "e. mi(sub x)=150 e sigma(sub x)=3."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "Como mi(sub x)=mi, então, mi(sub x)=150.\nComo (sigma(sub x)=sigma/raiz de n). Então, (sigma(sub x)=15/raiz de 25)=3."
+  },
+  {
+    "textoDaPergunta": "Pergunta f07 ___ Os funcionários de uma empresa passam uma média de 32 minutos dirigindo por dia, com desvio padrão de 3 min. Você seleciona aleatoriamente 9 funcionários da empresa. Diante disso, assinale a alternativa correta que apresenta qual é a probabilidade de que a média de tempo que eles passam dirigindo todos os dias para o trabalho seja entre 30 e 34 min.",
+    "opcoes": [
+      "a. 99,99%.",
+      "b. 95,44%",
+      "c. 88,17%.",
+      "d. 98,17%.",
+      "e. 91,45%.  "
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "Como mi(sub x)=mi, então, mi(sub x)=32.\nComo (sigma(sub x)=sigma/raiz de n). Então, (sigma(sub x)=3/raiz de 9)=1.\nP(30<=xbarrado<=34) = P(((30-32)/1)<=z<=((34-32)/1)) = P(-2<=z<=2) => (0,9772-0,0228) => 0,9544"
+  },
+  {
+    "textoDaPergunta": "Pergunta f08 ___ É sabido que o peso médio dos leões de um safari é de 190kg, com um desvio padrão de 14kg. Qual é a probabilidade de que uma pesquisa sobre os pesos dos leões, envolvendo uma amostra de 49 deles, forneça um valor médio diferente do valor populacional por no máximo 2%. Assinale a alternativa correta.",
+    "opcoes": [
+      "a. 91,87%.",
+      "b. 94,26%.",
+      "c. 98,74%.",
+      "d. 81,25%.",
+      "e. 88,72%."
+    ],
+    "indiceRespostaCorreta": 1,
+    "comentario": "Como mi(sub x)=mi, então, mi(sub x)=190. \nComo (sigma(sub x)=sigma/raiz de n). Então, (sigma(sub x)=14/raiz de 49)=2.\nP(186,2<=xbarrado<=193,8) = P(((186,2-190)/2)<=z<=((193,8-190)/2))\n= P(-1,9<=z<=1,9) => (0,9713-0,0287) => 0,9426"
+  },
+  {
+    "textoDaPergunta": "Pergunta f09 ___ Considere que os gastos médios com aplicativos de comida por mês é de R$ 250,00 por pessoa. Você seleciona aleatoriamente 16 pessoas. Qual é a probabilidade de que a média de gastos com aplicativos de comida seja menor do que R$ 262,00? Suponha que os gastos com aplicativos de comida sejam normalmente distribuídos, com desvio padrão de R$ 20,00, e assinale a alternativa correta.",
+    "opcoes": [
+      "a. 86,72%.",
+      "b. 90,87%",
+      "c. 99,18%.",
+      "d. 80,25%.",
+      "e. 94,20%."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "Como mi(sub x)=mi, então, mi(sub x)=250.\nComo (sigma(sub x)=sigma/raiz de n). Então, (sigma(sub x)=20/raiz de 16)=5.\nP(xbarrado<262)=P(z<(262-250)/5) => P(z<2,4) => 0,9918 ou 99,18%."
+  },
+  {
+    "textoDaPergunta": "Pergunta g01 ___ Uma pesquisa selecionou canetas de uma mesma marca para pesar. Foram selecionados 26 aparelhos, em que verificou-se desvio padrão de 0,1 grama. Supondo que os pesos são normalmente distribuídos, construa um intervalo de confiança de 99% para o desvio padrão populacional e assinale a alternativa correta.",
+    "opcoes": [
+      "a. Com 99% de confiança, pode-se dizer que o desvio padrão da população está entre 0,073 e 0,155 grama.",
+      "b. Com 99% de confiança, pode-se dizer que o desvio padrão da população está entre 0,057 e 0,141 grama.",
+      "c. Com 99% de confiança, pode-se dizer que o desvio padrão da população está entre 0,089 e 0,171 grama.",
+      "d. Com 99% de confiança, pode-se dizer que o desvio padrão da população está entre 0,092 e 0,180 grama.",
+      "e. Com 99% de confiança, pode-se dizer que o desvio padrão da população está entre 0,064e 0,145 grama."
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A área à direita é dada por (X(sub R)(sup 2)(1-0,99)/2)=0,005.\nA área à esquerda é dada por (X(sub L)(sup 2)(1+0,99)/2)=0,995.\ngl=(26-1)=25 e c=0,99, logo X(sub R)(sup 2)=46,928 e X(sub L)(sup 2)=10,520.\nEntão, o intervalo de confiança para o desvio padrão é de:  \n(raiz de((26-1)*(0,1)^2)/46,925)<sigma<(raiz de((26-1)*(0,1)^2)/10,520) => 0,073<sigma<0,155."
+  },
+  {
+    "textoDaPergunta": "Pergunta g02 ___ Em uma amostra aleatória de 60 micro-ondas, verificou-se que a média de custos de reparo da amostra é de R$170,00, com desvio padrão amostral de R$ 18,00. Sabendo disso, construa um intervalo de confiança de 99% para a média de custos de reparo dos micro-ondas e assinale a alternativa correta.",
+    "opcoes": [
+      "a. IC = (163,82 ; 176,19)",
+      "b. IC = (164,74 ; 175,26)",
+      "c. IC = (1.643,13 ; 176,87)",
+      "d. IC = (166,13 ; 173,87)",
+      "e. IC = (165,98 ; 174,02)"
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "Para c=0,99, T(sub c(99% , 59 gl)) = 2,6618.\nA margem de erro é de E=(2,6618*18)/raiz de 60 => E=6,19. \nEntão, o intervalo de confiança será de:\nIC(170-6,19 ; 170+6,19) => IC(163,815 ; 176,185)"
+  },
+  {
+    "textoDaPergunta": "Pergunta g03 ___ Você quer encontrar uma estimação intervalar do número de anúncios que aparecem por hora assistida de vídeo no YouTube. Para isto, foram amostrados aleatoriamente 50 vídeos, encontrando-se uma média amostral dos dados de 4 vídeos e a partir de uma consulta a tabela de t student calculou-se a margem de erro de 1,2 vídeos para 49 gl a 95%.  Sabendo disso, com 95% de confiança, é correto o que se afirma em:",
+    "opcoes": [
+      "a. A média populacional do número de vídeos está entre 2,8 e 4.",
+      "b. A média populacional do número de vídeos está entre 1,2 e 4.",
+      "c. A média populacional do número de vídeos está entre 1,2 e 5,2.",
+      "d. A média populacional do número de vídeos está entre 2,8 e 5,2.",
+      "e. A média populacional do número de vídeos está entre 4 e 8."
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "Uma vez que a média dos dados é 4, e que se encontrou uma margem de erro E de 1,2. \nEntão, a estimativa intervalar é dada por: (4-1,2)<mi<(4+1,2) => 2,8<mi<5,2"
+  },
+  {
+    "textoDaPergunta": "Pergunta g04 ___ Uma pesquisa buscou identificar a idade das pessoas que foram assistir a um determinado filme de super-heróis. Na sequência, apresenta-se uma amostra aleatória da idade de 20 pessoas, obtendo-se a média de 19 anos: \n\n|19 | 20 | 24 | 25 | 26 | 21 | 18 | 17 | 16 | 15 |\n|17 | 18 | 16 | 14 | 15 | 20 | 18 | 19 | 20 | 22 |\n\nA partir dos dados apresentados, encontre a estimativa pontual da média populacional e assinale a alternativa correta.",
+    "opcoes": [
+      "a. 21 anos.",
+      "b. 17 anos.",
+      "c. 20 anos.",
+      "d. 18 anos.",
+      "e. 19 anos."
+    ],
+    "indiceRespostaCorreta": 4,
+    "comentario": "Uma vez que a média da idade é de 19 anos, então, a estimativa pontual da média populacional é também 19 anos."
+  },
+  {
+    "textoDaPergunta": "Pergunta g05 ___ O diretor de uma faculdade quer determinar a idade média dos estudantes matriculados na instituição.\nA estimativa precisa estar a 1 ano da média populacional.\nSe ele utilizou a fórmula n=(z(sub x)*sigma/E)^2 para determinar o tamanho\nmínimo da amostra necessária para construir um intervalo de confiança de 95%\npara a média populacional, e encontrou o resultado de 8,64.\nÉ correto dizer que deverão ser entrevistados, pelo menos:",
+    "opcoes": [
+      "a. 6 estudantes",
+      "b. 7 estudantes",
+      "c. 8 estudantes",
+      "d. 9 estudantes",
+      "e. 10 estudantes"
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "Para 95% de confiança, encontrando-se n=8,64.\nPode-se inferir que o tamanho mínimo da amostra deverá ser 9, que é próximo número inteiro."
+  },
+  {
+    "textoDaPergunta": "Pergunta g06 ___ Uma pesquisa selecionou aleatoriamente 20 instituições financeiras\nque realizam financiamento imobiliário para determinar o atual índice de juros.\nVerificou-se que a média da amostra dos juros é de 9,48%, com desvio padrãode 0,42%.\nSabendo disso, construa um intervalo de 99% de confiança para a média\npopulacional do índice de juros do financiamento e assinale a alternativa correta.",
+    "opcoes": [
+      "a. IC = (9,21 ; 9,75)",
+      "b. IC = (9,36 ; 9,6)",
+      "c. IC = (9,33 ; 9,63)",
+      "d. IC = (9,15 ; 9,81)",
+      "e. IC = (9,4 ; 9,56)"
+    ],
+    "indiceRespostaCorreta": 0,
+    "comentario": "A área à direita é dada por (X(sub R)(sup 2)(1-0,99)/2)=0,005.\nA área à esquerda é dada por (X(sub L)(sup 2)(1+0,99)/2)=0,995.\ngl=(26-1)=25 e c=0,99. Logo X(sub R)(sup 2)=46,928 e X(sub L)(sup 2)=10,520\nEntão, o intervalo de confiança para o desvio padrão é de:\n(raiz de((26-1)*((0,1)^2)/46,925))<sigma<(raiz de((26-1)*((0,1)^2)/10,520)) => 0,073<sigma<0,155"
+  },
+  {
+    "textoDaPergunta": "Pergunta g07 ___ Uma seleção aleatória de 30 amostras de salgadinhos foi pesada e verificou-se um desvio padrão da amostra de 1,20 grama.  Supondo que os pesos são normalmente distribuídos, construa um intervalo de confiança de 99% para o desvio padrão da população e assinale a alternativa correta.",
+    "opcoes": [
+      "a. Com 99% de confiança, o desvio padrão populacional está entre 0,82 e 1,70 grama.",
+      "b. Com 99% de confiança, o desvio padrão populacional está entre 0,70 e 1,58 grama.",
+      "c. Com 99% de confiança, o desvio padrão populacional está entre 0,89 e 1,78 grama.",
+      "d. Com 99% de confiança, o desvio padrão populacional está entre 0,62 e 1,49 grama.",
+      "e. Com 99% de confiança, o desvio padrão populacional está entre 0,76 e 1,64 grama."
+    ],
+    "indiceRespostaCorreta": 2,
+    "comentario": "A área à direita é dada por (X(sub R)(sup 2)(1-0,99)/2)=0,005.\nA área à esquerda é dada por (X(sub L)(sup 2)(1+0,99)/2)=0,995.\ngl = 30-1 = 29 e c = 0,99, logo X(sub R)(sup 2)=52,336 e X(sub L)(sup 2)=13,121.\nEntão, o intervalo de confiança para o desvio padrão é de:\n(raiz de((30-1)*((1,2)^2)/52,336))<sigma<(raiz de((30-1)*((1,2)^2)/13,121)) => 0,89<sigma<1,78."
+  },
+  {
+    "textoDaPergunta": "Pergunta g08 ___ Por definição, a margem de erro (E) diz respeito à maior distância entre o ponto de estimativa e o valor do parâmetro estimado, sendo calculada como E=(z(sub c)*sigma/raiz de n). Se um pesquisador encontrou  a margem de erro de 0,019; a um nível de confiança de 95%, para uma amostra de 50 nadadores de 200 metros, que tem um tempo médio de 3,15 min e desvio padrão de 0,07 min, então, é correto dizer que a estimativa da média populacional é dada por:",
+    "opcoes": [
+      "a. 0,07  < mi < 3,15",
+      "b. 3,08  < mi < 3,22",
+      "c. 3,131 < mi < 3,5",
+      "d. 3,131 < mi < 3,169",
+      "e. 0,019 < mi < 0,07"
+    ],
+    "indiceRespostaCorreta": 3,
+    "comentario": "Uma vez que a média dos dados é 3,15, e que se encontrou uma margem de erro E de 0,019. \nEntão, a estimativa intervalar é dada por: (3,15-0,019)<mi<(3,15+0,019) => 3,131<mi<3,169."
+  }
+]
