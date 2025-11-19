@@ -91,20 +91,30 @@ public class QuizApp {
 
     // --- LÓGICA DO MODO PESQUISA (ESTUDO) ---
     private void iniciarModoPesquisa() {
-        String termo = quizView.pedirTermoDeBusca();
-        List<Pergunta> resultados = quizService.pesquisarPorPalavra(termo);
-        
+        // Loop externo: Mantém o usuário no modo de pesquisa até ele querer sair
         while (true) {
-            // Lista os resultados e espera o usuário escolher um número
-            int indiceEscolhido = quizView.escolherResultadoDaBusca(resultados);
-            
-            if (indiceEscolhido == -1) {
-                break; // Usuário escolheu voltar ou lista vazia
+            String termo = quizView.pedirTermoDeBusca();
+
+            // Se o usuário der ENTER vazio, sai do modo pesquisa e volta ao Menu Principal
+            if (termo.trim().isEmpty()) {
+                return; 
             }
+
+            List<Pergunta> resultados = quizService.pesquisarPorPalavra(termo);
             
-            // Mostra a pergunta escolhida em modo "gabarito"
-            Pergunta p = resultados.get(indiceEscolhido);
-            quizView.mostrarPerguntaComResposta(p);
+            // Loop interno: Navega pelos resultados daquela pesquisa específica
+            while (true) {
+                int indiceEscolhido = quizView.escolherResultadoDaBusca(resultados);
+                
+                if (indiceEscolhido == -1) {
+                    break; // Sai dos resultados e pede uma NOVA palavra-chave
+                }
+                
+                // Mostra a pergunta escolhida
+                Pergunta p = resultados.get(indiceEscolhido);
+                quizView.mostrarPerguntaComResposta(p);
+                // Após ver a pergunta, o loop roda de novo mostrando a lista da MESMA pesquisa
+            }
         }
     }
 }

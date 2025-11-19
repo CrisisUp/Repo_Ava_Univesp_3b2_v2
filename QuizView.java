@@ -65,7 +65,10 @@ public class QuizView {
     }
 
     public String pedirTermoDeBusca() {
-        System.out.print(ANSI_YELLOW + "\nDigite a palavra ou frase para pesquisar: " + ANSI_RESET);
+        System.out.println(ANSI_YELLOW + "\n--- NOVA PESQUISA ---" + ANSI_RESET);
+        System.out.println("Digite o termo para buscar.");
+        // Instrução clara de como sair
+        System.out.print("Ou pressione " + ANSI_RED + "ENTER" + ANSI_RESET + " sem digitar nada para voltar ao Menu Principal: ");
         return scanner.nextLine();
     }
 
